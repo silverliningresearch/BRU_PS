@@ -60,6 +60,7 @@ function load_flight_list() {
     {
       if (is_gate_valid(gate_zone, flight.Schengen))
       {
+        
         var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
         var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
         var Flight = '"Flight"' + ":" + '"' +  flightRawList[i].Flight + '", ';
@@ -86,7 +87,8 @@ function load_flight_list() {
 
         var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName + DestinationNameCombine + Show + '"}';
       
-        //console.log("str: ", str);
+        console.log("flightRawList: ", flightRawList[i]);
+        console.log("str: ", str);
 
         flightList.push(JSON.parse(str));
       }
