@@ -5303,8 +5303,5 @@
       {"code": "9999", "name": "Venlo", "catchment": "No", "key": "NL9999", "drive_time": "", "cross_rail": "", "cross_road": ""},
       {"code": "9999", "name": "Voorschoten", "catchment": "No", "key": "NL9999", "drive_time": "", "cross_rail": "", "cross_road": ""},
       {"code": "9999", "name": "Zwolle", "catchment": "No", "key": "NL9999", "drive_time": "", "cross_rail": "", "cross_road": ""}
-      
-      
-
 ]
     `;
