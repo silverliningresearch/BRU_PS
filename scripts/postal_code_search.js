@@ -93,12 +93,17 @@ function update_postal_code_search_box() {
 function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
   api.fn.answers({Q56_postal_code:  selectedPostalCode});
-
+  api.fn.answers({Q56_postal_code_show:  selectedPostalCode});
+  
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
     if (currentPostalCode.show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
       api.fn.answers({Q56_Catchment:  currentPostalCode.catchment});
+      api.fn.answers({Q56_key:  currentPostalCode.key});
+      api.fn.answers({Q56_drive_time:  currentPostalCode.drive_time});
+      api.fn.answers({Q56_cross_rail:  currentPostalCode.cross_rail});
+      api.fn.answers({Q56_cross_road:  currentPostalCode.cross_road});
     }
   }
 
@@ -118,7 +123,7 @@ function show_postal_code_search_box() {
     <datalist id="postalCodehtmlList"> </datalist>`);
     document.getElementById('inputPostalCodeID').value = "";
 
-    var currentValue  = api.fn.answers().Q56_postal_code;
+    var currentValue  = api.fn.answers().Q56_postal_code_show;
     if (currentValue) {
       if (currentValue !== "") {
         document.getElementById('inputPostalCodeID').value = currentValue;
