@@ -14,7 +14,7 @@ function find_postal_code(list, item) {
       }
     }
   }
-  //$('.rt-btn.rt-btn-next').hide(); 
+  $('.rt-btn.rt-btn-next').hide(); 
   return false;
 }
 
@@ -50,7 +50,7 @@ function load_postal_code() {
   postalCodeList.length = 0;
   for (i = 0; i < rawList.length; i++) {
     var item = rawList[i];
-    item.show = item.Code + "-" + item.Name;
+    item.show = item.code + "-" + item.name;
     postalCodeList.push(item);
   }
 
@@ -98,7 +98,7 @@ function select_postal_code() {
     var currentPostalCode = postalCodeShortList[i];
     if (currentPostalCode.show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
-      api.fn.answers({Q56_Catchment:  currentPostalCode.Catchment});
+      api.fn.answers({Q56_Catchment:  currentPostalCode.catchment});
     }
   }
 
