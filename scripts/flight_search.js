@@ -49,7 +49,7 @@ function is_gate_valid (gate_zone, Schengen) {
 }
 
 function load_flight_list() {
-  flightRawList = JSON.parse(cagAirHubFlightRawList);
+  flightRawList = JSON.parse(BRU_FlightRawList);
   flightList = [];
   flightList.length = 0;
   var gate_zone = api.fn.answers().Core_Q3;
@@ -87,9 +87,6 @@ function load_flight_list() {
 
         var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName + DestinationNameCombine + Show + '"}';
       
-        console.log("flightRawList: ", flightRawList[i]);
-        console.log("str: ", str);
-
         flightList.push(JSON.parse(str));
       }
     }
