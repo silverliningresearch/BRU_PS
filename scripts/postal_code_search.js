@@ -43,14 +43,14 @@ function load_postal_code() {
     rawList = JSON.parse(postalCodeNetherlands);
   }
   else {
-    rawList = JSON.parse(postalCodeNone);
+    rawList = JSON.parse(postal_code_All);
   }
   
   postalCodeList = [];
   postalCodeList.length = 0;
   for (i = 0; i < rawList.length; i++) {
     var item = rawList[i];
-    item.show = item.code + "-" + item.name;
+    item.show = item.Code + "-" + item.Name;
     postalCodeList.push(item);
   }
 
@@ -92,18 +92,17 @@ function update_postal_code_search_box() {
 
 function select_postal_code() {
   var selectedPostalCode = document.getElementById('inputPostalCodeID').value;
-  api.fn.answers({Q56_postal_code:  selectedPostalCode});
+  api.fn.answers({Core_Q56:  selectedPostalCode});
   api.fn.answers({Q56_postal_code_show:  selectedPostalCode});
   
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
     if (currentPostalCode.show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
-      api.fn.answers({Q56_Catchment:  currentPostalCode.catchment});
-      api.fn.answers({Q56_key:  currentPostalCode.key});
-      api.fn.answers({Q56_drive_time:  currentPostalCode.drive_time});
-      api.fn.answers({Q56_cross_rail:  currentPostalCode.cross_rail});
-      api.fn.answers({Q56_cross_road:  currentPostalCode.cross_road});
+      api.fn.answers({Core_Q56:  currentPostalCode.Code});
+      api.fn.answers({Q56_Catchment:  currentPostalCode.Catchment});
+      api.fn.answers({Q56_Key:  currentPostalCode.Key});
+      api.fn.answers({Q56_AVM:  currentPostalCode.AVM});
     }
   }
 

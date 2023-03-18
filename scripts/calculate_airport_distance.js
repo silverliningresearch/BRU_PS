@@ -82,6 +82,15 @@ function calculate_distance()
             console.log(" BRU_final_distance: ", BRU_final_distance);
             console.log(" next_final_distance: ", next_final_distance);
 
+            api.fn.answers({Q11_BRU_next_distance: BRU_next_distance}); 
+            api.fn.answers({Q11_BRU_final_distance: BRU_final_distance}); 
+            api.fn.answers({Q11_next_final_distance: next_final_distance}); 
+            
+            api.fn.answers({Q11_next_airport_lat: next_airport_lat}); 
+            api.fn.answers({Q11_next_airport_long: next_airport_long}); 
+            api.fn.answers({Q11_final_airport_lat: final_airport_lat}); 
+            api.fn.answers({Q11_final_airport_long: final_airport_long}); 
+
             if ((BRU_next_distance + BRU_final_distance) > 2*next_final_distance)
             {
               api.fn.answers({Q11_Detour_Check: 1});                 

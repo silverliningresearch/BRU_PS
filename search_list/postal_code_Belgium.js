@@ -1,1181 +1,9381 @@
     let postalCodeBelgium = `
-    [
-     
-      {"code": "1000", "name": "Bruxelles", "catchment": "Yes", "key": "BE1000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1005", "name": "Conseil Region Bruxelles-Capitale", "catchment": "Yes", "key": "BE1005", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1006", "name": "Raad Vlaamse Gemeenschapscommissie", "catchment": "Yes", "key": "BE1006", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1007", "name": "Ass. Commiss. Communau. française", "catchment": "Yes", "key": "BE1007", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1008", "name": "Chambre des Représentants", "catchment": "Yes", "key": "BE1008", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1009", "name": "Senat de Belgique", "catchment": "Yes", "key": "BE1009", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1010", "name": "Cité Administrative de l'Etat", "catchment": "Yes", "key": "BE1010", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1011", "name": "Vlaamse Raad - Vlaams Parlement", "catchment": "Yes", "key": "BE1011", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1012", "name": "Parlement de la Communauté française", "catchment": "Yes", "key": "BE1012", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1020", "name": "Bruxelles Laeken", "catchment": "Yes", "key": "BE1020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1030", "name": "Bruxelles", "catchment": "Yes", "key": "BE1030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1031", "name": "Organisations Sociales Chrétiennes", "catchment": "Yes", "key": "BE1031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1040", "name": "Bruxelles Etterbeek", "catchment": "Yes", "key": "BE1040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1041", "name": "International Press Center", "catchment": "Yes", "key": "BE1041", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1043", "name": "VRT", "catchment": "Yes", "key": "BE1043", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1044", "name": "RTBF", "catchment": "Yes", "key": "BE1044", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1045", "name": "D.I.V.", "catchment": "Yes", "key": "BE1045", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1047", "name": "Parlement Européen", "catchment": "Yes", "key": "BE1047", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1048", "name": "U.E.-Conseil", "catchment": "Yes", "key": "BE1048", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1049", "name": "U.E.-Commission", "catchment": "Yes", "key": "BE1049", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1050", "name": "Bruxelles", "catchment": "Yes", "key": "BE1050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1060", "name": "Bruxelles Saint-Gilles", "catchment": "Yes", "key": "BE1060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1070", "name": "Bruxelles Anderlecht", "catchment": "Yes", "key": "BE1070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1080", "name": "Bruxelles Molenbeek-Saint-Jean", "catchment": "Yes", "key": "BE1080", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1081", "name": "Bruxelles Koekelberg", "catchment": "Yes", "key": "BE1081", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1082", "name": "Bruxelles Berchem-Sainte-Agathe", "catchment": "Yes", "key": "BE1082", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1083", "name": "Bruxelles Ganshoren", "catchment": "Yes", "key": "BE1083", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1090", "name": "Bruxelles", "catchment": "Yes", "key": "BE1090", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1100", "name": "Postcheque", "catchment": "Yes", "key": "BE1100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1105", "name": "SOC", "catchment": "Yes", "key": "BE1105", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1110", "name": "OTAN - NATO", "catchment": "Yes", "key": "BE1110", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1120", "name": "Bruxelles Nederover-Heembeek", "catchment": "Yes", "key": "BE1120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1130", "name": "Bruxelles", "catchment": "Yes", "key": "BE1130", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1140", "name": "Bruxelles Evere", "catchment": "Yes", "key": "BE1140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1150", "name": "Bruxelles Woluwe-Saint-Pierre", "catchment": "Yes", "key": "BE1150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1160", "name": "Bruxelles", "catchment": "Yes", "key": "BE1160", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1170", "name": "Bruxelles", "catchment": "Yes", "key": "BE1170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1180", "name": "Bruxelles Uccle", "catchment": "Yes", "key": "BE1180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1190", "name": "Bruxelles Forest", "catchment": "Yes", "key": "BE1190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1200", "name": "Bruxelles Woluwé-Saint-Lambert", "catchment": "Yes", "key": "BE1200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1201", "name": "R.T.L. - T.V.I.", "catchment": "Yes", "key": "BE1201", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1210", "name": "Bruxelles Saint-Josseten-Noode", "catchment": "Yes", "key": "BE1210", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1212", "name": "SPF Mobilité", "catchment": "Yes", "key": "BE1212", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1300", "name": "Wavre Limal", "catchment": "Yes", "key": "BE1300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1301", "name": "Wavre Bierges", "catchment": "Yes", "key": "BE1301", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1310", "name": "La Hulpe", "catchment": "Yes", "key": "BE1310", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1315", "name": "Incourt Piètrebais", "catchment": "Yes", "key": "BE1315", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1320", "name": "Beauvechain Nodebais", "catchment": "Yes", "key": "BE1320", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1325", "name": "Chaumont-Gistoux Bonlez", "catchment": "Yes", "key": "BE1325", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1330", "name": "Rixensart", "catchment": "Yes", "key": "BE1330", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1331", "name": "Rixensart Rosières", "catchment": "Yes", "key": "BE1331", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1332", "name": "Rixensart Genval", "catchment": "Yes", "key": "BE1332", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1340", "name": "Ottignies-Louvainla-Neuve", "catchment": "Yes", "key": "BE1340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1341", "name": "Ottignies-Louvainla-Neuve Céroux-Mousty", "catchment": "Yes", "key": "BE1341", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1342", "name": "Ottignies-Louvainla-Neuve Limelette", "catchment": "Yes", "key": "BE1342", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1348", "name": "Ottignies-Louvainla-Neuve Louvainla-Neuve", "catchment": "Yes", "key": "BE1348", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1350", "name": "Nivelles Noduwez", "catchment": "Yes", "key": "BE1350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1357", "name": "Florennes Linsmeau", "catchment": "Yes", "key": "BE1357", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1360", "name": "Perwez Orbais", "catchment": "Yes", "key": "BE1360", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1367", "name": "Ramillies Gérompont", "catchment": "Yes", "key": "BE1367", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1370", "name": "Jodoigne Mélin", "catchment": "Yes", "key": "BE1370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1380", "name": "Lasne Lasne-Chapelle-Saint-Lambert", "catchment": "Yes", "key": "BE1380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1390", "name": "Grez-Doiceau Biez", "catchment": "Yes", "key": "BE1390", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1400", "name": "Nivelles", "catchment": "Yes", "key": "BE1400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1401", "name": "Nivelles Baulers", "catchment": "Yes", "key": "BE1401", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1402", "name": "Nivelles Thines", "catchment": "Yes", "key": "BE1402", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1404", "name": "Nivelles Bornival", "catchment": "Yes", "key": "BE1404", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1410", "name": "Waterloo", "catchment": "Yes", "key": "BE1410", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1414", "name": "Promo-Control", "catchment": "Yes", "key": "BE1414", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1420", "name": "Brainel'Alleud Brainel'Alleud", "catchment": "Yes", "key": "BE1420", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1421", "name": "Brainel'Alleud Ophain-Bois-Seigneur-Isaac", "catchment": "Yes", "key": "BE1421", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1428", "name": "Brainel'Alleud", "catchment": "Yes", "key": "BE1428", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1430", "name": "Rebecq Quenast", "catchment": "Yes", "key": "BE1430", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1435", "name": "Mont-Saint-Guibert", "catchment": "Yes", "key": "BE1435", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1440", "name": "Brainele-Château Wauthier-Braine", "catchment": "Yes", "key": "BE1440", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1450", "name": "Chastre Gentinnes", "catchment": "Yes", "key": "BE1450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1457", "name": "Walhain Nil-Saint-Vincent-Saint-Martin", "catchment": "Yes", "key": "BE1457", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1460", "name": "Ittre Virginal-Samme", "catchment": "Yes", "key": "BE1460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1461", "name": "Ittre Haut-Ittre", "catchment": "Yes", "key": "BE1461", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1470", "name": "Genappe Baisy-Thy", "catchment": "Yes", "key": "BE1470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1471", "name": "Genappe Loupoigne", "catchment": "Yes", "key": "BE1471", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1472", "name": "Genappe Vieux-Genappe", "catchment": "Yes", "key": "BE1472", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1473", "name": "Genappe Glabais", "catchment": "Yes", "key": "BE1473", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1474", "name": "Genappe Ways", "catchment": "Yes", "key": "BE1474", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1476", "name": "Genappe Houtainle-Val", "catchment": "Yes", "key": "BE1476", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1480", "name": "Tubize", "catchment": "Yes", "key": "BE1480", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1490", "name": "Court-Saint-Etienne", "catchment": "Yes", "key": "BE1490", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1495", "name": "Villersla-Ville Marbais", "catchment": "Yes", "key": "BE1495", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1500", "name": "Halle", "catchment": "Yes", "key": "BE1500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1501", "name": "Halle", "catchment": "Yes", "key": "BE1501", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1502", "name": "Halle Lembeek", "catchment": "Yes", "key": "BE1502", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1540", "name": "Herne Herfelingen", "catchment": "Yes", "key": "BE1540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1541", "name": "Herne Sint-Pieters-Kapelle", "catchment": "Yes", "key": "BE1541", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1547", "name": "Bever", "catchment": "Yes", "key": "BE1547", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1560", "name": "Hoeilaart", "catchment": "Yes", "key": "BE1560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1570", "name": "Galmaarden", "catchment": "Yes", "key": "BE1570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1600", "name": "Sint-Pieters-Leeuw", "catchment": "Yes", "key": "BE1600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1601", "name": "Sint-Pieters-Leeuw Ruisbroek", "catchment": "Yes", "key": "BE1601", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1602", "name": "Sint-Pieters-Leeuw Vlezenbeek", "catchment": "Yes", "key": "BE1602", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1620", "name": "Drogenbos", "catchment": "Yes", "key": "BE1620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1630", "name": "Linkebeek", "catchment": "Yes", "key": "BE1630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1640", "name": "Sint-Genesius-Rode", "catchment": "Yes", "key": "BE1640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1650", "name": "Beersel", "catchment": "Yes", "key": "BE1650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1651", "name": "Beersel", "catchment": "Yes", "key": "BE1651", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1652", "name": "Beersel", "catchment": "Yes", "key": "BE1652", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1653", "name": "Beersel Dworp", "catchment": "Yes", "key": "BE1653", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1654", "name": "Beersel Huizingen", "catchment": "Yes", "key": "BE1654", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1670", "name": "Pepingen Heikruis", "catchment": "Yes", "key": "BE1670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1671", "name": "Pepingen Elingen", "catchment": "Yes", "key": "BE1671", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1673", "name": "Pepingen Beert", "catchment": "Yes", "key": "BE1673", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1674", "name": "Pepingen Bellingen", "catchment": "Yes", "key": "BE1674", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1700", "name": "Dilbeek", "catchment": "Yes", "key": "BE1700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1701", "name": "Dilbeek", "catchment": "Yes", "key": "BE1701", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1702", "name": "Dilbeek Groot-Bijgaarden", "catchment": "Yes", "key": "BE1702", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1703", "name": "Dilbeek Schepdaal", "catchment": "Yes", "key": "BE1703", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1730", "name": "Asse Mollem", "catchment": "Yes", "key": "BE1730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1731", "name": "Asse Relegem", "catchment": "Yes", "key": "BE1731", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1740", "name": "Ternat", "catchment": "Yes", "key": "BE1740", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1741", "name": "Ternat Wambeek", "catchment": "Yes", "key": "BE1741", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1742", "name": "Ternat Sint-Katherina-Lombeek", "catchment": "Yes", "key": "BE1742", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1745", "name": "Opwijk Mazenzele", "catchment": "Yes", "key": "BE1745", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1750", "name": "Lennik", "catchment": "Yes", "key": "BE1750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1755", "name": "Gooik Oetingen", "catchment": "Yes", "key": "BE1755", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1760", "name": "Roosdaal Pamel", "catchment": "Yes", "key": "BE1760", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1761", "name": "Roosdaal", "catchment": "Yes", "key": "BE1761", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1770", "name": "Liedekerke", "catchment": "Yes", "key": "BE1770", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1780", "name": "Wemmel", "catchment": "Yes", "key": "BE1780", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1785", "name": "Merchtem Hamme", "catchment": "Yes", "key": "BE1785", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1790", "name": "Affligem Essene", "catchment": "Yes", "key": "BE1790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1800", "name": "Vilvoorde Peutie", "catchment": "Yes", "key": "BE1800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1804", "name": "Cargovil", "catchment": "Yes", "key": "BE1804", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1818", "name": "VTM", "catchment": "Yes", "key": "BE1818", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1820", "name": "Steenokkerzeel Perk", "catchment": "Yes", "key": "BE1820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1830", "name": "Machelen", "catchment": "Yes", "key": "BE1830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1831", "name": "Machelen", "catchment": "Yes", "key": "BE1831", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1840", "name": "Londerzeel", "catchment": "Yes", "key": "BE1840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1850", "name": "Grimbergen", "catchment": "Yes", "key": "BE1850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1851", "name": "Grimbergen Humbeek", "catchment": "Yes", "key": "BE1851", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1852", "name": "Grimbergen", "catchment": "Yes", "key": "BE1852", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1853", "name": "Grimbergen Strombeek-Bever", "catchment": "Yes", "key": "BE1853", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1860", "name": "Meise", "catchment": "Yes", "key": "BE1860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1861", "name": "Meise Wolvertem", "catchment": "Yes", "key": "BE1861", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1880", "name": "Kapelleopden-Bos Ramsdonk", "catchment": "Yes", "key": "BE1880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1910", "name": "Kampenhout Buken", "catchment": "Yes", "key": "BE1910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1930", "name": "Zaventem", "catchment": "Yes", "key": "BE1930", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1931", "name": "Brucargo", "catchment": "Yes", "key": "BE1931", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1932", "name": "Zaventem", "catchment": "Yes", "key": "BE1932", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1933", "name": "Zaventem Sterrebeek", "catchment": "Yes", "key": "BE1933", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1934", "name": "Bruxelles X-Aeroport Remailing", "catchment": "Yes", "key": "BE1934", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1950", "name": "Kraainem", "catchment": "Yes", "key": "BE1950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1970", "name": "Wezembeek-Oppem", "catchment": "Yes", "key": "BE1970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1980", "name": "Zemst", "catchment": "Yes", "key": "BE1980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1981", "name": "Zemst Hofstade", "catchment": "Yes", "key": "BE1981", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "1982", "name": "Zemst Weerde", "catchment": "Yes", "key": "BE1982", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2000", "name": "Antwerpen", "catchment": "Yes", "key": "BE2000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2018", "name": "Antwerpen", "catchment": "Yes", "key": "BE2018", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2020", "name": "Antwerpen", "catchment": "Yes", "key": "BE2020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2030", "name": "Antwerpen", "catchment": "Yes", "key": "BE2030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2040", "name": "Antwerpen Berendrecht-Zandvliet-Lillo, Lillo", "catchment": "Yes", "key": "BE2040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2050", "name": "Antwerpen", "catchment": "Yes", "key": "BE2050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2060", "name": "Antwerpen", "catchment": "Yes", "key": "BE2060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2070", "name": "Zwijndrecht", "catchment": "Yes", "key": "BE2070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2100", "name": "Antwerpen Deurne", "catchment": "Yes", "key": "BE2100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2110", "name": "Wijnegem", "catchment": "Yes", "key": "BE2110", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2140", "name": "Antwerpen", "catchment": "Yes", "key": "BE2140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2150", "name": "Borsbeek", "catchment": "Yes", "key": "BE2150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2160", "name": "Wommelgem", "catchment": "Yes", "key": "BE2160", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2170", "name": "Antwerpen", "catchment": "Yes", "key": "BE2170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2180", "name": "Antwerpen", "catchment": "Yes", "key": "BE2180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2200", "name": "Herentals Morkhoven", "catchment": "Yes", "key": "BE2200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2220", "name": "Heistopden-Berg", "catchment": "Yes", "key": "BE2220", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2221", "name": "Heistopden-Berg Booischot", "catchment": "Yes", "key": "BE2221", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2222", "name": "Heistopden-Berg Wiekevorst", "catchment": "Yes", "key": "BE2222", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2223", "name": "Heistopden-Berg Schriek", "catchment": "Yes", "key": "BE2223", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2230", "name": "Herselt", "catchment": "Yes", "key": "BE2230", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2235", "name": "Hulshout", "catchment": "Yes", "key": "BE2235", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2240", "name": "Zandhoven Viersel", "catchment": "Yes", "key": "BE2240", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2242", "name": "Zandhoven", "catchment": "Yes", "key": "BE2242", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2243", "name": "Zandhoven Pulle", "catchment": "Yes", "key": "BE2243", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2250", "name": "Olen", "catchment": "Yes", "key": "BE2250", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2260", "name": "Westerlo Zoerle-Parwijs", "catchment": "Yes", "key": "BE2260", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2270", "name": "Herenthout", "catchment": "Yes", "key": "BE2270", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2275", "name": "Lille Wechelderzande", "catchment": "Yes", "key": "BE2275", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2280", "name": "Grobbendonk", "catchment": "Yes", "key": "BE2280", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2288", "name": "Grobbendonk", "catchment": "Yes", "key": "BE2288", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2290", "name": "Vorselaar", "catchment": "Yes", "key": "BE2290", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2300", "name": "Turnhout", "catchment": "Yes", "key": "BE2300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2310", "name": "Rijkevorsel", "catchment": "Yes", "key": "BE2310", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2320", "name": "Hoogstraten", "catchment": "Yes", "key": "BE2320", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2321", "name": "Hoogstraten Meer", "catchment": "Yes", "key": "BE2321", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2322", "name": "Hoogstraten", "catchment": "Yes", "key": "BE2322", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2323", "name": "Hoogstraten Wortel", "catchment": "Yes", "key": "BE2323", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2328", "name": "Hoogstraten", "catchment": "Yes", "key": "BE2328", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2330", "name": "Merksplas", "catchment": "Yes", "key": "BE2330", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2340", "name": "Beerse", "catchment": "Yes", "key": "BE2340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2350", "name": "Vosselaar", "catchment": "Yes", "key": "BE2350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2360", "name": "Oud-Turnhout", "catchment": "Yes", "key": "BE2360", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2370", "name": "Arendonk", "catchment": "Yes", "key": "BE2370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2380", "name": "Ravels", "catchment": "Yes", "key": "BE2380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2381", "name": "Ravels", "catchment": "Yes", "key": "BE2381", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2382", "name": "Ravels", "catchment": "Yes", "key": "BE2382", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2387", "name": "Baarle-Hertog", "catchment": "Yes", "key": "BE2387", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2390", "name": "Malle", "catchment": "Yes", "key": "BE2390", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2400", "name": "Mol", "catchment": "Yes", "key": "BE2400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2430", "name": "Laakdal Vorst", "catchment": "Yes", "key": "BE2430", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2431", "name": "Herselt Varendonk", "catchment": "Yes", "key": "BE2431", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2440", "name": "Geel", "catchment": "Yes", "key": "BE2440", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2450", "name": "Meerhout", "catchment": "Yes", "key": "BE2450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2460", "name": "Kasterlee Tielen", "catchment": "Yes", "key": "BE2460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2470", "name": "Retie", "catchment": "Yes", "key": "BE2470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2480", "name": "Dessel", "catchment": "Yes", "key": "BE2480", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2490", "name": "Balen", "catchment": "Yes", "key": "BE2490", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2491", "name": "Balen Olmen", "catchment": "Yes", "key": "BE2491", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2500", "name": "Lier", "catchment": "Yes", "key": "BE2500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2520", "name": "Ranst Emblem", "catchment": "Yes", "key": "BE2520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2530", "name": "Boechout", "catchment": "Yes", "key": "BE2530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2531", "name": "Boechout Vremde", "catchment": "Yes", "key": "BE2531", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2540", "name": "Hove", "catchment": "Yes", "key": "BE2540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2547", "name": "Lint", "catchment": "Yes", "key": "BE2547", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2550", "name": "Kontich", "catchment": "Yes", "key": "BE2550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2560", "name": "Nijlen Bevel", "catchment": "Yes", "key": "BE2560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2570", "name": "Duffel", "catchment": "Yes", "key": "BE2570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2580", "name": "Putte Beerzel", "catchment": "Yes", "key": "BE2580", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2590", "name": "Berlaar Gestel", "catchment": "Yes", "key": "BE2590", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2600", "name": "Antwerpen", "catchment": "Yes", "key": "BE2600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2610", "name": "Antwerpen", "catchment": "Yes", "key": "BE2610", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2620", "name": "Hemiksem", "catchment": "Yes", "key": "BE2620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2627", "name": "Schelle", "catchment": "Yes", "key": "BE2627", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2630", "name": "Aartselaar", "catchment": "Yes", "key": "BE2630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2640", "name": "Mortsel", "catchment": "Yes", "key": "BE2640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2650", "name": "Edegem", "catchment": "Yes", "key": "BE2650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2660", "name": "Antwerpen Hoboken", "catchment": "Yes", "key": "BE2660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2800", "name": "Mechelen", "catchment": "Yes", "key": "BE2800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2801", "name": "Mechelen Heffen", "catchment": "Yes", "key": "BE2801", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2811", "name": "Mechelen Hombeek", "catchment": "Yes", "key": "BE2811", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2812", "name": "Mechelen Muizen", "catchment": "Yes", "key": "BE2812", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2820", "name": "Bonheiden", "catchment": "Yes", "key": "BE2820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2830", "name": "Willebroek Tisselt", "catchment": "Yes", "key": "BE2830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2840", "name": "Rumst Terhagen", "catchment": "Yes", "key": "BE2840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2845", "name": "Niel", "catchment": "Yes", "key": "BE2845", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2850", "name": "Boom", "catchment": "Yes", "key": "BE2850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2860", "name": "Sint-Katelijne-Waver", "catchment": "Yes", "key": "BE2860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2861", "name": "Sint-Katelijne-Waver Onze-Lieve-Vrouw-Waver", "catchment": "Yes", "key": "BE2861", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2870", "name": "Puurs Ruisbroek", "catchment": "Yes", "key": "BE2870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2880", "name": "Bornem Hingene", "catchment": "Yes", "key": "BE2880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2890", "name": "Sint-Amands Lippelo", "catchment": "Yes", "key": "BE2890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2900", "name": "Schoten", "catchment": "Yes", "key": "BE2900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2910", "name": "Essen", "catchment": "Yes", "key": "BE2910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2920", "name": "Kalmthout", "catchment": "Yes", "key": "BE2920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2930", "name": "Brasschaat", "catchment": "Yes", "key": "BE2930", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2940", "name": "Stabroek Hoevenen", "catchment": "Yes", "key": "BE2940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2950", "name": "Kapellen", "catchment": "Yes", "key": "BE2950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2960", "name": "Brecht Sint-Jobin't-Goor", "catchment": "Yes", "key": "BE2960", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2970", "name": "Schilde 's Gravenwezel", "catchment": "Yes", "key": "BE2970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2980", "name": "Zoersel Halle", "catchment": "Yes", "key": "BE2980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "2990", "name": "Wuustwezel", "catchment": "Yes", "key": "BE2990", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3000", "name": "Leuven", "catchment": "Yes", "key": "BE3000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3001", "name": "Leuven", "catchment": "Yes", "key": "BE3001", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3010", "name": "Leuven", "catchment": "Yes", "key": "BE3010", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3012", "name": "Leuven Wilsele", "catchment": "Yes", "key": "BE3012", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3018", "name": "Leuven Wijgmaal", "catchment": "Yes", "key": "BE3018", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3020", "name": "Herent Winksele", "catchment": "Yes", "key": "BE3020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3040", "name": "Huldenberg Neerijse", "catchment": "Yes", "key": "BE3040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3050", "name": "Oud-Heverlee", "catchment": "Yes", "key": "BE3050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3051", "name": "Oud-Heverlee Sint-Joris-Weert", "catchment": "Yes", "key": "BE3051", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3052", "name": "Oud-Heverlee Blanden", "catchment": "Yes", "key": "BE3052", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3053", "name": "Oud-Heverlee Haasrode", "catchment": "Yes", "key": "BE3053", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3054", "name": "Oud-Heverlee", "catchment": "Yes", "key": "BE3054", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3060", "name": "Bertem", "catchment": "Yes", "key": "BE3060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3061", "name": "Bertem Leefdaal", "catchment": "Yes", "key": "BE3061", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3070", "name": "Kortenberg", "catchment": "Yes", "key": "BE3070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3071", "name": "Kortenberg Erps-Kwerps", "catchment": "Yes", "key": "BE3071", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3078", "name": "Kortenberg Everberg", "catchment": "Yes", "key": "BE3078", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3080", "name": "Tervuren Vossem", "catchment": "Yes", "key": "BE3080", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3090", "name": "Overijse Terlanen", "catchment": "Yes", "key": "BE3090", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3110", "name": "Rotselaar", "catchment": "Yes", "key": "BE3110", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3111", "name": "Rotselaar Wezemaal", "catchment": "Yes", "key": "BE3111", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3118", "name": "Rotselaar Werchter", "catchment": "Yes", "key": "BE3118", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3120", "name": "Tremelo", "catchment": "Yes", "key": "BE3120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3128", "name": "Tremelo", "catchment": "Yes", "key": "BE3128", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3130", "name": "Begijnendijk", "catchment": "Yes", "key": "BE3130", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3140", "name": "Keerbergen", "catchment": "Yes", "key": "BE3140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3150", "name": "Haacht Wakkerzeel", "catchment": "Yes", "key": "BE3150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3190", "name": "Boortmeerbeek", "catchment": "Yes", "key": "BE3190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3191", "name": "Boortmeerbeek Hever", "catchment": "Yes", "key": "BE3191", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3200", "name": "Aarschot", "catchment": "Yes", "key": "BE3200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3201", "name": "Aarschot", "catchment": "Yes", "key": "BE3201", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3202", "name": "Aarschot Rillaar", "catchment": "Yes", "key": "BE3202", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3210", "name": "Lubbeek", "catchment": "Yes", "key": "BE3210", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3211", "name": "Lubbeek", "catchment": "Yes", "key": "BE3211", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3212", "name": "Lubbeek", "catchment": "Yes", "key": "BE3212", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3220", "name": "Holsbeek", "catchment": "Yes", "key": "BE3220", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3221", "name": "Holsbeek Nieuwrode", "catchment": "Yes", "key": "BE3221", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3270", "name": "Scherpenheuvel-Zichem Scherpenheuvel", "catchment": "Yes", "key": "BE3270", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3271", "name": "Scherpenheuvel-Zichem", "catchment": "Yes", "key": "BE3271", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3272", "name": "Scherpenheuvel-Zichem Testelt", "catchment": "Yes", "key": "BE3272", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3290", "name": "Diest Webbekom", "catchment": "Yes", "key": "BE3290", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3293", "name": "Diest", "catchment": "Yes", "key": "BE3293", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3294", "name": "Diest Molenstede", "catchment": "Yes", "key": "BE3294", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3300", "name": "Tienen Hakendover", "catchment": "Yes", "key": "BE3300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3320", "name": "Hoegaarden", "catchment": "Yes", "key": "BE3320", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3321", "name": "Hoegaarden Outgaarden", "catchment": "Yes", "key": "BE3321", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3350", "name": "Linter", "catchment": "Yes", "key": "BE3350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3360", "name": "Bierbeek Lovenjoel", "catchment": "Yes", "key": "BE3360", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3370", "name": "Boutersem Roosbeek", "catchment": "Yes", "key": "BE3370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3380", "name": "Glabbeek", "catchment": "Yes", "key": "BE3380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3381", "name": "Glabbeek", "catchment": "Yes", "key": "BE3381", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3384", "name": "Glabbeek", "catchment": "Yes", "key": "BE3384", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3390", "name": "Tielt-Winge Sint-Joris-Winge", "catchment": "Yes", "key": "BE3390", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3391", "name": "Tielt-Winge Meensel-Kiezegem", "catchment": "Yes", "key": "BE3391", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3400", "name": "Landen Rumsdorp", "catchment": "Yes", "key": "BE3400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3401", "name": "Landen Walshoutem", "catchment": "Yes", "key": "BE3401", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3404", "name": "Landen Neerlanden", "catchment": "Yes", "key": "BE3404", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3440", "name": "Zoutleeuw", "catchment": "Yes", "key": "BE3440", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3450", "name": "Geetbets", "catchment": "Yes", "key": "BE3450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3454", "name": "Geetbets", "catchment": "Yes", "key": "BE3454", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3460", "name": "Bekkevoort Assent", "catchment": "Yes", "key": "BE3460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3461", "name": "Bekkevoort Molenbeek-Wersbeek", "catchment": "Yes", "key": "BE3461", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3470", "name": "Kortenaken", "catchment": "Yes", "key": "BE3470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3471", "name": "Kortenaken", "catchment": "Yes", "key": "BE3471", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3472", "name": "Kortenaken Kersbeek-Miskom", "catchment": "Yes", "key": "BE3472", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3473", "name": "Kortenaken Waanrode", "catchment": "Yes", "key": "BE3473", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3500", "name": "Hasselt Sint-Lambrechts-Herk", "catchment": "Yes", "key": "BE3500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3501", "name": "Hasselt Wimmertingen", "catchment": "Yes", "key": "BE3501", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3510", "name": "Hasselt Kermt, Spalbeek", "catchment": "Yes", "key": "BE3510", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3511", "name": "Hasselt, Stokrooie", "catchment": "Yes", "key": "BE3511", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3512", "name": "Hasselt", "catchment": "Yes", "key": "BE3512", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3520", "name": "Zonhoven", "catchment": "Yes", "key": "BE3520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3530", "name": "Houthalen-Helchteren Helchteren", "catchment": "Yes", "key": "BE3530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3540", "name": "Herkde-Stad", "catchment": "Yes", "key": "BE3540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3545", "name": "Halen Loksbergen", "catchment": "Yes", "key": "BE3545", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3550", "name": "Heusden-Zolder Zolder", "catchment": "Yes", "key": "BE3550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3560", "name": "Lummen Linkhout", "catchment": "Yes", "key": "BE3560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3570", "name": "Alken", "catchment": "Yes", "key": "BE3570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3580", "name": "Beringen", "catchment": "Yes", "key": "BE3580", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3581", "name": "Beringen Beverlo", "catchment": "Yes", "key": "BE3581", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3582", "name": "Beringen Koersel", "catchment": "Yes", "key": "BE3582", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3583", "name": "Beringen Paal", "catchment": "Yes", "key": "BE3583", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3590", "name": "Diepenbeek", "catchment": "Yes", "key": "BE3590", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3600", "name": "Diepenbeek Genk", "catchment": "Yes", "key": "BE3600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3620", "name": "Lanaken Gellik", "catchment": "Yes", "key": "BE3620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3621", "name": "Lanaken", "catchment": "Yes", "key": "BE3621", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3630", "name": "Maasmechelen Opgrimbie", "catchment": "Yes", "key": "BE3630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3631", "name": "Maasmechelen Uikhoven", "catchment": "Yes", "key": "BE3631", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3640", "name": "Kinrooi Geistingen", "catchment": "Yes", "key": "BE3640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3650", "name": "Dilsen-Stokkem Elen", "catchment": "Yes", "key": "BE3650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3660", "name": "Opglabbeek", "catchment": "Yes", "key": "BE3660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3665", "name": "As", "catchment": "Yes", "key": "BE3665", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3668", "name": "As Nielbij-As", "catchment": "Yes", "key": "BE3668", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3670", "name": "Meeuwen-Gruitrode Wijshagen", "catchment": "Yes", "key": "BE3670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3680", "name": "Maaseik Neeroeteren", "catchment": "Yes", "key": "BE3680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3690", "name": "Zutendaal", "catchment": "Yes", "key": "BE3690", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3700", "name": "Tongeren 's Herenelderen", "catchment": "Yes", "key": "BE3700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3717", "name": "Herstappe", "catchment": "Yes", "key": "BE3717", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3720", "name": "Kortessem", "catchment": "Yes", "key": "BE3720", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3721", "name": "Kortessem", "catchment": "Yes", "key": "BE3721", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3722", "name": "Kortessem", "catchment": "Yes", "key": "BE3722", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3723", "name": "Kortessem", "catchment": "Yes", "key": "BE3723", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3724", "name": "Kortessem", "catchment": "Yes", "key": "BE3724", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3730", "name": "Hoeselt Romershoven", "catchment": "Yes", "key": "BE3730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3732", "name": "Hoeselt Schalkhoven", "catchment": "Yes", "key": "BE3732", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3740", "name": "Bilzen Mopertingen, Rosmeer", "catchment": "Yes", "key": "BE3740", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3742", "name": "Bilzen Martenslinde", "catchment": "Yes", "key": "BE3742", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3746", "name": "Bilzen Hoelbeek", "catchment": "Yes", "key": "BE3746", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3770", "name": "Riemst, Heukelom", "catchment": "Yes", "key": "BE3770", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3790", "name": "Voeren", "catchment": "Yes", "key": "BE3790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3791", "name": "Voeren", "catchment": "Yes", "key": "BE3791", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3792", "name": "Voeren Sint-Pieters-Voeren", "catchment": "Yes", "key": "BE3792", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3793", "name": "Voeren", "catchment": "Yes", "key": "BE3793", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3798", "name": "Voeren 's Gravenvoeren", "catchment": "Yes", "key": "BE3798", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3800", "name": "Sint-Truiden Kerkombij-Sint-Truiden", "catchment": "Yes", "key": "BE3800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3803", "name": "Sint-Truiden Duras", "catchment": "Yes", "key": "BE3803", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3806", "name": "Sint-Truiden Velm", "catchment": "Yes", "key": "BE3806", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3830", "name": "Wellen", "catchment": "Yes", "key": "BE3830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3831", "name": "Wellen Herten", "catchment": "Yes", "key": "BE3831", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3832", "name": "Wellen Ulbeek", "catchment": "Yes", "key": "BE3832", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3840", "name": "Borgloon Kolmont", "catchment": "Yes", "key": "BE3840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3850", "name": "Nieuwerkerken", "catchment": "Yes", "key": "BE3850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3870", "name": "Heers Klein-Gelmen", "catchment": "Yes", "key": "BE3870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3890", "name": "Gingelom Nielbij-Sint-Truiden", "catchment": "Yes", "key": "BE3890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3891", "name": "Gingelom Muizen", "catchment": "Yes", "key": "BE3891", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3900", "name": "Overpelt", "catchment": "Yes", "key": "BE3900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3910", "name": "Neerpelt Grote Heide", "catchment": "Yes", "key": "BE3910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3920", "name": "Lommel", "catchment": "Yes", "key": "BE3920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3930", "name": "Hamont-Achel", "catchment": "Yes", "key": "BE3930", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3940", "name": "Hechtel-Eksel", "catchment": "Yes", "key": "BE3940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3941", "name": "Hechtel-Eksel", "catchment": "Yes", "key": "BE3941", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3945", "name": "Ham Kwaadmechelen", "catchment": "Yes", "key": "BE3945", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3950", "name": "Bocholt Kaulille", "catchment": "Yes", "key": "BE3950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3960", "name": "Bree Opitter, Tongerlo", "catchment": "Yes", "key": "BE3960", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3970", "name": "Leopoldsburg", "catchment": "Yes", "key": "BE3970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3971", "name": "Leopoldsburg Heppen", "catchment": "Yes", "key": "BE3971", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3980", "name": "Tessenderlo", "catchment": "Yes", "key": "BE3980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "3990", "name": "Peer Kleine-Brogel", "catchment": "Yes", "key": "BE3990", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4000", "name": "Liège", "catchment": "Yes", "key": "BE4000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4020", "name": "Liège Wandre", "catchment": "Yes", "key": "BE4020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4030", "name": "Liège Grivegnée", "catchment": "Yes", "key": "BE4030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4031", "name": "Liège Angleur", "catchment": "Yes", "key": "BE4031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4032", "name": "Liège Chênée", "catchment": "Yes", "key": "BE4032", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4040", "name": "Herstal", "catchment": "Yes", "key": "BE4040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4041", "name": "Herstal Milmort", "catchment": "Yes", "key": "BE4041", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4042", "name": "Herstal", "catchment": "Yes", "key": "BE4042", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4050", "name": "Chaudfontaine", "catchment": "Yes", "key": "BE4050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4051", "name": "Chaudfontaine Vauxsous-Chèvremont", "catchment": "Yes", "key": "BE4051", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4052", "name": "Chaudfontaine", "catchment": "Yes", "key": "BE4052", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4053", "name": "Chaudfontaine", "catchment": "Yes", "key": "BE4053", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4090", "name": "F.B.A. (Forces Belges en Allemagne)", "catchment": "Yes", "key": "BE4090", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4100", "name": "Seraing Boncelles", "catchment": "Yes", "key": "BE4100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4101", "name": "Seraing Jemeppesur-Meuse", "catchment": "Yes", "key": "BE4101", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4102", "name": "Seraing Ougrée", "catchment": "Yes", "key": "BE4102", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4120", "name": "Neupré Ehein", "catchment": "Yes", "key": "BE4120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4121", "name": "Neupré Neuvilleen-Condroz", "catchment": "Yes", "key": "BE4121", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4122", "name": "Neupré Plainevaux", "catchment": "Yes", "key": "BE4122", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4130", "name": "Esneux Tilff", "catchment": "Yes", "key": "BE4130", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4140", "name": "Sprimont Gomze-Andoumont", "catchment": "Yes", "key": "BE4140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4141", "name": "Sprimont Louveigné", "catchment": "Yes", "key": "BE4141", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4151", "name": "Anthisnes", "catchment": "Yes", "key": "BE4151", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4160", "name": "Anthisnes", "catchment": "Yes", "key": "BE4160", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4161", "name": "Anthisnes Villersaux-Tours", "catchment": "Yes", "key": "BE4161", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4162", "name": "Anthisnes", "catchment": "Yes", "key": "BE4162", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4163", "name": "Anthisnes Tavier", "catchment": "Yes", "key": "BE4163", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4170", "name": "Comblainau-Pont", "catchment": "Yes", "key": "BE4170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4171", "name": "Comblainau-Pont Poulseur", "catchment": "Yes", "key": "BE4171", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4180", "name": "Hamoir Comblain-Fairon", "catchment": "Yes", "key": "BE4180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4181", "name": "Hamoir", "catchment": "Yes", "key": "BE4181", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4190", "name": "Ferrières Xhoris", "catchment": "Yes", "key": "BE4190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4210", "name": "Burdinne Lamontzée", "catchment": "Yes", "key": "BE4210", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4217", "name": "Héron Waretl'Evêque", "catchment": "Yes", "key": "BE4217", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4218", "name": "Héron Couthuin", "catchment": "Yes", "key": "BE4218", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4219", "name": "Wasseiges", "catchment": "Yes", "key": "BE4219", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4250", "name": "Geer Hollognesur-Geer", "catchment": "Yes", "key": "BE4250", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4252", "name": "Geer Omal", "catchment": "Yes", "key": "BE4252", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4253", "name": "Geer", "catchment": "Yes", "key": "BE4253", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4254", "name": "Geer Ligney", "catchment": "Yes", "key": "BE4254", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4257", "name": "Berloz", "catchment": "Yes", "key": "BE4257", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4260", "name": "Braives Fallais", "catchment": "Yes", "key": "BE4260", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4261", "name": "Braives Latinne", "catchment": "Yes", "key": "BE4261", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4263", "name": "Braives Tourinne", "catchment": "Yes", "key": "BE4263", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4280", "name": "Hannut", "catchment": "Yes", "key": "BE4280", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4287", "name": "Lincent Pellaines", "catchment": "Yes", "key": "BE4287", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4300", "name": "Waremme Oleye", "catchment": "Yes", "key": "BE4300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4317", "name": "Faimes Celles", "catchment": "Yes", "key": "BE4317", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4340", "name": "Awans Othée", "catchment": "Yes", "key": "BE4340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4342", "name": "Awans Hognoul", "catchment": "Yes", "key": "BE4342", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4347", "name": "Fexhele-Haut-Clocher Voroux-Goreux", "catchment": "Yes", "key": "BE4347", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4350", "name": "Remicourt Momalle", "catchment": "Yes", "key": "BE4350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4351", "name": "Remicourt Hodeige", "catchment": "Yes", "key": "BE4351", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4357", "name": "Donceel Haneffe", "catchment": "Yes", "key": "BE4357", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4360", "name": "Oreye", "catchment": "Yes", "key": "BE4360", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4367", "name": "Crisnée", "catchment": "Yes", "key": "BE4367", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4400", "name": "Flémalle Monslez-Liège", "catchment": "Yes", "key": "BE4400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4420", "name": "Saint-Nicolas Tilleur", "catchment": "Yes", "key": "BE4420", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4430", "name": "Ans", "catchment": "Yes", "key": "BE4430", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4431", "name": "Ans", "catchment": "Yes", "key": "BE4431", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4432", "name": "Ans Alleur", "catchment": "Yes", "key": "BE4432", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4450", "name": "Juprelle Slins", "catchment": "Yes", "key": "BE4450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4451", "name": "Juprelle", "catchment": "Yes", "key": "BE4451", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4452", "name": "Juprelle Paifve", "catchment": "Yes", "key": "BE4452", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4453", "name": "Juprelle", "catchment": "Yes", "key": "BE4453", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4458", "name": "Juprelle Fexhe-Slins", "catchment": "Yes", "key": "BE4458", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4460", "name": "Grâce-Hollogne Horion-Hozémont", "catchment": "Yes", "key": "BE4460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4470", "name": "Saint-Georgessur-Meuse", "catchment": "Yes", "key": "BE4470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4480", "name": "Engis Hermallesous-Huy", "catchment": "Yes", "key": "BE4480", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4500", "name": "Huy Ben-Ahin", "catchment": "Yes", "key": "BE4500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4520", "name": "Wanze Bas-Oha", "catchment": "Yes", "key": "BE4520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4530", "name": "Villersle-Bouillet Vieux-Waleffe", "catchment": "Yes", "key": "BE4530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4537", "name": "Verlaine", "catchment": "Yes", "key": "BE4537", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4540", "name": "Amay", "catchment": "Yes", "key": "BE4540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4550", "name": "Nandrin Villersle-Temple", "catchment": "Yes", "key": "BE4550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4557", "name": "Tinlot Ramelot", "catchment": "Yes", "key": "BE4557", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4560", "name": "Clavier Terwagne", "catchment": "Yes", "key": "BE4560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4570", "name": "Marchin", "catchment": "Yes", "key": "BE4570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4577", "name": "Modave Vierset-Barse", "catchment": "Yes", "key": "BE4577", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4590", "name": "Ouffet Warzée", "catchment": "Yes", "key": "BE4590", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4600", "name": "Visé Lixhe", "catchment": "Yes", "key": "BE4600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4601", "name": "Visé Argenteau", "catchment": "Yes", "key": "BE4601", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4602", "name": "Visé", "catchment": "Yes", "key": "BE4602", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4606", "name": "Dalhem", "catchment": "Yes", "key": "BE4606", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4607", "name": "Dalhem Bombaye", "catchment": "Yes", "key": "BE4607", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4608", "name": "Dalhem", "catchment": "Yes", "key": "BE4608", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4610", "name": "Beyne-Heusay", "catchment": "Yes", "key": "BE4610", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4620", "name": "Fléron", "catchment": "Yes", "key": "BE4620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4621", "name": "Fléron Retinne", "catchment": "Yes", "key": "BE4621", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4623", "name": "Fléron Magnée", "catchment": "Yes", "key": "BE4623", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4624", "name": "Fléron", "catchment": "Yes", "key": "BE4624", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4630", "name": "Soumagne", "catchment": "Yes", "key": "BE4630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4631", "name": "Soumagne Evegnée", "catchment": "Yes", "key": "BE4631", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4632", "name": "Soumagne", "catchment": "Yes", "key": "BE4632", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4633", "name": "Soumagne", "catchment": "Yes", "key": "BE4633", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4650", "name": "Herve", "catchment": "Yes", "key": "BE4650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4651", "name": "Herve", "catchment": "Yes", "key": "BE4651", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4652", "name": "Herve Xhendelesse", "catchment": "Yes", "key": "BE4652", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4653", "name": "Herve", "catchment": "Yes", "key": "BE4653", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4654", "name": "Herve", "catchment": "Yes", "key": "BE4654", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4670", "name": "Blégny", "catchment": "Yes", "key": "BE4670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4671", "name": "Blégny Housse", "catchment": "Yes", "key": "BE4671", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4672", "name": "Blégny Saint-Remy", "catchment": "Yes", "key": "BE4672", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4680", "name": "Oupeye Hermée", "catchment": "Yes", "key": "BE4680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4681", "name": "Oupeye Hermallesous-Argenteau", "catchment": "Yes", "key": "BE4681", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4682", "name": "Oupeye Heurele-Romain", "catchment": "Yes", "key": "BE4682", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4683", "name": "Oupeye Vivegnis", "catchment": "Yes", "key": "BE4683", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4684", "name": "Oupeye Haccourt", "catchment": "Yes", "key": "BE4684", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4690", "name": "Bassenge Boirs", "catchment": "Yes", "key": "BE4690", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4700", "name": "Eupen", "catchment": "Yes", "key": "BE4700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4701", "name": "Eupen", "catchment": "Yes", "key": "BE4701", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4710", "name": "Lontzen", "catchment": "Yes", "key": "BE4710", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4711", "name": "Lontzen", "catchment": "Yes", "key": "BE4711", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4720", "name": "Kelmis", "catchment": "Yes", "key": "BE4720", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4721", "name": "Kelmis", "catchment": "Yes", "key": "BE4721", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4728", "name": "Kelmis Hergenrath", "catchment": "Yes", "key": "BE4728", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4730", "name": "Raeren", "catchment": "Yes", "key": "BE4730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4731", "name": "Raeren", "catchment": "Yes", "key": "BE4731", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4750", "name": "Bütgenbach Elsenborn", "catchment": "Yes", "key": "BE4750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4760", "name": "Büllingen Manderfeld", "catchment": "Yes", "key": "BE4760", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4761", "name": "Büllingen Rocherath", "catchment": "Yes", "key": "BE4761", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4770", "name": "Amel Meyrode", "catchment": "Yes", "key": "BE4770", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4771", "name": "Amel", "catchment": "Yes", "key": "BE4771", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4780", "name": "Sankt Vith Sankt Vith", "catchment": "Yes", "key": "BE4780", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4782", "name": "Sankt Vith Schönberg", "catchment": "Yes", "key": "BE4782", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4783", "name": "Sankt Vith Lommersweiler", "catchment": "Yes", "key": "BE4783", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4784", "name": "Sankt Vith", "catchment": "Yes", "key": "BE4784", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4790", "name": "Burg-Reuland", "catchment": "Yes", "key": "BE4790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4791", "name": "Burg-Reuland Thommen", "catchment": "Yes", "key": "BE4791", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4800", "name": "Verviers Lambermont", "catchment": "Yes", "key": "BE4800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4801", "name": "Verviers Stembert", "catchment": "Yes", "key": "BE4801", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4802", "name": "Verviers Heusy", "catchment": "Yes", "key": "BE4802", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4820", "name": "Dison", "catchment": "Yes", "key": "BE4820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4821", "name": "Dison Andrimont", "catchment": "Yes", "key": "BE4821", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4830", "name": "Limbourg", "catchment": "Yes", "key": "BE4830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4831", "name": "Limbourg", "catchment": "Yes", "key": "BE4831", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4834", "name": "Limbourg", "catchment": "Yes", "key": "BE4834", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4837", "name": "Baelen Membach", "catchment": "Yes", "key": "BE4837", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4840", "name": "Welkenraedt", "catchment": "Yes", "key": "BE4840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4841", "name": "Welkenraedt Henri-Chapelle", "catchment": "Yes", "key": "BE4841", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4845", "name": "Jalhay", "catchment": "Yes", "key": "BE4845", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4850", "name": "Plombières", "catchment": "Yes", "key": "BE4850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4851", "name": "Plombières Sippenaeken", "catchment": "Yes", "key": "BE4851", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4852", "name": "Plombières", "catchment": "Yes", "key": "BE4852", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4860", "name": "Pepinster", "catchment": "Yes", "key": "BE4860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4861", "name": "Pepinster", "catchment": "Yes", "key": "BE4861", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4870", "name": "Trooz Nessonvaux", "catchment": "Yes", "key": "BE4870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4877", "name": "Olne", "catchment": "Yes", "key": "BE4877", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4880", "name": "Aubel", "catchment": "Yes", "key": "BE4880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4890", "name": "Thimister-Clermont", "catchment": "Yes", "key": "BE4890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4900", "name": "Spa", "catchment": "Yes", "key": "BE4900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4910", "name": "Theux", "catchment": "Yes", "key": "BE4910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4920", "name": "Aywaille", "catchment": "Yes", "key": "BE4920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4950", "name": "Waimes Sourbrodt", "catchment": "Yes", "key": "BE4950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4960", "name": "Malmedy Bellevaux-Ligneuville", "catchment": "Yes", "key": "BE4960", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4970", "name": "Stavelot Coo", "catchment": "Yes", "key": "BE4970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4980", "name": "Trois-Ponts", "catchment": "Yes", "key": "BE4980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4983", "name": "Trois-Ponts", "catchment": "Yes", "key": "BE4983", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4987", "name": "Stoumont Cheneux", "catchment": "Yes", "key": "BE4987", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "4990", "name": "Lierneux Bra", "catchment": "Yes", "key": "BE4990", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5000", "name": "Namur Beez", "catchment": "Yes", "key": "BE5000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5001", "name": "Namur", "catchment": "Yes", "key": "BE5001", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5002", "name": "Namur Saint-Servais", "catchment": "Yes", "key": "BE5002", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5003", "name": "Namur", "catchment": "Yes", "key": "BE5003", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5004", "name": "Namur", "catchment": "Yes", "key": "BE5004", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5020", "name": "Namur", "catchment": "Yes", "key": "BE5020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5021", "name": "Namur", "catchment": "Yes", "key": "BE5021", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5022", "name": "Namur Cognelée", "catchment": "Yes", "key": "BE5022", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5024", "name": "Namur Gelbressée", "catchment": "Yes", "key": "BE5024", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5030", "name": "Gembloux Grand-Manil", "catchment": "Yes", "key": "BE5030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5031", "name": "Gembloux", "catchment": "Yes", "key": "BE5031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5032", "name": "Gembloux", "catchment": "Yes", "key": "BE5032", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5060", "name": "Sambreville Falisolle", "catchment": "Yes", "key": "BE5060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5070", "name": "Fossesla-Ville", "catchment": "Yes", "key": "BE5070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5080", "name": "La Bruyère Rhisnes", "catchment": "Yes", "key": "BE5080", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5081", "name": "La Bruyère Saint-Denis-Bovesse", "catchment": "Yes", "key": "BE5081", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5100", "name": "Namur Naninne", "catchment": "Yes", "key": "BE5100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5101", "name": "Namur Livessur-Meuse", "catchment": "Yes", "key": "BE5101", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5140", "name": "Sombreffe", "catchment": "Yes", "key": "BE5140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5150", "name": "Floreffe", "catchment": "Yes", "key": "BE5150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5170", "name": "Profondeville Arbre", "catchment": "Yes", "key": "BE5170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5190", "name": "Jemeppesur-Sambre Spy", "catchment": "Yes", "key": "BE5190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5300", "name": "Andenne Sclayn", "catchment": "Yes", "key": "BE5300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5310", "name": "Eghezée Branchon", "catchment": "Yes", "key": "BE5310", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5330", "name": "Assesse Sart-Bernard", "catchment": "Yes", "key": "BE5330", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5332", "name": "Assesse Crupet", "catchment": "Yes", "key": "BE5332", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5333", "name": "Assesse Sorinnela-Longue", "catchment": "Yes", "key": "BE5333", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5334", "name": "Assesse", "catchment": "Yes", "key": "BE5334", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5336", "name": "Assesse", "catchment": "Yes", "key": "BE5336", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5340", "name": "Gesves Haltinne", "catchment": "Yes", "key": "BE5340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5350", "name": "Ohey", "catchment": "Yes", "key": "BE5350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5351", "name": "Ohey Haillot", "catchment": "Yes", "key": "BE5351", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5352", "name": "Ohey Perwez", "catchment": "Yes", "key": "BE5352", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5353", "name": "Ohey", "catchment": "Yes", "key": "BE5353", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5354", "name": "Ohey", "catchment": "Yes", "key": "BE5354", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5360", "name": "Hamois", "catchment": "Yes", "key": "BE5360", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5361", "name": "Hamois Mohiville", "catchment": "Yes", "key": "BE5361", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5362", "name": "Hamois", "catchment": "Yes", "key": "BE5362", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5363", "name": "Hamois", "catchment": "Yes", "key": "BE5363", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5364", "name": "Hamois Schaltin", "catchment": "Yes", "key": "BE5364", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5370", "name": "Havelange Porcheresse", "catchment": "Yes", "key": "BE5370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5372", "name": "Havelange", "catchment": "Yes", "key": "BE5372", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5374", "name": "Havelange", "catchment": "Yes", "key": "BE5374", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5376", "name": "Havelange Miécret", "catchment": "Yes", "key": "BE5376", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5377", "name": "Somme-Leuze Waillet", "catchment": "Yes", "key": "BE5377", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5380", "name": "Fernelmont Bierwart", "catchment": "Yes", "key": "BE5380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5500", "name": "Dinant", "catchment": "Yes", "key": "BE5500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5501", "name": "Dinant", "catchment": "Yes", "key": "BE5501", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5502", "name": "Dinant Thynes", "catchment": "Yes", "key": "BE5502", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5503", "name": "Dinant", "catchment": "Yes", "key": "BE5503", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5504", "name": "Dinant", "catchment": "Yes", "key": "BE5504", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5520", "name": "Onhaye Anthée", "catchment": "Yes", "key": "BE5520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5521", "name": "Onhaye", "catchment": "Yes", "key": "BE5521", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5522", "name": "Onhaye", "catchment": "Yes", "key": "BE5522", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5523", "name": "Onhaye Weillen", "catchment": "Yes", "key": "BE5523", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5524", "name": "Onhaye", "catchment": "Yes", "key": "BE5524", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5530", "name": "Yvoir Dorinne", "catchment": "Yes", "key": "BE5530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5537", "name": "Anhée Hautle-Wastia", "catchment": "Yes", "key": "BE5537", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5540", "name": "Hastière Hastière-Lavaux", "catchment": "Yes", "key": "BE5540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5541", "name": "Hastière", "catchment": "Yes", "key": "BE5541", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5542", "name": "Hastière Blaimont", "catchment": "Yes", "key": "BE5542", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5543", "name": "Hastière Heer", "catchment": "Yes", "key": "BE5543", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5544", "name": "Hastière Agimont", "catchment": "Yes", "key": "BE5544", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5550", "name": "Vressesur-Semois Mouzaive", "catchment": "Yes", "key": "BE5550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5555", "name": "Bièvre Cornimont", "catchment": "Yes", "key": "BE5555", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5560", "name": "Houyet Ciergnon", "catchment": "Yes", "key": "BE5560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5561", "name": "Houyet Celles", "catchment": "Yes", "key": "BE5561", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5562", "name": "Houyet", "catchment": "Yes", "key": "BE5562", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5563", "name": "Houyet Hour", "catchment": "Yes", "key": "BE5563", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5564", "name": "Houyet Wanlin", "catchment": "Yes", "key": "BE5564", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5570", "name": "Beauraing Dion", "catchment": "Yes", "key": "BE5570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5571", "name": "Beauraing", "catchment": "Yes", "key": "BE5571", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5572", "name": "Beauraing", "catchment": "Yes", "key": "BE5572", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5573", "name": "Beauraing Martouzin-Neuville", "catchment": "Yes", "key": "BE5573", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5574", "name": "Beauraing Pondrôme", "catchment": "Yes", "key": "BE5574", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5575", "name": "Gedinne Sart-Custinne", "catchment": "Yes", "key": "BE5575", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5576", "name": "Beauraing Froidfontaine", "catchment": "Yes", "key": "BE5576", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5580", "name": "Rochefort Eprave", "catchment": "Yes", "key": "BE5580", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5590", "name": "Ciney Chevetogne", "catchment": "Yes", "key": "BE5590", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5600", "name": "Philippeville Samart", "catchment": "Yes", "key": "BE5600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5620", "name": "Florennes Morville", "catchment": "Yes", "key": "BE5620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5621", "name": "Florennes Hanzinelle", "catchment": "Yes", "key": "BE5621", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5630", "name": "Cerfontaine Soumoy", "catchment": "Yes", "key": "BE5630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5640", "name": "Mettet Oret", "catchment": "Yes", "key": "BE5640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5641", "name": "Mettet", "catchment": "Yes", "key": "BE5641", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5644", "name": "Mettet Ermetonsur-Biert", "catchment": "Yes", "key": "BE5644", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5646", "name": "Mettet Stave", "catchment": "Yes", "key": "BE5646", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5650", "name": "Walcourt Clermont", "catchment": "Yes", "key": "BE5650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5651", "name": "Walcourt Rognée", "catchment": "Yes", "key": "BE5651", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5660", "name": "Couvin Culdes-Sarts", "catchment": "Yes", "key": "BE5660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5670", "name": "Viroinval", "catchment": "Yes", "key": "BE5670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "5680", "name": "Doische Matagnela-Grande", "catchment": "Yes", "key": "BE5680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6000", "name": "Charleroi", "catchment": "Yes", "key": "BE6000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6001", "name": "Charleroi", "catchment": "Yes", "key": "BE6001", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6010", "name": "Charleroi Couillet", "catchment": "Yes", "key": "BE6010", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6020", "name": "Charleroi", "catchment": "Yes", "key": "BE6020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6030", "name": "Charleroi", "catchment": "Yes", "key": "BE6030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6031", "name": "Charleroi", "catchment": "Yes", "key": "BE6031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6032", "name": "Charleroi Montsur-Marchienne", "catchment": "Yes", "key": "BE6032", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6040", "name": "Charleroi", "catchment": "Yes", "key": "BE6040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6041", "name": "Charleroi Gosselies", "catchment": "Yes", "key": "BE6041", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6042", "name": "Charleroi Lodelinsart", "catchment": "Yes", "key": "BE6042", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6043", "name": "Charleroi Ransart", "catchment": "Yes", "key": "BE6043", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6044", "name": "Charleroi", "catchment": "Yes", "key": "BE6044", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6060", "name": "Charleroi", "catchment": "Yes", "key": "BE6060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6061", "name": "Charleroi", "catchment": "Yes", "key": "BE6061", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6110", "name": "Montignyle-Tilleul", "catchment": "Yes", "key": "BE6110", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6111", "name": "Montignyle-Tilleul Landelies", "catchment": "Yes", "key": "BE6111", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6120", "name": "Hamsur-Heure-Nalinnes", "catchment": "Yes", "key": "BE6120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6140", "name": "Fontainel'Evêque", "catchment": "Yes", "key": "BE6140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6141", "name": "Fontainel'Evêque Forchiesla-Marche", "catchment": "Yes", "key": "BE6141", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6142", "name": "Fontainel'Evêque", "catchment": "Yes", "key": "BE6142", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6150", "name": "Anderlues", "catchment": "Yes", "key": "BE6150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6180", "name": "Courcelles", "catchment": "Yes", "key": "BE6180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6181", "name": "Courcelles", "catchment": "Yes", "key": "BE6181", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6182", "name": "Courcelles Souvret", "catchment": "Yes", "key": "BE6182", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6183", "name": "Courcelles Trazegnies", "catchment": "Yes", "key": "BE6183", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6200", "name": "Châtelet Châtelineau", "catchment": "Yes", "key": "BE6200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6210", "name": "Les Bons Villers Frasneslez-Gosselies", "catchment": "Yes", "key": "BE6210", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6211", "name": "Les Bons Villers", "catchment": "Yes", "key": "BE6211", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6220", "name": "Fleurus Lambusart", "catchment": "Yes", "key": "BE6220", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6221", "name": "Fleurus", "catchment": "Yes", "key": "BE6221", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6222", "name": "Fleurus", "catchment": "Yes", "key": "BE6222", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6223", "name": "Fleurus", "catchment": "Yes", "key": "BE6223", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6224", "name": "Fleurus", "catchment": "Yes", "key": "BE6224", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6230", "name": "Pontà-Celles Viesville", "catchment": "Yes", "key": "BE6230", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6238", "name": "Pontà-Celles", "catchment": "Yes", "key": "BE6238", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6240", "name": "Farciennes", "catchment": "Yes", "key": "BE6240", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6250", "name": "Aiseau-Presles Roselies", "catchment": "Yes", "key": "BE6250", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6280", "name": "Gerpinnes Loverval", "catchment": "Yes", "key": "BE6280", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6440", "name": "Froidchapelle Boussulez-Walcourt", "catchment": "Yes", "key": "BE6440", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6441", "name": "Froidchapelle Erpion", "catchment": "Yes", "key": "BE6441", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6460", "name": "Chimay Villersla-Tour", "catchment": "Yes", "key": "BE6460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6461", "name": "Chimay", "catchment": "Yes", "key": "BE6461", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6462", "name": "Chimay", "catchment": "Yes", "key": "BE6462", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6463", "name": "Chimay", "catchment": "Yes", "key": "BE6463", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6464", "name": "Chimay", "catchment": "Yes", "key": "BE6464", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6470", "name": "Sivry-Rance Montbliart", "catchment": "Yes", "key": "BE6470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6500", "name": "Beaumont Barbençon", "catchment": "Yes", "key": "BE6500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6511", "name": "Beaumont Strée", "catchment": "Yes", "key": "BE6511", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6530", "name": "Thuin Leerset-Fosteau", "catchment": "Yes", "key": "BE6530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6531", "name": "Thuin Biesmesous-Thuin", "catchment": "Yes", "key": "BE6531", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6532", "name": "Thuin Ragnies", "catchment": "Yes", "key": "BE6532", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6533", "name": "Thuin", "catchment": "Yes", "key": "BE6533", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6534", "name": "Thuin Gozée", "catchment": "Yes", "key": "BE6534", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6536", "name": "Thuin Thuillies", "catchment": "Yes", "key": "BE6536", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6540", "name": "Lobbes Mont-Sainte-Geneviève", "catchment": "Yes", "key": "BE6540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6542", "name": "Lobbes Sarsla-Buissière", "catchment": "Yes", "key": "BE6542", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6543", "name": "Lobbes Biennelez-Happart", "catchment": "Yes", "key": "BE6543", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6560", "name": "Erquelinnes Grand-Reng", "catchment": "Yes", "key": "BE6560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6567", "name": "Merbesle-Château Labuissière", "catchment": "Yes", "key": "BE6567", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6590", "name": "Momignies", "catchment": "Yes", "key": "BE6590", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6591", "name": "Momignies", "catchment": "Yes", "key": "BE6591", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6592", "name": "Momignies Monceau-Imbrechies", "catchment": "Yes", "key": "BE6592", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6593", "name": "Momignies Macquenoise", "catchment": "Yes", "key": "BE6593", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6594", "name": "Momignies Beauwelz", "catchment": "Yes", "key": "BE6594", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6596", "name": "Momignies Forge-Philippe", "catchment": "Yes", "key": "BE6596", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6600", "name": "Bastogne", "catchment": "Yes", "key": "BE6600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6630", "name": "Martelange", "catchment": "Yes", "key": "BE6630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6637", "name": "Fauvillers", "catchment": "Yes", "key": "BE6637", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6640", "name": "Vaux-sur-Sûre Hompré", "catchment": "Yes", "key": "BE6640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6642", "name": "Juseret", "catchment": "Yes", "key": "BE6642", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6660", "name": "Houffalize", "catchment": "Yes", "key": "BE6660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6661", "name": "Houffalize Mont", "catchment": "Yes", "key": "BE6661", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6662", "name": "Houffalize Tavigny", "catchment": "Yes", "key": "BE6662", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6663", "name": "Houffalize Mabompré", "catchment": "Yes", "key": "BE6663", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6666", "name": "Houffalize Wibrin", "catchment": "Yes", "key": "BE6666", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6670", "name": "Gouvy", "catchment": "Yes", "key": "BE6670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6671", "name": "Gouvy", "catchment": "Yes", "key": "BE6671", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6672", "name": "Gouvy Beho", "catchment": "Yes", "key": "BE6672", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6673", "name": "Gouvy Cherain", "catchment": "Yes", "key": "BE6673", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6674", "name": "Gouvy", "catchment": "Yes", "key": "BE6674", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6680", "name": "Sainte-Ode Tillet", "catchment": "Yes", "key": "BE6680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6681", "name": "Sainte-Ode", "catchment": "Yes", "key": "BE6681", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6686", "name": "Bertogne Flamierge", "catchment": "Yes", "key": "BE6686", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6687", "name": "Bertogne", "catchment": "Yes", "key": "BE6687", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6688", "name": "Bertogne Longchamps", "catchment": "Yes", "key": "BE6688", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6690", "name": "Vielsalm", "catchment": "Yes", "key": "BE6690", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6692", "name": "Vielsalm", "catchment": "Yes", "key": "BE6692", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6698", "name": "Vielsalm", "catchment": "Yes", "key": "BE6698", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6700", "name": "Arlon Toernich", "catchment": "Yes", "key": "BE6700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6704", "name": "Arlon Guirsch", "catchment": "Yes", "key": "BE6704", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6706", "name": "Arlon Autelbas", "catchment": "Yes", "key": "BE6706", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6717", "name": "Attert Nobressart", "catchment": "Yes", "key": "BE6717", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6720", "name": "Habay Habayla-Neuve", "catchment": "Yes", "key": "BE6720", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6721", "name": "Habay", "catchment": "Yes", "key": "BE6721", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6723", "name": "Habay Habayla-Vieille", "catchment": "Yes", "key": "BE6723", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6724", "name": "Habay Marbehan", "catchment": "Yes", "key": "BE6724", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6730", "name": "Tintigny Rossignol", "catchment": "Yes", "key": "BE6730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6740", "name": "Etalle", "catchment": "Yes", "key": "BE6740", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6741", "name": "Etalle", "catchment": "Yes", "key": "BE6741", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6742", "name": "Etalle", "catchment": "Yes", "key": "BE6742", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6743", "name": "Etalle", "catchment": "Yes", "key": "BE6743", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6747", "name": "Saint-Léger Meixle-Tige", "catchment": "Yes", "key": "BE6747", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6750", "name": "Musson Signeulx", "catchment": "Yes", "key": "BE6750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6760", "name": "Virton Ruette", "catchment": "Yes", "key": "BE6760", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6761", "name": "Virton", "catchment": "Yes", "key": "BE6761", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6762", "name": "Virton Saint-Mard", "catchment": "Yes", "key": "BE6762", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6767", "name": "Rouvroy Harnoncourt", "catchment": "Yes", "key": "BE6767", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6769", "name": "Meixdevant-Virton Robelmont", "catchment": "Yes", "key": "BE6769", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6780", "name": "Messancy Hondelange", "catchment": "Yes", "key": "BE6780", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6781", "name": "Messancy", "catchment": "Yes", "key": "BE6781", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6782", "name": "Messancy Habergy", "catchment": "Yes", "key": "BE6782", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6790", "name": "Aubange", "catchment": "Yes", "key": "BE6790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6791", "name": "Aubange", "catchment": "Yes", "key": "BE6791", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6792", "name": "Aubange", "catchment": "Yes", "key": "BE6792", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6800", "name": "Libramont-Chevigny Recogne", "catchment": "Yes", "key": "BE6800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6810", "name": "Chiny Izel", "catchment": "Yes", "key": "BE6810", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6811", "name": "Chiny Les Bulles", "catchment": "Yes", "key": "BE6811", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6812", "name": "Chiny Suxy", "catchment": "Yes", "key": "BE6812", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6813", "name": "Chiny Termes", "catchment": "Yes", "key": "BE6813", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6820", "name": "Florenville", "catchment": "Yes", "key": "BE6820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6821", "name": "Florenville", "catchment": "Yes", "key": "BE6821", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6823", "name": "Florenville", "catchment": "Yes", "key": "BE6823", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6824", "name": "Florenville Chassepierre", "catchment": "Yes", "key": "BE6824", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6830", "name": "Bouillon Les Hayons", "catchment": "Yes", "key": "BE6830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6831", "name": "Bouillon", "catchment": "Yes", "key": "BE6831", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6832", "name": "Bouillon", "catchment": "Yes", "key": "BE6832", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6833", "name": "Bouillon Vivy", "catchment": "Yes", "key": "BE6833", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6834", "name": "Bouillon", "catchment": "Yes", "key": "BE6834", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6836", "name": "Bouillon", "catchment": "Yes", "key": "BE6836", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6838", "name": "Bouillon Corbion", "catchment": "Yes", "key": "BE6838", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6840", "name": "Neufchâteau Hamipré", "catchment": "Yes", "key": "BE6840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6850", "name": "Paliseul", "catchment": "Yes", "key": "BE6850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6851", "name": "Paliseul Nollevaux", "catchment": "Yes", "key": "BE6851", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6852", "name": "Paliseul Opont", "catchment": "Yes", "key": "BE6852", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6853", "name": "Paliseul", "catchment": "Yes", "key": "BE6853", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6856", "name": "Paliseul Faysles-Veneurs", "catchment": "Yes", "key": "BE6856", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6860", "name": "Léglise", "catchment": "Yes", "key": "BE6860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6870", "name": "Saint-Hubert Hatrival", "catchment": "Yes", "key": "BE6870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6880", "name": "Bertrix Jehonville", "catchment": "Yes", "key": "BE6880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6887", "name": "Herbeumont Saint-Médard", "catchment": "Yes", "key": "BE6887", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6890", "name": "Libin Transinne", "catchment": "Yes", "key": "BE6890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6900", "name": "Marche-en-Famenne Humain", "catchment": "Yes", "key": "BE6900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6920", "name": "Wellin", "catchment": "Yes", "key": "BE6920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6921", "name": "Wellin", "catchment": "Yes", "key": "BE6921", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6922", "name": "Wellin Halma", "catchment": "Yes", "key": "BE6922", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6924", "name": "Wellin", "catchment": "Yes", "key": "BE6924", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6927", "name": "Tellin", "catchment": "Yes", "key": "BE6927", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6929", "name": "Daverdisse Haut-Fays", "catchment": "Yes", "key": "BE6929", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6940", "name": "Durbuy Wéris", "catchment": "Yes", "key": "BE6940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6941", "name": "Durbuy", "catchment": "Yes", "key": "BE6941", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6950", "name": "Nassogne", "catchment": "Yes", "key": "BE6950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6951", "name": "Nassogne Bande", "catchment": "Yes", "key": "BE6951", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6952", "name": "Nassogne Grune", "catchment": "Yes", "key": "BE6952", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6953", "name": "Nassogne Lesterny", "catchment": "Yes", "key": "BE6953", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6960", "name": "Manhay Harre", "catchment": "Yes", "key": "BE6960", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6970", "name": "Tenneville", "catchment": "Yes", "key": "BE6970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6971", "name": "Tenneville", "catchment": "Yes", "key": "BE6971", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6972", "name": "Tenneville", "catchment": "Yes", "key": "BE6972", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6980", "name": "La Rocheen-Ardenne Beausaint", "catchment": "Yes", "key": "BE6980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6982", "name": "La Rocheen-Ardenne Samrée", "catchment": "Yes", "key": "BE6982", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6983", "name": "La Rocheen-Ardenne", "catchment": "Yes", "key": "BE6983", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6984", "name": "La Rocheen-Ardenne Hives", "catchment": "Yes", "key": "BE6984", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6986", "name": "La Rocheen-Ardenne Halleux", "catchment": "Yes", "key": "BE6986", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6987", "name": "Rendeux", "catchment": "Yes", "key": "BE6987", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6990", "name": "Hotton Fronville", "catchment": "Yes", "key": "BE6990", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "6997", "name": "Erezée Mormont", "catchment": "Yes", "key": "BE6997", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7000", "name": "Mons", "catchment": "Yes", "key": "BE7000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7010", "name": "S.H.A.P.E. Belgique", "catchment": "Yes", "key": "BE7010", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7011", "name": "Mons", "catchment": "Yes", "key": "BE7011", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7012", "name": "Mons Flénu", "catchment": "Yes", "key": "BE7012", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7020", "name": "Mons Casteau,Maisières,Masnuy-Saint-Jean", "catchment": "Yes", "key": "BE7020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7021", "name": "Mons", "catchment": "Yes", "key": "BE7021", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7022", "name": "Mons Mesvin", "catchment": "Yes", "key": "BE7022", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7024", "name": "Mons", "catchment": "Yes", "key": "BE7024", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7030", "name": "Mons", "catchment": "Yes", "key": "BE7030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7031", "name": "Mons", "catchment": "Yes", "key": "BE7031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7032", "name": "Mons Spiennes", "catchment": "Yes", "key": "BE7032", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7033", "name": "Mons Cuesmes", "catchment": "Yes", "key": "BE7033", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7034", "name": "Mons", "catchment": "Yes", "key": "BE7034", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7040", "name": "Quévy Quévyle-Grand", "catchment": "Yes", "key": "BE7040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7041", "name": "Quévy Givry", "catchment": "Yes", "key": "BE7041", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7050", "name": "Jurbise Erbaut", "catchment": "Yes", "key": "BE7050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7060", "name": "Soignies Horrues", "catchment": "Yes", "key": "BE7060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7061", "name": "Soignies Casteau", "catchment": "Yes", "key": "BE7061", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7062", "name": "Soignies Naast", "catchment": "Yes", "key": "BE7062", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7063", "name": "Soignies", "catchment": "Yes", "key": "BE7063", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7070", "name": "Le Roeulx Thieu", "catchment": "Yes", "key": "BE7070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7080", "name": "Frameries Sarsla-Bruyère", "catchment": "Yes", "key": "BE7080", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7090", "name": "Brainele-Comte Ronquières", "catchment": "Yes", "key": "BE7090", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7100", "name": "La Louvière Saint-Vaast", "catchment": "Yes", "key": "BE7100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7110", "name": "La Louvière Houdeng-Goegnies", "catchment": "Yes", "key": "BE7110", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7120", "name": "Estinnes Estinnesau-Val", "catchment": "Yes", "key": "BE7120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7130", "name": "Binche", "catchment": "Yes", "key": "BE7130", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7131", "name": "Binche", "catchment": "Yes", "key": "BE7131", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7133", "name": "Binche", "catchment": "Yes", "key": "BE7133", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7134", "name": "Binche Leval-Trahegnies", "catchment": "Yes", "key": "BE7134", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7140", "name": "Morlanwelz", "catchment": "Yes", "key": "BE7140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7141", "name": "Morlanwelz Mont-Sainte-Aldegonde", "catchment": "Yes", "key": "BE7141", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7160", "name": "Chapellelez-Herlaimont Godarville", "catchment": "Yes", "key": "BE7160", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7170", "name": "Manage Boisd'Haine", "catchment": "Yes", "key": "BE7170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7180", "name": "Seneffe", "catchment": "Yes", "key": "BE7180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7181", "name": "Seneffe Familleureux", "catchment": "Yes", "key": "BE7181", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7190", "name": "Ecaussinnes", "catchment": "Yes", "key": "BE7190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7191", "name": "Ecaussinnes Ecaussinnes-Lalaing", "catchment": "Yes", "key": "BE7191", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7300", "name": "Boussu", "catchment": "Yes", "key": "BE7300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7301", "name": "Boussu Hornu", "catchment": "Yes", "key": "BE7301", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7320", "name": "Bernissart", "catchment": "Yes", "key": "BE7320", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7321", "name": "Bernissart", "catchment": "Yes", "key": "BE7321", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7322", "name": "Bernissart Pommeroeul", "catchment": "Yes", "key": "BE7322", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7330", "name": "Saint-Ghislain", "catchment": "Yes", "key": "BE7330", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7331", "name": "Saint-Ghislain Baudour", "catchment": "Yes", "key": "BE7331", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7332", "name": "Saint-Ghislain", "catchment": "Yes", "key": "BE7332", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7333", "name": "Saint-Ghislain Tertre", "catchment": "Yes", "key": "BE7333", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7334", "name": "Saint-Ghislain Villerot", "catchment": "Yes", "key": "BE7334", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7340", "name": "Colfontaine Pâturages", "catchment": "Yes", "key": "BE7340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7350", "name": "Hensies Montroeulsur-Haine", "catchment": "Yes", "key": "BE7350", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7370", "name": "Dour Elouges", "catchment": "Yes", "key": "BE7370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7380", "name": "Quiévrain Baisieux", "catchment": "Yes", "key": "BE7380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7382", "name": "Quiévrain", "catchment": "Yes", "key": "BE7382", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7387", "name": "Honnelles Angreau", "catchment": "Yes", "key": "BE7387", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7390", "name": "Quaregnon", "catchment": "Yes", "key": "BE7390", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7500", "name": "Tournai Ere", "catchment": "Yes", "key": "BE7500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7501", "name": "Tournai", "catchment": "Yes", "key": "BE7501", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7502", "name": "Tournai", "catchment": "Yes", "key": "BE7502", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7503", "name": "Tournai", "catchment": "Yes", "key": "BE7503", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7504", "name": "Tournai", "catchment": "Yes", "key": "BE7504", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7506", "name": "Tournai Willemeau", "catchment": "Yes", "key": "BE7506", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7520", "name": "Tournai Ramegnies-Chin", "catchment": "Yes", "key": "BE7520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7521", "name": "Tournai Chercq", "catchment": "Yes", "key": "BE7521", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7522", "name": "Tournai Marquain", "catchment": "Yes", "key": "BE7522", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7530", "name": "Tournai", "catchment": "Yes", "key": "BE7530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7531", "name": "Tournai Havinnes", "catchment": "Yes", "key": "BE7531", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7532", "name": "Tournai Beclers", "catchment": "Yes", "key": "BE7532", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7533", "name": "Tournai Thimougies", "catchment": "Yes", "key": "BE7533", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7534", "name": "Tournai", "catchment": "Yes", "key": "BE7534", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7536", "name": "Tournai", "catchment": "Yes", "key": "BE7536", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7538", "name": "Tournai Vezon", "catchment": "Yes", "key": "BE7538", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7540", "name": "Tournai", "catchment": "Yes", "key": "BE7540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7542", "name": "Tournai Mont-Saint-Aubert", "catchment": "Yes", "key": "BE7542", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7543", "name": "Tournai", "catchment": "Yes", "key": "BE7543", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7548", "name": "Tournai", "catchment": "Yes", "key": "BE7548", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7600", "name": "Péruwelz", "catchment": "Yes", "key": "BE7600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7601", "name": "Péruwelz Roucourt", "catchment": "Yes", "key": "BE7601", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7602", "name": "Péruwelz", "catchment": "Yes", "key": "BE7602", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7603", "name": "Péruwelz", "catchment": "Yes", "key": "BE7603", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7604", "name": "Péruwelz", "catchment": "Yes", "key": "BE7604", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7608", "name": "Péruwelz", "catchment": "Yes", "key": "BE7608", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7610", "name": "Rumes", "catchment": "Yes", "key": "BE7610", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7611", "name": "Rumes", "catchment": "Yes", "key": "BE7611", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7618", "name": "Rumes Taintignies", "catchment": "Yes", "key": "BE7618", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7620", "name": "Brunehaut", "catchment": "Yes", "key": "BE7620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7621", "name": "Brunehaut Lesdain", "catchment": "Yes", "key": "BE7621", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7622", "name": "Brunehaut Laplaigne", "catchment": "Yes", "key": "BE7622", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7623", "name": "Brunehaut Rongy", "catchment": "Yes", "key": "BE7623", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7624", "name": "Brunehaut", "catchment": "Yes", "key": "BE7624", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7640", "name": "Antoing Péronneslez-Antoing", "catchment": "Yes", "key": "BE7640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7641", "name": "Antoing", "catchment": "Yes", "key": "BE7641", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7642", "name": "Antoing", "catchment": "Yes", "key": "BE7642", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7643", "name": "Antoing", "catchment": "Yes", "key": "BE7643", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7700", "name": "Mouscron", "catchment": "Yes", "key": "BE7700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7711", "name": "Mouscron Dottignies", "catchment": "Yes", "key": "BE7711", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7712", "name": "Mouscron Herseaux", "catchment": "Yes", "key": "BE7712", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7730", "name": "Estaimpuis Evregnies", "catchment": "Yes", "key": "BE7730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7740", "name": "Pecq Warcoing", "catchment": "Yes", "key": "BE7740", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7742", "name": "Pecq Hérinneslez-Pecq", "catchment": "Yes", "key": "BE7742", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7743", "name": "Pecq Esquelmes", "catchment": "Yes", "key": "BE7743", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7750", "name": "Montdel'Enclus Russeignies", "catchment": "Yes", "key": "BE7750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7760", "name": "Celles Escanaffles", "catchment": "Yes", "key": "BE7760", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7780", "name": "Comines-Warneton", "catchment": "Yes", "key": "BE7780", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7781", "name": "Comines-Warneton", "catchment": "Yes", "key": "BE7781", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7782", "name": "Comines-Warneton", "catchment": "Yes", "key": "BE7782", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7783", "name": "Comines-Warneton", "catchment": "Yes", "key": "BE7783", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7784", "name": "Comines-Warneton Warneton", "catchment": "Yes", "key": "BE7784", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7800", "name": "Ath Lanquesaint", "catchment": "Yes", "key": "BE7800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7801", "name": "Ath Irchonwelz", "catchment": "Yes", "key": "BE7801", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7802", "name": "Ath", "catchment": "Yes", "key": "BE7802", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7803", "name": "Ath", "catchment": "Yes", "key": "BE7803", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7804", "name": "Ath Ostiches", "catchment": "Yes", "key": "BE7804", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7810", "name": "Ath", "catchment": "Yes", "key": "BE7810", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7811", "name": "Ath", "catchment": "Yes", "key": "BE7811", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7812", "name": "Ath Villers-Saint-Amand", "catchment": "Yes", "key": "BE7812", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7822", "name": "Ath", "catchment": "Yes", "key": "BE7822", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7823", "name": "Ath Gibecq", "catchment": "Yes", "key": "BE7823", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7830", "name": "Silly Gondregnies", "catchment": "Yes", "key": "BE7830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7850", "name": "Enghien", "catchment": "Yes", "key": "BE7850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7860", "name": "Lessines", "catchment": "Yes", "key": "BE7860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7861", "name": "Lessines Papignies", "catchment": "Yes", "key": "BE7861", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7862", "name": "Lessines", "catchment": "Yes", "key": "BE7862", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7863", "name": "Lessines Ghoy", "catchment": "Yes", "key": "BE7863", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7864", "name": "Lessines", "catchment": "Yes", "key": "BE7864", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7866", "name": "Lessines Boisde-Lessines", "catchment": "Yes", "key": "BE7866", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7870", "name": "Lens Cambron-Saint-Vincent", "catchment": "Yes", "key": "BE7870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7880", "name": "Flobecq", "catchment": "Yes", "key": "BE7880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7890", "name": "Ellezelles", "catchment": "Yes", "key": "BE7890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7900", "name": "Leuzeen-Hainaut", "catchment": "Yes", "key": "BE7900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7901", "name": "Leuzeen-Hainaut Thieulain", "catchment": "Yes", "key": "BE7901", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7903", "name": "Leuzeen-Hainaut Chapelleà-Oie", "catchment": "Yes", "key": "BE7903", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7904", "name": "Leuzeen-Hainaut Willaupuis", "catchment": "Yes", "key": "BE7904", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7906", "name": "Leuzeen-Hainaut", "catchment": "Yes", "key": "BE7906", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7910", "name": "Frasneslez-Anvaing Anvaing", "catchment": "Yes", "key": "BE7910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7911", "name": "Frasneslez-Anvaing Oeudeghien", "catchment": "Yes", "key": "BE7911", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7912", "name": "Frasneslez-Anvaing Dergneau", "catchment": "Yes", "key": "BE7912", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7940", "name": "Brugelette Cambron-Casteau", "catchment": "Yes", "key": "BE7940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7941", "name": "Brugelette Attre", "catchment": "Yes", "key": "BE7941", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7942", "name": "Brugelette Mévergnieslez-Lens", "catchment": "Yes", "key": "BE7942", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7943", "name": "Brugelette Gages", "catchment": "Yes", "key": "BE7943", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7950", "name": "Chièvres", "catchment": "Yes", "key": "BE7950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7951", "name": "Chièvres", "catchment": "Yes", "key": "BE7951", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7970", "name": "Beloeil", "catchment": "Yes", "key": "BE7970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7971", "name": "Beloeil Ramegnies", "catchment": "Yes", "key": "BE7971", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7972", "name": "Beloeil Ellignies-Sainte-Anne", "catchment": "Yes", "key": "BE7972", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "7973", "name": "Beloeil Grandglise", "catchment": "Yes", "key": "BE7973", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8000", "name": "Brugge", "catchment": "Yes", "key": "BE8000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8020", "name": "Oostkamp", "catchment": "Yes", "key": "BE8020", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8200", "name": "Brugge Sint-Michiels", "catchment": "Yes", "key": "BE8200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8210", "name": "Zedelgem", "catchment": "Yes", "key": "BE8210", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8211", "name": "Zedelgem", "catchment": "Yes", "key": "BE8211", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8300", "name": "Knokke-Heist Knokke", "catchment": "Yes", "key": "BE8300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8301", "name": "Knokke-Heist Ramskapelle", "catchment": "Yes", "key": "BE8301", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8310", "name": "Brugge Sint-Kruis", "catchment": "Yes", "key": "BE8310", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8340", "name": "Damme Moerkerke", "catchment": "Yes", "key": "BE8340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8370", "name": "Blankenberge Uitkerke", "catchment": "Yes", "key": "BE8370", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8377", "name": "Zuienkerke Meetkerke", "catchment": "Yes", "key": "BE8377", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8380", "name": "Brugge", "catchment": "Yes", "key": "BE8380", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8400", "name": "Oostende Zandvoorde", "catchment": "Yes", "key": "BE8400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8420", "name": "De Haan De Haan", "catchment": "Yes", "key": "BE8420", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8421", "name": "De Haan", "catchment": "Yes", "key": "BE8421", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8430", "name": "Middelkerke", "catchment": "Yes", "key": "BE8430", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8431", "name": "Middelkerke Wilskerke", "catchment": "Yes", "key": "BE8431", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8432", "name": "Middelkerke Leffinge", "catchment": "Yes", "key": "BE8432", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8433", "name": "Middelkerke Sint-Pieters-Kapelle", "catchment": "Yes", "key": "BE8433", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8434", "name": "Middelkerke Lombardsijde", "catchment": "Yes", "key": "BE8434", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8450", "name": "Bredene", "catchment": "Yes", "key": "BE8450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8460", "name": "Oudenburg Westkerke", "catchment": "Yes", "key": "BE8460", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8470", "name": "Gistel Moere", "catchment": "Yes", "key": "BE8470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8480", "name": "Ichtegem Eernegem", "catchment": "Yes", "key": "BE8480", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8490", "name": "Jabbeke Varsenare", "catchment": "Yes", "key": "BE8490", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8500", "name": "Kortrijk", "catchment": "Yes", "key": "BE8500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8501", "name": "Kortrijk Heule", "catchment": "Yes", "key": "BE8501", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8510", "name": "Kortrijk Marke", "catchment": "Yes", "key": "BE8510", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8511", "name": "Kortrijk", "catchment": "Yes", "key": "BE8511", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8520", "name": "Kuurne", "catchment": "Yes", "key": "BE8520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8530", "name": "Harelbeke", "catchment": "Yes", "key": "BE8530", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8531", "name": "Harelbeke", "catchment": "Yes", "key": "BE8531", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8540", "name": "Deerlijk", "catchment": "Yes", "key": "BE8540", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8550", "name": "Zwevegem", "catchment": "Yes", "key": "BE8550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8551", "name": "Zwevegem Heestert", "catchment": "Yes", "key": "BE8551", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8552", "name": "Zwevegem", "catchment": "Yes", "key": "BE8552", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8553", "name": "Zwevegem Otegem", "catchment": "Yes", "key": "BE8553", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8554", "name": "Zwevegem", "catchment": "Yes", "key": "BE8554", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8560", "name": "Wevelgem Moorsele", "catchment": "Yes", "key": "BE8560", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8570", "name": "Anzegem", "catchment": "Yes", "key": "BE8570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8572", "name": "Anzegem", "catchment": "Yes", "key": "BE8572", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8573", "name": "Anzegem Tiegem", "catchment": "Yes", "key": "BE8573", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8580", "name": "Avelgem", "catchment": "Yes", "key": "BE8580", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8581", "name": "Avelgem", "catchment": "Yes", "key": "BE8581", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8582", "name": "Avelgem Outrijve", "catchment": "Yes", "key": "BE8582", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8583", "name": "Avelgem Bossuit", "catchment": "Yes", "key": "BE8583", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8587", "name": "Spiere-Helkijn Spiere", "catchment": "Yes", "key": "BE8587", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8600", "name": "Diksmuide Kaaskerke", "catchment": "Yes", "key": "BE8600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8610", "name": "Kortemark Zarren", "catchment": "Yes", "key": "BE8610", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8620", "name": "Nieuwpoort Sint-Joris", "catchment": "Yes", "key": "BE8620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8630", "name": "Veurne Houtem", "catchment": "Yes", "key": "BE8630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8640", "name": "Vleteren Oostvleteren", "catchment": "Yes", "key": "BE8640", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8647", "name": "Lo-Reninge Reninge", "catchment": "Yes", "key": "BE8647", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8650", "name": "Houthulst Klerken", "catchment": "Yes", "key": "BE8650", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8660", "name": "De Panne De Panne", "catchment": "Yes", "key": "BE8660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8670", "name": "Koksijde Sint-Idesbald", "catchment": "Yes", "key": "BE8670", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8680", "name": "Koekelare Zande", "catchment": "Yes", "key": "BE8680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8690", "name": "Alveringem Hoogstade", "catchment": "Yes", "key": "BE8690", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8691", "name": "Alveringem Beverenaanden-Ijzer", "catchment": "Yes", "key": "BE8691", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8700", "name": "Tielt Kanegem", "catchment": "Yes", "key": "BE8700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8710", "name": "Wielsbeke Ooigem", "catchment": "Yes", "key": "BE8710", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8720", "name": "Dentergem Wakken", "catchment": "Yes", "key": "BE8720", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8730", "name": "Beernem", "catchment": "Yes", "key": "BE8730", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8740", "name": "Pittem Egem", "catchment": "Yes", "key": "BE8740", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8750", "name": "Wingene", "catchment": "Yes", "key": "BE8750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8755", "name": "Ruiselede", "catchment": "Yes", "key": "BE8755", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8760", "name": "Meulebeke", "catchment": "Yes", "key": "BE8760", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8770", "name": "Ingelmunster", "catchment": "Yes", "key": "BE8770", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8780", "name": "Oostrozebeke", "catchment": "Yes", "key": "BE8780", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8790", "name": "Waregem", "catchment": "Yes", "key": "BE8790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8791", "name": "Waregem Beveren", "catchment": "Yes", "key": "BE8791", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8792", "name": "Waregem", "catchment": "Yes", "key": "BE8792", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8793", "name": "Waregem Sint-Eloois-Vijve", "catchment": "Yes", "key": "BE8793", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8800", "name": "Roeselare Beveren", "catchment": "Yes", "key": "BE8800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8810", "name": "Lichtervelde", "catchment": "Yes", "key": "BE8810", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8820", "name": "Torhout", "catchment": "Yes", "key": "BE8820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8830", "name": "Hooglede", "catchment": "Yes", "key": "BE8830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8840", "name": "Staden Westrozebeke", "catchment": "Yes", "key": "BE8840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8850", "name": "Ardooie", "catchment": "Yes", "key": "BE8850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8851", "name": "Ardooie Koolskamp", "catchment": "Yes", "key": "BE8851", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8860", "name": "Lendelede", "catchment": "Yes", "key": "BE8860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8870", "name": "Izegem", "catchment": "Yes", "key": "BE8870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8880", "name": "Ledegem Rollegem-Kapelle", "catchment": "Yes", "key": "BE8880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8890", "name": "Moorslede Dadizele", "catchment": "Yes", "key": "BE8890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8900", "name": "Ieper", "catchment": "Yes", "key": "BE8900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8902", "name": "Ieper Zillebeke", "catchment": "Yes", "key": "BE8902", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8904", "name": "Ieper", "catchment": "Yes", "key": "BE8904", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8906", "name": "Ieper Elverdinge", "catchment": "Yes", "key": "BE8906", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8908", "name": "Ieper Vlamertinge", "catchment": "Yes", "key": "BE8908", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8920", "name": "Langemark-Poelkapelle Poelkapelle", "catchment": "Yes", "key": "BE8920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8930", "name": "Menen", "catchment": "Yes", "key": "BE8930", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8940", "name": "Wervik Geluwe", "catchment": "Yes", "key": "BE8940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8950", "name": "Heuvelland Nieuwkerke", "catchment": "Yes", "key": "BE8950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8951", "name": "Heuvelland", "catchment": "Yes", "key": "BE8951", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8952", "name": "Heuvelland Wulvergem", "catchment": "Yes", "key": "BE8952", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8953", "name": "Heuvelland Wijtschate", "catchment": "Yes", "key": "BE8953", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8954", "name": "Heuvelland", "catchment": "Yes", "key": "BE8954", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8956", "name": "Heuvelland Kemmel", "catchment": "Yes", "key": "BE8956", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8957", "name": "Mesen", "catchment": "Yes", "key": "BE8957", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8958", "name": "Heuvelland Loker", "catchment": "Yes", "key": "BE8958", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8970", "name": "Poperinge", "catchment": "Yes", "key": "BE8970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8972", "name": "Poperinge Krombeke", "catchment": "Yes", "key": "BE8972", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8978", "name": "Poperinge", "catchment": "Yes", "key": "BE8978", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "8980", "name": "Zonnebeke Beselare", "catchment": "Yes", "key": "BE8980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9000", "name": "Gent", "catchment": "Yes", "key": "BE9000", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9030", "name": "Gent Mariakerke", "catchment": "Yes", "key": "BE9030", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9031", "name": "Gent", "catchment": "Yes", "key": "BE9031", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9032", "name": "Gent Wondelgem", "catchment": "Yes", "key": "BE9032", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9040", "name": "Gent", "catchment": "Yes", "key": "BE9040", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9041", "name": "Gent", "catchment": "Yes", "key": "BE9041", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9042", "name": "Gent Mendonk", "catchment": "Yes", "key": "BE9042", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9050", "name": "Gent Gentbrugge", "catchment": "Yes", "key": "BE9050", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9051", "name": "Gent Sint-Denijs-Westrem", "catchment": "Yes", "key": "BE9051", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9052", "name": "Gent", "catchment": "Yes", "key": "BE9052", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9060", "name": "Zelzate", "catchment": "Yes", "key": "BE9060", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9070", "name": "Destelbergen Heusden", "catchment": "Yes", "key": "BE9070", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9080", "name": "Lochristi Zeveneken", "catchment": "Yes", "key": "BE9080", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9090", "name": "Melle Gontrode", "catchment": "Yes", "key": "BE9090", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9100", "name": "Sint-Niklaas Nieuwkerken-Waas", "catchment": "Yes", "key": "BE9100", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9111", "name": "Sint-Niklaas Belsele", "catchment": "Yes", "key": "BE9111", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9112", "name": "Sint-Niklaas", "catchment": "Yes", "key": "BE9112", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9120", "name": "Beveren Kallo", "catchment": "Yes", "key": "BE9120", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9130", "name": "Beveren", "catchment": "Yes", "key": "BE9130", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9140", "name": "Temse Tielrode", "catchment": "Yes", "key": "BE9140", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9150", "name": "Kruibeke Bazel", "catchment": "Yes", "key": "BE9150", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9160", "name": "Lokeren Eksaarde", "catchment": "Yes", "key": "BE9160", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9170", "name": "Sint-Gillis-Waas", "catchment": "Yes", "key": "BE9170", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9180", "name": "Moerbeke-Waas", "catchment": "Yes", "key": "BE9180", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9185", "name": "Wachtebeke", "catchment": "Yes", "key": "BE9185", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9190", "name": "Stekene", "catchment": "Yes", "key": "BE9190", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9200", "name": "Dendermonde Mespelare", "catchment": "Yes", "key": "BE9200", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9220", "name": "Hamme", "catchment": "Yes", "key": "BE9220", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9230", "name": "Wetteren Massemen", "catchment": "Yes", "key": "BE9230", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9240", "name": "Zele", "catchment": "Yes", "key": "BE9240", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9250", "name": "Waasmunster", "catchment": "Yes", "key": "BE9250", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9255", "name": "Buggenhout Opstal", "catchment": "Yes", "key": "BE9255", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9260", "name": "Wichelen Schellebelle", "catchment": "Yes", "key": "BE9260", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9270", "name": "Laarne", "catchment": "Yes", "key": "BE9270", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9280", "name": "Lebbeke Denderbelle", "catchment": "Yes", "key": "BE9280", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9290", "name": "Berlare Overmere", "catchment": "Yes", "key": "BE9290", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9300", "name": "Aalst", "catchment": "Yes", "key": "BE9300", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9308", "name": "Aalst", "catchment": "Yes", "key": "BE9308", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9310", "name": "Aalst Moorsel", "catchment": "Yes", "key": "BE9310", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9320", "name": "Aalst Nieuwerkerken", "catchment": "Yes", "key": "BE9320", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9340", "name": "Lede Wanzele", "catchment": "Yes", "key": "BE9340", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9400", "name": "Ninove Nederhasselt", "catchment": "Yes", "key": "BE9400", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9401", "name": "Ninove", "catchment": "Yes", "key": "BE9401", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9402", "name": "Ninove Meerbeke", "catchment": "Yes", "key": "BE9402", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9403", "name": "Ninove", "catchment": "Yes", "key": "BE9403", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9404", "name": "Ninove Aspelare", "catchment": "Yes", "key": "BE9404", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9406", "name": "Ninove Outer", "catchment": "Yes", "key": "BE9406", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9420", "name": "Erpe-Mere Burst", "catchment": "Yes", "key": "BE9420", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9450", "name": "Haaltert Denderhoutem", "catchment": "Yes", "key": "BE9450", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9451", "name": "Haaltert", "catchment": "Yes", "key": "BE9451", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9470", "name": "Denderleeuw", "catchment": "Yes", "key": "BE9470", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9472", "name": "Denderleeuw", "catchment": "Yes", "key": "BE9472", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9473", "name": "Denderleeuw Welle", "catchment": "Yes", "key": "BE9473", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9500", "name": "Geraardsbergen Ophasselt", "catchment": "Yes", "key": "BE9500", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9506", "name": "Geraardsbergen Waarbeke", "catchment": "Yes", "key": "BE9506", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9520", "name": "Sint-Lievens-Houtem Bavegem", "catchment": "Yes", "key": "BE9520", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9521", "name": "Sint-Lievens-Houtem Letterhoutem", "catchment": "Yes", "key": "BE9521", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9550", "name": "Herzele Woubrechtegem", "catchment": "Yes", "key": "BE9550", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9551", "name": "Herzele", "catchment": "Yes", "key": "BE9551", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9552", "name": "Herzele", "catchment": "Yes", "key": "BE9552", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9570", "name": "Lierde Deftinge", "catchment": "Yes", "key": "BE9570", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9571", "name": "Lierde", "catchment": "Yes", "key": "BE9571", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9572", "name": "Lierde", "catchment": "Yes", "key": "BE9572", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9600", "name": "Ronse", "catchment": "Yes", "key": "BE9600", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9620", "name": "Zottegem Strijpen", "catchment": "Yes", "key": "BE9620", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9630", "name": "Zwalm Meilegem", "catchment": "Yes", "key": "BE9630", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9636", "name": "Zwalm Hermelgem", "catchment": "Yes", "key": "BE9636", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9660", "name": "Brakel Michelbeke", "catchment": "Yes", "key": "BE9660", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9661", "name": "Brakel Parike", "catchment": "Yes", "key": "BE9661", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9667", "name": "Horebeke Sint-Maria-Horebeke", "catchment": "Yes", "key": "BE9667", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9680", "name": "Maarkedal Etikhove", "catchment": "Yes", "key": "BE9680", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9681", "name": "Maarkedal Nukerke", "catchment": "Yes", "key": "BE9681", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9688", "name": "Maarkedal Schorisse", "catchment": "Yes", "key": "BE9688", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9690", "name": "Kluisbergen", "catchment": "Yes", "key": "BE9690", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9700", "name": "Oudenaarde Melden", "catchment": "Yes", "key": "BE9700", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9750", "name": "Zingem", "catchment": "Yes", "key": "BE9750", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9770", "name": "Kruishoutem", "catchment": "Yes", "key": "BE9770", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9771", "name": "Kruishoutem Nokere", "catchment": "Yes", "key": "BE9771", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9772", "name": "Kruishoutem Wannegem-Lede", "catchment": "Yes", "key": "BE9772", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9790", "name": "Wortegem-Petegem", "catchment": "Yes", "key": "BE9790", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9800", "name": "Deinze Bachte-Maria-Leerne", "catchment": "Yes", "key": "BE9800", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9810", "name": "Nazareth", "catchment": "Yes", "key": "BE9810", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9820", "name": "Merelbeke", "catchment": "Yes", "key": "BE9820", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9830", "name": "Sint-Martens-Latem", "catchment": "Yes", "key": "BE9830", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9831", "name": "Sint-Martens-Latem Deurle", "catchment": "Yes", "key": "BE9831", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9840", "name": "De Pinte Zevergem", "catchment": "Yes", "key": "BE9840", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9850", "name": "Nevele Hansbeke", "catchment": "Yes", "key": "BE9850", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9860", "name": "Oosterzele Scheldewindeke", "catchment": "Yes", "key": "BE9860", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9870", "name": "Zulte Olsene", "catchment": "Yes", "key": "BE9870", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9880", "name": "Aalter", "catchment": "Yes", "key": "BE9880", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9881", "name": "Aalter Bellem", "catchment": "Yes", "key": "BE9881", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9890", "name": "Gavere Semmerzake", "catchment": "Yes", "key": "BE9890", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9900", "name": "Eeklo", "catchment": "Yes", "key": "BE9900", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9910", "name": "Knesselare", "catchment": "Yes", "key": "BE9910", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9920", "name": "Lovendegem", "catchment": "Yes", "key": "BE9920", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9921", "name": "Lovendegem Vinderhoute", "catchment": "Yes", "key": "BE9921", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9930", "name": "Zomergem", "catchment": "Yes", "key": "BE9930", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9931", "name": "Zomergem Oostwinkel", "catchment": "Yes", "key": "BE9931", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9932", "name": "Zomergem Ronsele", "catchment": "Yes", "key": "BE9932", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9940", "name": "Evergem Sleidinge", "catchment": "Yes", "key": "BE9940", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9950", "name": "Waarschoot", "catchment": "Yes", "key": "BE9950", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9960", "name": "Assenede", "catchment": "Yes", "key": "BE9960", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9961", "name": "Assenede Boekhoute", "catchment": "Yes", "key": "BE9961", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9968", "name": "Assenede Oosteeklo", "catchment": "Yes", "key": "BE9968", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9970", "name": "Kaprijke", "catchment": "Yes", "key": "BE9970", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9971", "name": "Kaprijke", "catchment": "Yes", "key": "BE9971", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9980", "name": "Sint-Laureins", "catchment": "Yes", "key": "BE9980", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9981", "name": "Tienen Sint-Margriete-Houtem", "catchment": "Yes", "key": "BE9981", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9982", "name": "Sint-Laureins Sint-Janin-Eremo", "catchment": "Yes", "key": "BE9982", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9988", "name": "Sint-Laureins Watervliet", "catchment": "Yes", "key": "BE9988", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9990", "name": "Maldegem", "catchment": "Yes", "key": "BE9990", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9991", "name": "Maldegem Adegem", "catchment": "Yes", "key": "BE9991", "drive_time": "", "cross_rail": "", "cross_road": ""},
-{"code": "9992", "name": "Maldegem Middelburg", "catchment": "Yes", "key": "BE9992", "drive_time": "", "cross_rail": "", "cross_road": ""}
+[
+    {
+        "Code": "1000",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1005",
+        "Name": "Conseil Region Bruxelles-Capitale",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1005",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1006",
+        "Name": "Raad Vlaamse Gemeenschapscommissie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1006",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1007",
+        "Name": "Ass. Commiss. Communau. fran\u00e7aise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1007",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1008",
+        "Name": "Chambre des Repr\u00e9sentants",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1008",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1009",
+        "Name": "Senat de Belgique",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1009",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1010",
+        "Name": "Cit\u00e9 Administrative de l'Etat",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1010",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1011",
+        "Name": "Vlaamse Raad - Vlaams Parlement",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1011",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1012",
+        "Name": "Parlement de la Communaut\u00e9 fran\u00e7aise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1012",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1020",
+        "Name": "Bruxelles Laeken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1030",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1031",
+        "Name": "Organisations Sociales Chr\u00e9tiennes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1040",
+        "Name": "Bruxelles Etterbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1041",
+        "Name": "International Press Center",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1041",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1043",
+        "Name": "VRT",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1043",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1044",
+        "Name": "RTBF",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1044",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1045",
+        "Name": "D.I.V.",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1045",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1047",
+        "Name": "Parlement Europ\u00e9en",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1047",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1048",
+        "Name": "U.E.-Conseil",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1048",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1049",
+        "Name": "U.E.-Commission",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1049",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1050",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1060",
+        "Name": "Bruxelles Saint-Gilles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1070",
+        "Name": "Bruxelles Anderlecht",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1080",
+        "Name": "Bruxelles Molenbeek-Saint-Jean",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1080",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1081",
+        "Name": "Bruxelles Koekelberg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1081",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1082",
+        "Name": "Bruxelles Berchem-Sainte-Agathe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1082",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1083",
+        "Name": "Bruxelles Ganshoren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1083",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1090",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1090",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1110",
+        "Name": "OTAN - NATO",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1110",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1120",
+        "Name": "Bruxelles Nederover-Heembeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1130",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1130",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1140",
+        "Name": "Bruxelles Evere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1150",
+        "Name": "Bruxelles Woluwe-Saint-Pierre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1160",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1160",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1170",
+        "Name": "Bruxelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1180",
+        "Name": "Bruxelles Uccle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1190",
+        "Name": "Bruxelles Forest",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1200",
+        "Name": "Bruxelles Woluw\u00e9-Saint-Lambert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1201",
+        "Name": "R.T.L. - T.V.I.",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1201",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1210",
+        "Name": "Bruxelles Saint-Josseten-Noode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1210",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1212",
+        "Name": "SPF Mobilit\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1212",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1500",
+        "Name": "Halle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1501",
+        "Name": "Halle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1501",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1502",
+        "Name": "Halle Lembeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1502",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1540",
+        "Name": "Herne Herfelingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1541",
+        "Name": "Herne Sint-Pieters-Kapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1541",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1547",
+        "Name": "Bever",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1547",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1560",
+        "Name": "Hoeilaart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1570",
+        "Name": "Galmaarden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1600",
+        "Name": "Sint-Pieters-Leeuw",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1601",
+        "Name": "Sint-Pieters-Leeuw Ruisbroek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1601",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1602",
+        "Name": "Sint-Pieters-Leeuw Vlezenbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1602",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1620",
+        "Name": "Drogenbos",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1630",
+        "Name": "Linkebeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1640",
+        "Name": "Sint-Genesius-Rode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1650",
+        "Name": "Beersel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1651",
+        "Name": "Beersel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1651",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1652",
+        "Name": "Beersel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1652",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1653",
+        "Name": "Beersel Dworp",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1653",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1654",
+        "Name": "Beersel Huizingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1654",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1670",
+        "Name": "Pepingen Heikruis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1671",
+        "Name": "Pepingen Elingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1671",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1673",
+        "Name": "Pepingen Beert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1673",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1674",
+        "Name": "Pepingen Bellingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1674",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1700",
+        "Name": "Dilbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1701",
+        "Name": "Dilbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1701",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1702",
+        "Name": "Dilbeek Groot-Bijgaarden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1702",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1703",
+        "Name": "Dilbeek Schepdaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1703",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1730",
+        "Name": "Asse Mollem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1731",
+        "Name": "Asse Relegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1731",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1740",
+        "Name": "Ternat",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1740",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1741",
+        "Name": "Ternat Wambeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1741",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1742",
+        "Name": "Ternat Sint-Katherina-Lombeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1742",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1745",
+        "Name": "Opwijk Mazenzele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1745",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1750",
+        "Name": "Lennik",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1755",
+        "Name": "Gooik Oetingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1755",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1760",
+        "Name": "Roosdaal Pamel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1760",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1761",
+        "Name": "Roosdaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1761",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1770",
+        "Name": "Liedekerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1770",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1780",
+        "Name": "Wemmel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1780",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1785",
+        "Name": "Merchtem Hamme",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1785",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1790",
+        "Name": "Affligem Essene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1800",
+        "Name": "Vilvoorde Peutie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1804",
+        "Name": "Cargovil",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1804",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1818",
+        "Name": "VTM",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1818",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1820",
+        "Name": "Steenokkerzeel Perk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1830",
+        "Name": "Machelen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1831",
+        "Name": "Machelen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1831",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1840",
+        "Name": "Londerzeel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1850",
+        "Name": "Grimbergen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1851",
+        "Name": "Grimbergen Humbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1851",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1852",
+        "Name": "Grimbergen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1852",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1853",
+        "Name": "Grimbergen Strombeek-Bever",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1853",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1860",
+        "Name": "Meise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1861",
+        "Name": "Meise Wolvertem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1861",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1880",
+        "Name": "Kapelleopden-Bos Ramsdonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1910",
+        "Name": "Kampenhout Buken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1930",
+        "Name": "Zaventem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1930",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1931",
+        "Name": "Brucargo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1931",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1932",
+        "Name": "Zaventem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1932",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1933",
+        "Name": "Zaventem Sterrebeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1933",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1934",
+        "Name": "Bruxelles X-Aeroport Remailing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1934",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1950",
+        "Name": "Kraainem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1970",
+        "Name": "Wezembeek-Oppem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1980",
+        "Name": "Zemst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1981",
+        "Name": "Zemst Hofstade",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1981",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1982",
+        "Name": "Zemst Weerde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1982",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2000",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2018",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2018",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2020",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2030",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2040",
+        "Name": "Antwerpen Berendrecht-Zandvliet-Lillo, Lillo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2050",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2060",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2070",
+        "Name": "Zwijndrecht",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2100",
+        "Name": "Antwerpen Deurne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2100",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2110",
+        "Name": "Wijnegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2110",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2140",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2150",
+        "Name": "Borsbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2160",
+        "Name": "Wommelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2160",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2170",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2180",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2200",
+        "Name": "Herentals Morkhoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2220",
+        "Name": "Heistopden-Berg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2220",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2221",
+        "Name": "Heistopden-Berg Booischot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2221",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2222",
+        "Name": "Heistopden-Berg Wiekevorst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2222",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2223",
+        "Name": "Heistopden-Berg Schriek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2223",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2230",
+        "Name": "Herselt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2230",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2235",
+        "Name": "Hulshout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2235",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2240",
+        "Name": "Zandhoven Viersel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2240",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2242",
+        "Name": "Zandhoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2242",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2243",
+        "Name": "Zandhoven Pulle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2243",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2250",
+        "Name": "Olen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2250",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2260",
+        "Name": "Westerlo Zoerle-Parwijs",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2260",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2270",
+        "Name": "Herenthout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2270",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2275",
+        "Name": "Lille Wechelderzande",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2275",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2280",
+        "Name": "Grobbendonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2280",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2288",
+        "Name": "Grobbendonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2288",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2290",
+        "Name": "Vorselaar",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2290",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2300",
+        "Name": "Turnhout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2310",
+        "Name": "Rijkevorsel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2310",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2320",
+        "Name": "Hoogstraten",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2320",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2321",
+        "Name": "Hoogstraten Meer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2321",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2322",
+        "Name": "Hoogstraten",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2322",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2323",
+        "Name": "Hoogstraten Wortel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2323",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2328",
+        "Name": "Hoogstraten",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2328",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2330",
+        "Name": "Merksplas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2330",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2340",
+        "Name": "Beerse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2350",
+        "Name": "Vosselaar",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2360",
+        "Name": "Oud-Turnhout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2360",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2370",
+        "Name": "Arendonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2380",
+        "Name": "Ravels",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2381",
+        "Name": "Ravels",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2381",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2382",
+        "Name": "Ravels",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2382",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2387",
+        "Name": "Baarle-Hertog",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2387",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2390",
+        "Name": "Malle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2390",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2400",
+        "Name": "Mol",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2430",
+        "Name": "Laakdal Vorst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2430",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2431",
+        "Name": "Herselt Varendonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2431",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2440",
+        "Name": "Geel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2440",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2450",
+        "Name": "Meerhout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2460",
+        "Name": "Kasterlee Tielen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2470",
+        "Name": "Retie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2480",
+        "Name": "Dessel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2480",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2490",
+        "Name": "Balen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2490",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2491",
+        "Name": "Balen Olmen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2491",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2500",
+        "Name": "Lier",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2520",
+        "Name": "Ranst Emblem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2530",
+        "Name": "Boechout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2531",
+        "Name": "Boechout Vremde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2531",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2540",
+        "Name": "Hove",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2547",
+        "Name": "Lint",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2547",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2550",
+        "Name": "Kontich",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2560",
+        "Name": "Nijlen Bevel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2570",
+        "Name": "Duffel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2580",
+        "Name": "Putte Beerzel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2580",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2590",
+        "Name": "Berlaar Gestel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2590",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2600",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2610",
+        "Name": "Antwerpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2610",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2620",
+        "Name": "Hemiksem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2627",
+        "Name": "Schelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2627",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2630",
+        "Name": "Aartselaar",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2640",
+        "Name": "Mortsel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2650",
+        "Name": "Edegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2660",
+        "Name": "Antwerpen Hoboken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2800",
+        "Name": "Mechelen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2801",
+        "Name": "Mechelen Heffen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2801",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2811",
+        "Name": "Mechelen Hombeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2811",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2812",
+        "Name": "Mechelen Muizen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2812",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2820",
+        "Name": "Bonheiden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2830",
+        "Name": "Willebroek Tisselt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2840",
+        "Name": "Rumst Terhagen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2845",
+        "Name": "Niel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2845",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2850",
+        "Name": "Boom",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2860",
+        "Name": "Sint-Katelijne-Waver",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2861",
+        "Name": "Sint-Katelijne-Waver Onze-Lieve-Vrouw-Waver",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2861",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2870",
+        "Name": "Puurs Ruisbroek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2880",
+        "Name": "Bornem Hingene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2890",
+        "Name": "Sint-Amands Lippelo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2900",
+        "Name": "Schoten",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2910",
+        "Name": "Essen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2920",
+        "Name": "Kalmthout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2930",
+        "Name": "Brasschaat",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2930",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2940",
+        "Name": "Stabroek Hoevenen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2950",
+        "Name": "Kapellen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2960",
+        "Name": "Brecht Sint-Jobin't-Goor",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2960",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2970",
+        "Name": "Schilde 's Gravenwezel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2980",
+        "Name": "Zoersel Halle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "2990",
+        "Name": "Wuustwezel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE2990",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3000",
+        "Name": "Leuven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3001",
+        "Name": "Leuven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3001",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3010",
+        "Name": "Leuven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3010",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3012",
+        "Name": "Leuven Wilsele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3012",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3018",
+        "Name": "Leuven Wijgmaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3018",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3020",
+        "Name": "Herent Winksele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3040",
+        "Name": "Huldenberg Neerijse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3050",
+        "Name": "Oud-Heverlee",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3051",
+        "Name": "Oud-Heverlee Sint-Joris-Weert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3051",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3052",
+        "Name": "Oud-Heverlee Blanden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3052",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3053",
+        "Name": "Oud-Heverlee Haasrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3053",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3054",
+        "Name": "Oud-Heverlee",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3054",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3060",
+        "Name": "Bertem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3061",
+        "Name": "Bertem Leefdaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3061",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3070",
+        "Name": "Kortenberg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3071",
+        "Name": "Kortenberg Erps-Kwerps",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3071",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3078",
+        "Name": "Kortenberg Everberg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3078",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3080",
+        "Name": "Tervuren Vossem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3080",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3090",
+        "Name": "Overijse Terlanen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3090",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3110",
+        "Name": "Rotselaar",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3110",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3111",
+        "Name": "Rotselaar Wezemaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3111",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3118",
+        "Name": "Rotselaar Werchter",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3118",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3120",
+        "Name": "Tremelo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3128",
+        "Name": "Tremelo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3128",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3130",
+        "Name": "Begijnendijk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3130",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3140",
+        "Name": "Keerbergen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3150",
+        "Name": "Haacht Wakkerzeel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3190",
+        "Name": "Boortmeerbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3191",
+        "Name": "Boortmeerbeek Hever",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3191",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3200",
+        "Name": "Aarschot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3201",
+        "Name": "Aarschot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3201",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3202",
+        "Name": "Aarschot Rillaar",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3202",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3210",
+        "Name": "Lubbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3210",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3211",
+        "Name": "Lubbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3211",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3212",
+        "Name": "Lubbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3212",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3220",
+        "Name": "Holsbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3220",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3221",
+        "Name": "Holsbeek Nieuwrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3221",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3270",
+        "Name": "Scherpenheuvel-Zichem Scherpenheuvel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3270",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3271",
+        "Name": "Scherpenheuvel-Zichem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3271",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3272",
+        "Name": "Scherpenheuvel-Zichem Testelt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3272",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3290",
+        "Name": "Diest Webbekom",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3290",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3293",
+        "Name": "Diest",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3293",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3294",
+        "Name": "Diest Molenstede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3294",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3300",
+        "Name": "Tienen Hakendover",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3320",
+        "Name": "Hoegaarden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3320",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3321",
+        "Name": "Hoegaarden Outgaarden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3321",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3350",
+        "Name": "Linter",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3360",
+        "Name": "Bierbeek Lovenjoel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3360",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3370",
+        "Name": "Boutersem Roosbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3380",
+        "Name": "Glabbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3381",
+        "Name": "Glabbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3381",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3384",
+        "Name": "Glabbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3384",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3390",
+        "Name": "Tielt-Winge Sint-Joris-Winge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3390",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3391",
+        "Name": "Tielt-Winge Meensel-Kiezegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3391",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3400",
+        "Name": "Landen Rumsdorp",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3401",
+        "Name": "Landen Walshoutem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3401",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3404",
+        "Name": "Landen Neerlanden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3404",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3440",
+        "Name": "Zoutleeuw",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3440",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3450",
+        "Name": "Geetbets",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3454",
+        "Name": "Geetbets",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3454",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3460",
+        "Name": "Bekkevoort Assent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3461",
+        "Name": "Bekkevoort Molenbeek-Wersbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3461",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3470",
+        "Name": "Kortenaken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3471",
+        "Name": "Kortenaken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3471",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3472",
+        "Name": "Kortenaken Kersbeek-Miskom",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3472",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3473",
+        "Name": "Kortenaken Waanrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3473",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3500",
+        "Name": "Hasselt Sint-Lambrechts-Herk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3501",
+        "Name": "Hasselt Wimmertingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3501",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3510",
+        "Name": "Hasselt Kermt, Spalbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3510",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3511",
+        "Name": "Hasselt, Stokrooie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3511",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3512",
+        "Name": "Hasselt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3512",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3520",
+        "Name": "Zonhoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3530",
+        "Name": "Houthalen-Helchteren Helchteren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3540",
+        "Name": "Herkde-Stad",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3545",
+        "Name": "Halen Loksbergen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3545",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3550",
+        "Name": "Heusden-Zolder Zolder",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3560",
+        "Name": "Lummen Linkhout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3570",
+        "Name": "Alken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3580",
+        "Name": "Beringen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3580",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3581",
+        "Name": "Beringen Beverlo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3581",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3582",
+        "Name": "Beringen Koersel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3582",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3583",
+        "Name": "Beringen Paal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3583",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3590",
+        "Name": "Diepenbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3590",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3600",
+        "Name": "Diepenbeek Genk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3620",
+        "Name": "Lanaken Gellik",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3621",
+        "Name": "Lanaken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3621",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3630",
+        "Name": "Maasmechelen Opgrimbie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3631",
+        "Name": "Maasmechelen Uikhoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3631",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3640",
+        "Name": "Kinrooi Geistingen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3650",
+        "Name": "Dilsen-Stokkem Elen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3660",
+        "Name": "Opglabbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3665",
+        "Name": "As",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3665",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3668",
+        "Name": "As Nielbij-As",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3668",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3670",
+        "Name": "Meeuwen-Gruitrode Wijshagen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3680",
+        "Name": "Maaseik Neeroeteren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3690",
+        "Name": "Zutendaal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3690",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3700",
+        "Name": "Tongeren 's Herenelderen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3717",
+        "Name": "Herstappe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3717",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3720",
+        "Name": "Kortessem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3720",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3721",
+        "Name": "Kortessem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3721",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3722",
+        "Name": "Kortessem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3722",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3723",
+        "Name": "Kortessem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3723",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3724",
+        "Name": "Kortessem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3724",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3730",
+        "Name": "Hoeselt Romershoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3732",
+        "Name": "Hoeselt Schalkhoven",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3732",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3740",
+        "Name": "Bilzen Mopertingen, Rosmeer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3740",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3742",
+        "Name": "Bilzen Martenslinde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3742",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3746",
+        "Name": "Bilzen Hoelbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3746",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3770",
+        "Name": "Riemst, Heukelom",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3770",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3790",
+        "Name": "Voeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3791",
+        "Name": "Voeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3791",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3792",
+        "Name": "Voeren Sint-Pieters-Voeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3792",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3793",
+        "Name": "Voeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3793",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3798",
+        "Name": "Voeren 's Gravenvoeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3798",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3800",
+        "Name": "Sint-Truiden Kerkombij-Sint-Truiden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3803",
+        "Name": "Sint-Truiden Duras",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3803",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3806",
+        "Name": "Sint-Truiden Velm",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3806",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3830",
+        "Name": "Wellen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3831",
+        "Name": "Wellen Herten",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3831",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3832",
+        "Name": "Wellen Ulbeek",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3832",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3840",
+        "Name": "Borgloon Kolmont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3850",
+        "Name": "Nieuwerkerken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3870",
+        "Name": "Heers Klein-Gelmen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3890",
+        "Name": "Gingelom Nielbij-Sint-Truiden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3891",
+        "Name": "Gingelom Muizen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3891",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3900",
+        "Name": "Overpelt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3910",
+        "Name": "Neerpelt Grote Heide",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3920",
+        "Name": "Lommel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3930",
+        "Name": "Hamont-Achel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3930",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3940",
+        "Name": "Hechtel-Eksel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3941",
+        "Name": "Hechtel-Eksel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3941",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3945",
+        "Name": "Ham Kwaadmechelen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3945",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3950",
+        "Name": "Bocholt Kaulille",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3960",
+        "Name": "Bree Opitter, Tongerlo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3960",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3970",
+        "Name": "Leopoldsburg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3971",
+        "Name": "Leopoldsburg Heppen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3971",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3980",
+        "Name": "Tessenderlo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "3990",
+        "Name": "Peer Kleine-Brogel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE3990",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8000",
+        "Name": "Brugge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8020",
+        "Name": "Oostkamp",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8200",
+        "Name": "Brugge Sint-Michiels",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8210",
+        "Name": "Zedelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8210",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8211",
+        "Name": "Zedelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8211",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8300",
+        "Name": "Knokke-Heist Knokke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8301",
+        "Name": "Knokke-Heist Ramskapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8301",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8310",
+        "Name": "Brugge Sint-Kruis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8310",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8340",
+        "Name": "Damme Moerkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8370",
+        "Name": "Blankenberge Uitkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8377",
+        "Name": "Zuienkerke Meetkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8377",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8380",
+        "Name": "Brugge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8400",
+        "Name": "Oostende Zandvoorde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8420",
+        "Name": "De Haan De Haan",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8420",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8421",
+        "Name": "De Haan",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8421",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8430",
+        "Name": "Middelkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8430",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8431",
+        "Name": "Middelkerke Wilskerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8431",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8432",
+        "Name": "Middelkerke Leffinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8432",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8433",
+        "Name": "Middelkerke Sint-Pieters-Kapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8433",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8434",
+        "Name": "Middelkerke Lombardsijde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8434",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8450",
+        "Name": "Bredene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8460",
+        "Name": "Oudenburg Westkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8470",
+        "Name": "Gistel Moere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8480",
+        "Name": "Ichtegem Eernegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8480",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8490",
+        "Name": "Jabbeke Varsenare",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8490",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8500",
+        "Name": "Kortrijk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8501",
+        "Name": "Kortrijk Heule",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8501",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8510",
+        "Name": "Kortrijk Marke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8510",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8511",
+        "Name": "Kortrijk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8511",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8520",
+        "Name": "Kuurne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8530",
+        "Name": "Harelbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8531",
+        "Name": "Harelbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8531",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8540",
+        "Name": "Deerlijk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8550",
+        "Name": "Zwevegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8551",
+        "Name": "Zwevegem Heestert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8551",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8552",
+        "Name": "Zwevegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8552",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8553",
+        "Name": "Zwevegem Otegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8553",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8554",
+        "Name": "Zwevegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8554",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8560",
+        "Name": "Wevelgem Moorsele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8570",
+        "Name": "Anzegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8572",
+        "Name": "Anzegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8572",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8573",
+        "Name": "Anzegem Tiegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8573",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8580",
+        "Name": "Avelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8580",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8581",
+        "Name": "Avelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8581",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8582",
+        "Name": "Avelgem Outrijve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8582",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8583",
+        "Name": "Avelgem Bossuit",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8583",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8587",
+        "Name": "Spiere-Helkijn Spiere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8587",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8600",
+        "Name": "Diksmuide Kaaskerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8610",
+        "Name": "Kortemark Zarren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8610",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8620",
+        "Name": "Nieuwpoort Sint-Joris",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8630",
+        "Name": "Veurne Houtem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8640",
+        "Name": "Vleteren Oostvleteren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8647",
+        "Name": "Lo-Reninge Reninge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8647",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8650",
+        "Name": "Houthulst Klerken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8660",
+        "Name": "De Panne De Panne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8670",
+        "Name": "Koksijde Sint-Idesbald",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8680",
+        "Name": "Koekelare Zande",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8690",
+        "Name": "Alveringem Hoogstade",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8690",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8691",
+        "Name": "Alveringem Beverenaanden-Ijzer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8691",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8700",
+        "Name": "Tielt Kanegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8710",
+        "Name": "Wielsbeke Ooigem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8710",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8720",
+        "Name": "Dentergem Wakken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8720",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8730",
+        "Name": "Beernem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8740",
+        "Name": "Pittem Egem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8740",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8750",
+        "Name": "Wingene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8755",
+        "Name": "Ruiselede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8755",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8760",
+        "Name": "Meulebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8760",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8770",
+        "Name": "Ingelmunster",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8770",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8780",
+        "Name": "Oostrozebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8780",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8790",
+        "Name": "Waregem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8791",
+        "Name": "Waregem Beveren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8791",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8792",
+        "Name": "Waregem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8792",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8793",
+        "Name": "Waregem Sint-Eloois-Vijve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8793",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8800",
+        "Name": "Roeselare Beveren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8810",
+        "Name": "Lichtervelde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8810",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8820",
+        "Name": "Torhout",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8830",
+        "Name": "Hooglede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8840",
+        "Name": "Staden Westrozebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8850",
+        "Name": "Ardooie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8851",
+        "Name": "Ardooie Koolskamp",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8851",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8860",
+        "Name": "Lendelede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8870",
+        "Name": "Izegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8880",
+        "Name": "Ledegem Rollegem-Kapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8890",
+        "Name": "Moorslede Dadizele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8900",
+        "Name": "Ieper",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8902",
+        "Name": "Ieper Zillebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8902",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8904",
+        "Name": "Ieper",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8904",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8906",
+        "Name": "Ieper Elverdinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8906",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8908",
+        "Name": "Ieper Vlamertinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8908",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8920",
+        "Name": "Langemark-Poelkapelle Poelkapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8930",
+        "Name": "Menen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8930",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8940",
+        "Name": "Wervik Geluwe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8950",
+        "Name": "Heuvelland Nieuwkerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8951",
+        "Name": "Heuvelland",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8951",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8952",
+        "Name": "Heuvelland Wulvergem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8952",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8953",
+        "Name": "Heuvelland Wijtschate",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8953",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8954",
+        "Name": "Heuvelland",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8954",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8956",
+        "Name": "Heuvelland Kemmel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8956",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8957",
+        "Name": "Mesen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8957",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8958",
+        "Name": "Heuvelland Loker",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8958",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8970",
+        "Name": "Poperinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8972",
+        "Name": "Poperinge Krombeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8972",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8978",
+        "Name": "Poperinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8978",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "8980",
+        "Name": "Zonnebeke Beselare",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE8980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9000",
+        "Name": "Gent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9030",
+        "Name": "Gent Mariakerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9031",
+        "Name": "Gent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9032",
+        "Name": "Gent Wondelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9032",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9040",
+        "Name": "Gent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9041",
+        "Name": "Gent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9041",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9042",
+        "Name": "Gent Mendonk",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9042",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9050",
+        "Name": "Gent Gentbrugge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9051",
+        "Name": "Gent Sint-Denijs-Westrem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9051",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9052",
+        "Name": "Gent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9052",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9060",
+        "Name": "Zelzate",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9070",
+        "Name": "Destelbergen Heusden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9080",
+        "Name": "Lochristi Zeveneken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9080",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9090",
+        "Name": "Melle Gontrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9090",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9100",
+        "Name": "Sint-Niklaas Nieuwkerken-Waas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9100",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9111",
+        "Name": "Sint-Niklaas Belsele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9111",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9112",
+        "Name": "Sint-Niklaas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9112",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9120",
+        "Name": "Beveren Kallo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9130",
+        "Name": "Beveren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9130",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9140",
+        "Name": "Temse Tielrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9150",
+        "Name": "Kruibeke Bazel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9160",
+        "Name": "Lokeren Eksaarde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9160",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9170",
+        "Name": "Sint-Gillis-Waas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9180",
+        "Name": "Moerbeke-Waas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9185",
+        "Name": "Wachtebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9185",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9190",
+        "Name": "Stekene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9200",
+        "Name": "Dendermonde Mespelare",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9220",
+        "Name": "Hamme",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9220",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9230",
+        "Name": "Wetteren Massemen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9230",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9240",
+        "Name": "Zele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9240",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9250",
+        "Name": "Waasmunster",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9250",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9255",
+        "Name": "Buggenhout Opstal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9255",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9260",
+        "Name": "Wichelen Schellebelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9260",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9270",
+        "Name": "Laarne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9270",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9280",
+        "Name": "Lebbeke Denderbelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9280",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9290",
+        "Name": "Berlare Overmere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9290",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9300",
+        "Name": "Aalst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9308",
+        "Name": "Aalst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9308",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9310",
+        "Name": "Aalst Moorsel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9310",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9320",
+        "Name": "Aalst Nieuwerkerken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9320",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9340",
+        "Name": "Lede Wanzele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9400",
+        "Name": "Ninove Nederhasselt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9401",
+        "Name": "Ninove",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9401",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9402",
+        "Name": "Ninove Meerbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9402",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9403",
+        "Name": "Ninove",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9403",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9404",
+        "Name": "Ninove Aspelare",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9404",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9406",
+        "Name": "Ninove Outer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9406",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9420",
+        "Name": "Erpe-Mere Burst",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9420",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9450",
+        "Name": "Haaltert Denderhoutem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9451",
+        "Name": "Haaltert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9451",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9470",
+        "Name": "Denderleeuw",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9472",
+        "Name": "Denderleeuw",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9472",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9473",
+        "Name": "Denderleeuw Welle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9473",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9500",
+        "Name": "Geraardsbergen Ophasselt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9506",
+        "Name": "Geraardsbergen Waarbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9506",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9520",
+        "Name": "Sint-Lievens-Houtem Bavegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9521",
+        "Name": "Sint-Lievens-Houtem Letterhoutem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9521",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9550",
+        "Name": "Herzele Woubrechtegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9551",
+        "Name": "Herzele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9551",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9552",
+        "Name": "Herzele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9552",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9570",
+        "Name": "Lierde Deftinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9571",
+        "Name": "Lierde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9571",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9572",
+        "Name": "Lierde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9572",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9600",
+        "Name": "Ronse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9620",
+        "Name": "Zottegem Strijpen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9630",
+        "Name": "Zwalm Meilegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9636",
+        "Name": "Zwalm Hermelgem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9636",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9660",
+        "Name": "Brakel Michelbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9661",
+        "Name": "Brakel Parike",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9661",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9667",
+        "Name": "Horebeke Sint-Maria-Horebeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9667",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9680",
+        "Name": "Maarkedal Etikhove",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9681",
+        "Name": "Maarkedal Nukerke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9681",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9688",
+        "Name": "Maarkedal Schorisse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9688",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9690",
+        "Name": "Kluisbergen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9690",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9700",
+        "Name": "Oudenaarde Melden",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9750",
+        "Name": "Zingem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9770",
+        "Name": "Kruishoutem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9770",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9771",
+        "Name": "Kruishoutem Nokere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9771",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9772",
+        "Name": "Kruishoutem Wannegem-Lede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9772",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9790",
+        "Name": "Wortegem-Petegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9800",
+        "Name": "Deinze Bachte-Maria-Leerne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9810",
+        "Name": "Nazareth",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9810",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9820",
+        "Name": "Merelbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9830",
+        "Name": "Sint-Martens-Latem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9831",
+        "Name": "Sint-Martens-Latem Deurle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9831",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9840",
+        "Name": "De Pinte Zevergem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9850",
+        "Name": "Nevele Hansbeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9860",
+        "Name": "Oosterzele Scheldewindeke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9870",
+        "Name": "Zulte Olsene",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9880",
+        "Name": "Aalter",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9881",
+        "Name": "Aalter Bellem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9881",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9890",
+        "Name": "Gavere Semmerzake",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9900",
+        "Name": "Eeklo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9910",
+        "Name": "Knesselare",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9920",
+        "Name": "Lovendegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9921",
+        "Name": "Lovendegem Vinderhoute",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9921",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9930",
+        "Name": "Zomergem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9930",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9931",
+        "Name": "Zomergem Oostwinkel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9931",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9932",
+        "Name": "Zomergem Ronsele",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9932",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9940",
+        "Name": "Evergem Sleidinge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9950",
+        "Name": "Waarschoot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9960",
+        "Name": "Assenede",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9960",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9961",
+        "Name": "Assenede Boekhoute",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9961",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9968",
+        "Name": "Assenede Oosteeklo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9968",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9970",
+        "Name": "Kaprijke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9971",
+        "Name": "Kaprijke",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9971",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9980",
+        "Name": "Sint-Laureins",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9981",
+        "Name": "Tienen Sint-Margriete-Houtem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9981",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9982",
+        "Name": "Sint-Laureins Sint-Janin-Eremo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9982",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9988",
+        "Name": "Sint-Laureins Watervliet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9988",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9990",
+        "Name": "Maldegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9990",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9991",
+        "Name": "Maldegem Adegem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9991",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "9992",
+        "Name": "Maldegem Middelburg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE9992",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1300",
+        "Name": "Wavre Limal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1301",
+        "Name": "Wavre Bierges",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1301",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1310",
+        "Name": "La Hulpe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1310",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1315",
+        "Name": "Incourt Pi\u00e8trebais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1315",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1320",
+        "Name": "Beauvechain Nodebais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1320",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1325",
+        "Name": "Chaumont-Gistoux Bonlez",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1325",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1330",
+        "Name": "Rixensart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1330",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1331",
+        "Name": "Rixensart Rosi\u00e8res",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1331",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1332",
+        "Name": "Rixensart Genval",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1332",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1340",
+        "Name": "Ottignies-Louvainla-Neuve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1341",
+        "Name": "Ottignies-Louvainla-Neuve C\u00e9roux-Mousty",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1341",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1342",
+        "Name": "Ottignies-Louvainla-Neuve Limelette",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1342",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1348",
+        "Name": "Ottignies-Louvainla-Neuve Louvainla-Neuve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1348",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1350",
+        "Name": "Nivelles Noduwez",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1357",
+        "Name": "Florennes Linsmeau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1357",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1360",
+        "Name": "Perwez Orbais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1360",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1367",
+        "Name": "Ramillies G\u00e9rompont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1367",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1370",
+        "Name": "Jodoigne M\u00e9lin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1380",
+        "Name": "Lasne Lasne-Chapelle-Saint-Lambert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1390",
+        "Name": "Grez-Doiceau Biez",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1390",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1400",
+        "Name": "Nivelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1401",
+        "Name": "Nivelles Baulers",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1401",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1402",
+        "Name": "Nivelles Thines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1402",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1404",
+        "Name": "Nivelles Bornival",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1404",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1410",
+        "Name": "Waterloo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1410",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1414",
+        "Name": "Promo-Control",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1414",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1420",
+        "Name": "Brainel'Alleud Brainel'Alleud",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1420",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1421",
+        "Name": "Brainel'Alleud Ophain-Bois-Seigneur-Isaac",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1421",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1428",
+        "Name": "Brainel'Alleud",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1428",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1430",
+        "Name": "Rebecq Quenast",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1430",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1435",
+        "Name": "Mont-Saint-Guibert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1435",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1440",
+        "Name": "Brainele-Ch\u00e2teau Wauthier-Braine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1440",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1450",
+        "Name": "Chastre Gentinnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1457",
+        "Name": "Walhain Nil-Saint-Vincent-Saint-Martin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1457",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1460",
+        "Name": "Ittre Virginal-Samme",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1461",
+        "Name": "Ittre Haut-Ittre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1461",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1470",
+        "Name": "Genappe Baisy-Thy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1471",
+        "Name": "Genappe Loupoigne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1471",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1472",
+        "Name": "Genappe Vieux-Genappe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1472",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1473",
+        "Name": "Genappe Glabais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1473",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1474",
+        "Name": "Genappe Ways",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1474",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1476",
+        "Name": "Genappe Houtainle-Val",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1476",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1480",
+        "Name": "Tubize",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1480",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1490",
+        "Name": "Court-Saint-Etienne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1490",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "1495",
+        "Name": "Villersla-Ville Marbais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE1495",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4000",
+        "Name": "Li\u00e8ge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4020",
+        "Name": "Li\u00e8ge Wandre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4030",
+        "Name": "Li\u00e8ge Grivegn\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4031",
+        "Name": "Li\u00e8ge Angleur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4032",
+        "Name": "Li\u00e8ge Ch\u00ean\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4032",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4040",
+        "Name": "Herstal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4041",
+        "Name": "Herstal Milmort",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4041",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4042",
+        "Name": "Herstal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4042",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4050",
+        "Name": "Chaudfontaine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4051",
+        "Name": "Chaudfontaine Vauxsous-Ch\u00e8vremont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4051",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4052",
+        "Name": "Chaudfontaine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4052",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4053",
+        "Name": "Chaudfontaine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4053",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4100",
+        "Name": "Seraing Boncelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4100",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4101",
+        "Name": "Seraing Jemeppesur-Meuse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4101",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4102",
+        "Name": "Seraing Ougr\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4102",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4120",
+        "Name": "Neupr\u00e9 Ehein",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4121",
+        "Name": "Neupr\u00e9 Neuvilleen-Condroz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4121",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4122",
+        "Name": "Neupr\u00e9 Plainevaux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4122",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4130",
+        "Name": "Esneux Tilff",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4130",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4140",
+        "Name": "Sprimont Gomze-Andoumont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4141",
+        "Name": "Sprimont Louveign\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4141",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4151",
+        "Name": "Anthisnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4151",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4160",
+        "Name": "Anthisnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4160",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4161",
+        "Name": "Anthisnes Villersaux-Tours",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4161",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4162",
+        "Name": "Anthisnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4162",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4163",
+        "Name": "Anthisnes Tavier",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4163",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4170",
+        "Name": "Comblainau-Pont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4171",
+        "Name": "Comblainau-Pont Poulseur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4171",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4180",
+        "Name": "Hamoir Comblain-Fairon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4181",
+        "Name": "Hamoir",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4181",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4190",
+        "Name": "Ferri\u00e8res Xhoris",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4210",
+        "Name": "Burdinne Lamontz\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4210",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4217",
+        "Name": "H\u00e9ron Waretl'Ev\u00eaque",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4217",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4218",
+        "Name": "H\u00e9ron Couthuin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4218",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4219",
+        "Name": "Wasseiges",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4219",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4250",
+        "Name": "Geer Hollognesur-Geer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4250",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4252",
+        "Name": "Geer Omal",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4252",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4253",
+        "Name": "Geer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4253",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4254",
+        "Name": "Geer Ligney",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4254",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4257",
+        "Name": "Berloz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4257",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4260",
+        "Name": "Braives Fallais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4260",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4261",
+        "Name": "Braives Latinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4261",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4263",
+        "Name": "Braives Tourinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4263",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4280",
+        "Name": "Hannut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4280",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4287",
+        "Name": "Lincent Pellaines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4287",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4300",
+        "Name": "Waremme Oleye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4317",
+        "Name": "Faimes Celles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4317",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4340",
+        "Name": "Awans Oth\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4342",
+        "Name": "Awans Hognoul",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4342",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4347",
+        "Name": "Fexhele-Haut-Clocher Voroux-Goreux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4347",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4350",
+        "Name": "Remicourt Momalle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4351",
+        "Name": "Remicourt Hodeige",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4351",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4357",
+        "Name": "Donceel Haneffe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4357",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4360",
+        "Name": "Oreye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4360",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4367",
+        "Name": "Crisn\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4367",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4400",
+        "Name": "Fl\u00e9malle Monslez-Li\u00e8ge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4400",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4420",
+        "Name": "Saint-Nicolas Tilleur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4420",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4430",
+        "Name": "Ans",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4430",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4431",
+        "Name": "Ans",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4431",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4432",
+        "Name": "Ans Alleur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4432",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4450",
+        "Name": "Juprelle Slins",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4450",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4451",
+        "Name": "Juprelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4451",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4452",
+        "Name": "Juprelle Paifve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4452",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4453",
+        "Name": "Juprelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4453",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4458",
+        "Name": "Juprelle Fexhe-Slins",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4458",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4460",
+        "Name": "Gr\u00e2ce-Hollogne Horion-Hoz\u00e9mont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4470",
+        "Name": "Saint-Georgessur-Meuse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4480",
+        "Name": "Engis Hermallesous-Huy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4480",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4500",
+        "Name": "Huy Ben-Ahin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4520",
+        "Name": "Wanze Bas-Oha",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4530",
+        "Name": "Villersle-Bouillet Vieux-Waleffe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4537",
+        "Name": "Verlaine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4537",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4540",
+        "Name": "Amay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4550",
+        "Name": "Nandrin Villersle-Temple",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4557",
+        "Name": "Tinlot Ramelot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4557",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4560",
+        "Name": "Clavier Terwagne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4570",
+        "Name": "Marchin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4577",
+        "Name": "Modave Vierset-Barse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4577",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4590",
+        "Name": "Ouffet Warz\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4590",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4600",
+        "Name": "Vis\u00e9 Lixhe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4601",
+        "Name": "Vis\u00e9 Argenteau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4601",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4602",
+        "Name": "Vis\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4602",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4606",
+        "Name": "Dalhem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4606",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4607",
+        "Name": "Dalhem Bombaye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4607",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4608",
+        "Name": "Dalhem",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4608",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4610",
+        "Name": "Beyne-Heusay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4610",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4620",
+        "Name": "Fl\u00e9ron",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4621",
+        "Name": "Fl\u00e9ron Retinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4621",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4623",
+        "Name": "Fl\u00e9ron Magn\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4623",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4624",
+        "Name": "Fl\u00e9ron",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4624",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4630",
+        "Name": "Soumagne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4631",
+        "Name": "Soumagne Evegn\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4631",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4632",
+        "Name": "Soumagne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4632",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4633",
+        "Name": "Soumagne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4633",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4650",
+        "Name": "Herve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4651",
+        "Name": "Herve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4651",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4652",
+        "Name": "Herve Xhendelesse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4652",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4653",
+        "Name": "Herve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4653",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4654",
+        "Name": "Herve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4654",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4670",
+        "Name": "Bl\u00e9gny",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4671",
+        "Name": "Bl\u00e9gny Housse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4671",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4672",
+        "Name": "Bl\u00e9gny Saint-Remy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4672",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4680",
+        "Name": "Oupeye Herm\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4681",
+        "Name": "Oupeye Hermallesous-Argenteau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4681",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4682",
+        "Name": "Oupeye Heurele-Romain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4682",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4683",
+        "Name": "Oupeye Vivegnis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4683",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4684",
+        "Name": "Oupeye Haccourt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4684",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4690",
+        "Name": "Bassenge Boirs",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4690",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4700",
+        "Name": "Eupen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4701",
+        "Name": "Eupen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4701",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4710",
+        "Name": "Lontzen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4710",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4711",
+        "Name": "Lontzen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4711",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4720",
+        "Name": "Kelmis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4720",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4721",
+        "Name": "Kelmis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4721",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4728",
+        "Name": "Kelmis Hergenrath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4728",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4730",
+        "Name": "Raeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4731",
+        "Name": "Raeren",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4731",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4750",
+        "Name": "B\u00fctgenbach Elsenborn",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4760",
+        "Name": "B\u00fcllingen Manderfeld",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4760",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4761",
+        "Name": "B\u00fcllingen Rocherath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4761",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4770",
+        "Name": "Amel Meyrode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4770",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4771",
+        "Name": "Amel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4771",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4780",
+        "Name": "Sankt Vith Sankt Vith",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4780",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4782",
+        "Name": "Sankt Vith Sch\u00f6nberg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4782",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4783",
+        "Name": "Sankt Vith Lommersweiler",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4783",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4784",
+        "Name": "Sankt Vith",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4784",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4790",
+        "Name": "Burg-Reuland",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4791",
+        "Name": "Burg-Reuland Thommen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4791",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4800",
+        "Name": "Verviers Lambermont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4801",
+        "Name": "Verviers Stembert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4801",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4802",
+        "Name": "Verviers Heusy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4802",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4820",
+        "Name": "Dison",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4821",
+        "Name": "Dison Andrimont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4821",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4830",
+        "Name": "Limbourg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4831",
+        "Name": "Limbourg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4831",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4834",
+        "Name": "Limbourg",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4834",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4837",
+        "Name": "Baelen Membach",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4837",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4840",
+        "Name": "Welkenraedt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4841",
+        "Name": "Welkenraedt Henri-Chapelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4841",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4845",
+        "Name": "Jalhay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4845",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4850",
+        "Name": "Plombi\u00e8res",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4851",
+        "Name": "Plombi\u00e8res Sippenaeken",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4851",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4852",
+        "Name": "Plombi\u00e8res",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4852",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4860",
+        "Name": "Pepinster",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4861",
+        "Name": "Pepinster",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4861",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4870",
+        "Name": "Trooz Nessonvaux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4877",
+        "Name": "Olne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4877",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4880",
+        "Name": "Aubel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4890",
+        "Name": "Thimister-Clermont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4900",
+        "Name": "Spa",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4910",
+        "Name": "Theux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4920",
+        "Name": "Aywaille",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4950",
+        "Name": "Waimes Sourbrodt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4960",
+        "Name": "Malmedy Bellevaux-Ligneuville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4960",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4970",
+        "Name": "Stavelot Coo",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4980",
+        "Name": "Trois-Ponts",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4983",
+        "Name": "Trois-Ponts",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4983",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4987",
+        "Name": "Stoumont Cheneux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4987",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "4990",
+        "Name": "Lierneux Bra",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE4990",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5000",
+        "Name": "Namur Beez",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5001",
+        "Name": "Namur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5001",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5002",
+        "Name": "Namur Saint-Servais",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5002",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5003",
+        "Name": "Namur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5003",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5004",
+        "Name": "Namur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5004",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5020",
+        "Name": "Namur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5021",
+        "Name": "Namur",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5021",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5022",
+        "Name": "Namur Cognel\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5022",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5024",
+        "Name": "Namur Gelbress\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5024",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5030",
+        "Name": "Gembloux Grand-Manil",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5031",
+        "Name": "Gembloux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5032",
+        "Name": "Gembloux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5032",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5060",
+        "Name": "Sambreville Falisolle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5070",
+        "Name": "Fossesla-Ville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5080",
+        "Name": "La Bruy\u00e8re Rhisnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5080",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5081",
+        "Name": "La Bruy\u00e8re Saint-Denis-Bovesse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5081",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5100",
+        "Name": "Namur Naninne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5100",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5101",
+        "Name": "Namur Livessur-Meuse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5101",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5140",
+        "Name": "Sombreffe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5150",
+        "Name": "Floreffe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5170",
+        "Name": "Profondeville Arbre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5190",
+        "Name": "Jemeppesur-Sambre Spy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5300",
+        "Name": "Andenne Sclayn",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5310",
+        "Name": "Eghez\u00e9e Branchon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5310",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5330",
+        "Name": "Assesse Sart-Bernard",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5330",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5332",
+        "Name": "Assesse Crupet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5332",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5333",
+        "Name": "Assesse Sorinnela-Longue",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5333",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5334",
+        "Name": "Assesse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5334",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5336",
+        "Name": "Assesse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5336",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5340",
+        "Name": "Gesves Haltinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5350",
+        "Name": "Ohey",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5351",
+        "Name": "Ohey Haillot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5351",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5352",
+        "Name": "Ohey Perwez",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5352",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5353",
+        "Name": "Ohey",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5353",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5354",
+        "Name": "Ohey",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5354",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5360",
+        "Name": "Hamois",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5360",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5361",
+        "Name": "Hamois Mohiville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5361",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5362",
+        "Name": "Hamois",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5362",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5363",
+        "Name": "Hamois",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5363",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5364",
+        "Name": "Hamois Schaltin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5364",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5370",
+        "Name": "Havelange Porcheresse",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5372",
+        "Name": "Havelange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5372",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5374",
+        "Name": "Havelange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5374",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5376",
+        "Name": "Havelange Mi\u00e9cret",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5376",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5377",
+        "Name": "Somme-Leuze Waillet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5377",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5380",
+        "Name": "Fernelmont Bierwart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5500",
+        "Name": "Dinant",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5501",
+        "Name": "Dinant",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5501",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5502",
+        "Name": "Dinant Thynes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5502",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5503",
+        "Name": "Dinant",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5503",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5504",
+        "Name": "Dinant",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5504",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5520",
+        "Name": "Onhaye Anth\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5521",
+        "Name": "Onhaye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5521",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5522",
+        "Name": "Onhaye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5522",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5523",
+        "Name": "Onhaye Weillen",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5523",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5524",
+        "Name": "Onhaye",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5524",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5530",
+        "Name": "Yvoir Dorinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5537",
+        "Name": "Anh\u00e9e Hautle-Wastia",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5537",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5540",
+        "Name": "Hasti\u00e8re Hasti\u00e8re-Lavaux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5541",
+        "Name": "Hasti\u00e8re",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5541",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5542",
+        "Name": "Hasti\u00e8re Blaimont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5542",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5543",
+        "Name": "Hasti\u00e8re Heer",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5543",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5544",
+        "Name": "Hasti\u00e8re Agimont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5544",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5550",
+        "Name": "Vressesur-Semois Mouzaive",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5550",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5555",
+        "Name": "Bi\u00e8vre Cornimont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5555",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5560",
+        "Name": "Houyet Ciergnon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5561",
+        "Name": "Houyet Celles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5561",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5562",
+        "Name": "Houyet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5562",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5563",
+        "Name": "Houyet Hour",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5563",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5564",
+        "Name": "Houyet Wanlin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5564",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5570",
+        "Name": "Beauraing Dion",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5570",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5571",
+        "Name": "Beauraing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5571",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5572",
+        "Name": "Beauraing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5572",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5573",
+        "Name": "Beauraing Martouzin-Neuville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5573",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5574",
+        "Name": "Beauraing Pondr\u00f4me",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5574",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5575",
+        "Name": "Gedinne Sart-Custinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5575",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5576",
+        "Name": "Beauraing Froidfontaine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5576",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5580",
+        "Name": "Rochefort Eprave",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5580",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5590",
+        "Name": "Ciney Chevetogne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5590",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5600",
+        "Name": "Philippeville Samart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5620",
+        "Name": "Florennes Morville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5621",
+        "Name": "Florennes Hanzinelle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5621",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5630",
+        "Name": "Cerfontaine Soumoy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5640",
+        "Name": "Mettet Oret",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5641",
+        "Name": "Mettet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5641",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5644",
+        "Name": "Mettet Ermetonsur-Biert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5644",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5646",
+        "Name": "Mettet Stave",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5646",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5650",
+        "Name": "Walcourt Clermont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5650",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5651",
+        "Name": "Walcourt Rogn\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5651",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5660",
+        "Name": "Couvin Culdes-Sarts",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5670",
+        "Name": "Viroinval",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "5680",
+        "Name": "Doische Matagnela-Grande",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE5680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6000",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6001",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6001",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6010",
+        "Name": "Charleroi Couillet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6010",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6020",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6030",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6031",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6032",
+        "Name": "Charleroi Montsur-Marchienne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6032",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6040",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6041",
+        "Name": "Charleroi Gosselies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6041",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6042",
+        "Name": "Charleroi Lodelinsart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6042",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6043",
+        "Name": "Charleroi Ransart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6043",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6044",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6044",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6060",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6061",
+        "Name": "Charleroi",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6061",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6110",
+        "Name": "Montignyle-Tilleul",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6110",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6111",
+        "Name": "Montignyle-Tilleul Landelies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6111",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6120",
+        "Name": "Hamsur-Heure-Nalinnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6140",
+        "Name": "Fontainel'Ev\u00eaque",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6141",
+        "Name": "Fontainel'Ev\u00eaque Forchiesla-Marche",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6141",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6142",
+        "Name": "Fontainel'Ev\u00eaque",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6142",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6150",
+        "Name": "Anderlues",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6150",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6180",
+        "Name": "Courcelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6181",
+        "Name": "Courcelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6181",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6182",
+        "Name": "Courcelles Souvret",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6182",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6183",
+        "Name": "Courcelles Trazegnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6183",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6200",
+        "Name": "Ch\u00e2telet Ch\u00e2telineau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6200",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6210",
+        "Name": "Les Bons Villers Frasneslez-Gosselies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6210",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6211",
+        "Name": "Les Bons Villers",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6211",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6220",
+        "Name": "Fleurus Lambusart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6220",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6221",
+        "Name": "Fleurus",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6221",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6222",
+        "Name": "Fleurus",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6222",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6223",
+        "Name": "Fleurus",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6223",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6224",
+        "Name": "Fleurus",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6224",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6230",
+        "Name": "Pont\u00e0-Celles Viesville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6230",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6238",
+        "Name": "Pont\u00e0-Celles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6238",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6240",
+        "Name": "Farciennes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6240",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6250",
+        "Name": "Aiseau-Presles Roselies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6250",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6280",
+        "Name": "Gerpinnes Loverval",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6280",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6440",
+        "Name": "Froidchapelle Boussulez-Walcourt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6440",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6441",
+        "Name": "Froidchapelle Erpion",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6441",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6460",
+        "Name": "Chimay Villersla-Tour",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6460",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6461",
+        "Name": "Chimay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6461",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6462",
+        "Name": "Chimay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6462",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6463",
+        "Name": "Chimay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6463",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6464",
+        "Name": "Chimay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6464",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6470",
+        "Name": "Sivry-Rance Montbliart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6470",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6500",
+        "Name": "Beaumont Barben\u00e7on",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6511",
+        "Name": "Beaumont Str\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6511",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6530",
+        "Name": "Thuin Leerset-Fosteau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6531",
+        "Name": "Thuin Biesmesous-Thuin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6531",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6532",
+        "Name": "Thuin Ragnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6532",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6533",
+        "Name": "Thuin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6533",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6534",
+        "Name": "Thuin Goz\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6534",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6536",
+        "Name": "Thuin Thuillies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6536",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6540",
+        "Name": "Lobbes Mont-Sainte-Genevi\u00e8ve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6542",
+        "Name": "Lobbes Sarsla-Buissi\u00e8re",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6542",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6543",
+        "Name": "Lobbes Biennelez-Happart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6543",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6560",
+        "Name": "Erquelinnes Grand-Reng",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6560",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6567",
+        "Name": "Merbesle-Ch\u00e2teau Labuissi\u00e8re",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6567",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6590",
+        "Name": "Momignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6590",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6591",
+        "Name": "Momignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6591",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6592",
+        "Name": "Momignies Monceau-Imbrechies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6592",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6593",
+        "Name": "Momignies Macquenoise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6593",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6594",
+        "Name": "Momignies Beauwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6594",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6596",
+        "Name": "Momignies Forge-Philippe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6596",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6600",
+        "Name": "Bastogne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6630",
+        "Name": "Martelange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6630",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6637",
+        "Name": "Fauvillers",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6637",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6640",
+        "Name": "Vaux-sur-S\u00fbre Hompr\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6642",
+        "Name": "Juseret",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6642",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6660",
+        "Name": "Houffalize",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6660",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6661",
+        "Name": "Houffalize Mont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6661",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6662",
+        "Name": "Houffalize Tavigny",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6662",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6663",
+        "Name": "Houffalize Mabompr\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6663",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6666",
+        "Name": "Houffalize Wibrin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6666",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6670",
+        "Name": "Gouvy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6670",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6671",
+        "Name": "Gouvy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6671",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6672",
+        "Name": "Gouvy Beho",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6672",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6673",
+        "Name": "Gouvy Cherain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6673",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6674",
+        "Name": "Gouvy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6674",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6680",
+        "Name": "Sainte-Ode Tillet",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6680",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6681",
+        "Name": "Sainte-Ode",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6681",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6686",
+        "Name": "Bertogne Flamierge",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6686",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6687",
+        "Name": "Bertogne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6687",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6688",
+        "Name": "Bertogne Longchamps",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6688",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6690",
+        "Name": "Vielsalm",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6690",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6692",
+        "Name": "Vielsalm",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6692",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6698",
+        "Name": "Vielsalm",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6698",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6700",
+        "Name": "Arlon Toernich",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6704",
+        "Name": "Arlon Guirsch",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6704",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6706",
+        "Name": "Arlon Autelbas",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6706",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6717",
+        "Name": "Attert Nobressart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6717",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6720",
+        "Name": "Habay Habayla-Neuve",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6720",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6721",
+        "Name": "Habay",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6721",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6723",
+        "Name": "Habay Habayla-Vieille",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6723",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6724",
+        "Name": "Habay Marbehan",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6724",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6730",
+        "Name": "Tintigny Rossignol",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6740",
+        "Name": "Etalle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6740",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6741",
+        "Name": "Etalle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6741",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6742",
+        "Name": "Etalle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6742",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6743",
+        "Name": "Etalle",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6743",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6747",
+        "Name": "Saint-L\u00e9ger Meixle-Tige",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6747",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6750",
+        "Name": "Musson Signeulx",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6760",
+        "Name": "Virton Ruette",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6760",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6761",
+        "Name": "Virton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6761",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6762",
+        "Name": "Virton Saint-Mard",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6762",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6767",
+        "Name": "Rouvroy Harnoncourt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6767",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6769",
+        "Name": "Meixdevant-Virton Robelmont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6769",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6780",
+        "Name": "Messancy Hondelange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6780",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6781",
+        "Name": "Messancy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6781",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6782",
+        "Name": "Messancy Habergy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6782",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6790",
+        "Name": "Aubange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6790",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6791",
+        "Name": "Aubange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6791",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6792",
+        "Name": "Aubange",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6792",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6800",
+        "Name": "Libramont-Chevigny Recogne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6810",
+        "Name": "Chiny Izel",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6810",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6811",
+        "Name": "Chiny Les Bulles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6811",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6812",
+        "Name": "Chiny Suxy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6812",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6813",
+        "Name": "Chiny Termes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6813",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6820",
+        "Name": "Florenville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6820",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6821",
+        "Name": "Florenville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6821",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6823",
+        "Name": "Florenville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6823",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6824",
+        "Name": "Florenville Chassepierre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6824",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6830",
+        "Name": "Bouillon Les Hayons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6831",
+        "Name": "Bouillon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6831",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6832",
+        "Name": "Bouillon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6832",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6833",
+        "Name": "Bouillon Vivy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6833",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6834",
+        "Name": "Bouillon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6834",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6836",
+        "Name": "Bouillon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6836",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6838",
+        "Name": "Bouillon Corbion",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6838",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6840",
+        "Name": "Neufch\u00e2teau Hamipr\u00e9",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6840",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6850",
+        "Name": "Paliseul",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6851",
+        "Name": "Paliseul Nollevaux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6851",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6852",
+        "Name": "Paliseul Opont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6852",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6853",
+        "Name": "Paliseul",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6853",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6856",
+        "Name": "Paliseul Faysles-Veneurs",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6856",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6860",
+        "Name": "L\u00e9glise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6870",
+        "Name": "Saint-Hubert Hatrival",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6880",
+        "Name": "Bertrix Jehonville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6887",
+        "Name": "Herbeumont Saint-M\u00e9dard",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6887",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6890",
+        "Name": "Libin Transinne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6900",
+        "Name": "Marche-en-Famenne Humain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6920",
+        "Name": "Wellin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6920",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6921",
+        "Name": "Wellin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6921",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6922",
+        "Name": "Wellin Halma",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6922",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6924",
+        "Name": "Wellin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6924",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6927",
+        "Name": "Tellin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6927",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6929",
+        "Name": "Daverdisse Haut-Fays",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6929",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6940",
+        "Name": "Durbuy W\u00e9ris",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6941",
+        "Name": "Durbuy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6941",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6950",
+        "Name": "Nassogne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6951",
+        "Name": "Nassogne Bande",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6951",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6952",
+        "Name": "Nassogne Grune",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6952",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6953",
+        "Name": "Nassogne Lesterny",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6953",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6960",
+        "Name": "Manhay Harre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6960",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6970",
+        "Name": "Tenneville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6971",
+        "Name": "Tenneville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6971",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6972",
+        "Name": "Tenneville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6972",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6980",
+        "Name": "La Rocheen-Ardenne Beausaint",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6980",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6982",
+        "Name": "La Rocheen-Ardenne Samr\u00e9e",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6982",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6983",
+        "Name": "La Rocheen-Ardenne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6983",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6984",
+        "Name": "La Rocheen-Ardenne Hives",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6984",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6986",
+        "Name": "La Rocheen-Ardenne Halleux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6986",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6987",
+        "Name": "Rendeux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6987",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6990",
+        "Name": "Hotton Fronville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6990",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "6997",
+        "Name": "Erez\u00e9e Mormont",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE6997",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7000",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7000",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7010",
+        "Name": "S.H.A.P.E. Belgique",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7010",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7011",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7011",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7012",
+        "Name": "Mons Fl\u00e9nu",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7012",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7020",
+        "Name": "Mons Casteau,Maisi\u00e8res,Masnuy-Saint-Jean",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7020",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7021",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7021",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7022",
+        "Name": "Mons Mesvin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7022",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7024",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7024",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7030",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7030",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7031",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7031",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7032",
+        "Name": "Mons Spiennes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7032",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7033",
+        "Name": "Mons Cuesmes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7033",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7034",
+        "Name": "Mons",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7034",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7040",
+        "Name": "Qu\u00e9vy Qu\u00e9vyle-Grand",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7040",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7041",
+        "Name": "Qu\u00e9vy Givry",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7041",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7050",
+        "Name": "Jurbise Erbaut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7050",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7060",
+        "Name": "Soignies Horrues",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7060",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7061",
+        "Name": "Soignies Casteau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7061",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7062",
+        "Name": "Soignies Naast",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7062",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7063",
+        "Name": "Soignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7063",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7070",
+        "Name": "Le Roeulx Thieu",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7070",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7080",
+        "Name": "Frameries Sarsla-Bruy\u00e8re",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7080",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7090",
+        "Name": "Brainele-Comte Ronqui\u00e8res",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7090",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7100",
+        "Name": "La Louvi\u00e8re Saint-Vaast",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7100",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7110",
+        "Name": "La Louvi\u00e8re Houdeng-Goegnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7110",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7120",
+        "Name": "Estinnes Estinnesau-Val",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7120",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7130",
+        "Name": "Binche",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7130",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7131",
+        "Name": "Binche",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7131",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7133",
+        "Name": "Binche",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7133",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7134",
+        "Name": "Binche Leval-Trahegnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7134",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7140",
+        "Name": "Morlanwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7140",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7141",
+        "Name": "Morlanwelz Mont-Sainte-Aldegonde",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7141",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7160",
+        "Name": "Chapellelez-Herlaimont Godarville",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7160",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7170",
+        "Name": "Manage Boisd'Haine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7170",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7180",
+        "Name": "Seneffe",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7180",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7181",
+        "Name": "Seneffe Familleureux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7181",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7190",
+        "Name": "Ecaussinnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7190",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7191",
+        "Name": "Ecaussinnes Ecaussinnes-Lalaing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7191",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7300",
+        "Name": "Boussu",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7300",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7301",
+        "Name": "Boussu Hornu",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7301",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7320",
+        "Name": "Bernissart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7320",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7321",
+        "Name": "Bernissart",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7321",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7322",
+        "Name": "Bernissart Pommeroeul",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7322",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7330",
+        "Name": "Saint-Ghislain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7330",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7331",
+        "Name": "Saint-Ghislain Baudour",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7331",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7332",
+        "Name": "Saint-Ghislain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7332",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7333",
+        "Name": "Saint-Ghislain Tertre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7333",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7334",
+        "Name": "Saint-Ghislain Villerot",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7334",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7340",
+        "Name": "Colfontaine P\u00e2turages",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7340",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7350",
+        "Name": "Hensies Montroeulsur-Haine",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7350",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7370",
+        "Name": "Dour Elouges",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7370",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7380",
+        "Name": "Qui\u00e9vrain Baisieux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7380",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7382",
+        "Name": "Qui\u00e9vrain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7382",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7387",
+        "Name": "Honnelles Angreau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7387",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7390",
+        "Name": "Quaregnon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7390",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7500",
+        "Name": "Tournai Ere",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7500",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7501",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7501",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7502",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7502",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7503",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7503",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7504",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7504",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7506",
+        "Name": "Tournai Willemeau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7506",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7520",
+        "Name": "Tournai Ramegnies-Chin",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7520",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7521",
+        "Name": "Tournai Chercq",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7521",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7522",
+        "Name": "Tournai Marquain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7522",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7530",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7530",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7531",
+        "Name": "Tournai Havinnes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7531",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7532",
+        "Name": "Tournai Beclers",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7532",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7533",
+        "Name": "Tournai Thimougies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7533",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7534",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7534",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7536",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7536",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7538",
+        "Name": "Tournai Vezon",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7538",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7540",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7540",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7542",
+        "Name": "Tournai Mont-Saint-Aubert",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7542",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7543",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7543",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7548",
+        "Name": "Tournai",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7548",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7600",
+        "Name": "P\u00e9ruwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7600",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7601",
+        "Name": "P\u00e9ruwelz Roucourt",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7601",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7602",
+        "Name": "P\u00e9ruwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7602",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7603",
+        "Name": "P\u00e9ruwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7603",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7604",
+        "Name": "P\u00e9ruwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7604",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7608",
+        "Name": "P\u00e9ruwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7608",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7610",
+        "Name": "Rumes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7610",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7611",
+        "Name": "Rumes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7611",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7618",
+        "Name": "Rumes Taintignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7618",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7620",
+        "Name": "Brunehaut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7620",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7621",
+        "Name": "Brunehaut Lesdain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7621",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7622",
+        "Name": "Brunehaut Laplaigne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7622",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7623",
+        "Name": "Brunehaut Rongy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7623",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7624",
+        "Name": "Brunehaut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7624",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7640",
+        "Name": "Antoing P\u00e9ronneslez-Antoing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7640",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7641",
+        "Name": "Antoing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7641",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7642",
+        "Name": "Antoing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7642",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7643",
+        "Name": "Antoing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7643",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7700",
+        "Name": "Mouscron",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7700",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7711",
+        "Name": "Mouscron Dottignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7711",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7712",
+        "Name": "Mouscron Herseaux",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7712",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7730",
+        "Name": "Estaimpuis Evregnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7730",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7740",
+        "Name": "Pecq Warcoing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7740",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7742",
+        "Name": "Pecq H\u00e9rinneslez-Pecq",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7742",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7743",
+        "Name": "Pecq Esquelmes",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7743",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7750",
+        "Name": "Montdel'Enclus Russeignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7750",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7760",
+        "Name": "Celles Escanaffles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7760",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7780",
+        "Name": "Comines-Warneton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7780",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7781",
+        "Name": "Comines-Warneton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7781",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7782",
+        "Name": "Comines-Warneton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7782",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7783",
+        "Name": "Comines-Warneton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7783",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7784",
+        "Name": "Comines-Warneton Warneton",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7784",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7800",
+        "Name": "Ath Lanquesaint",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7800",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7801",
+        "Name": "Ath Irchonwelz",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7801",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7802",
+        "Name": "Ath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7802",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7803",
+        "Name": "Ath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7803",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7804",
+        "Name": "Ath Ostiches",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7804",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7810",
+        "Name": "Ath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7810",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7811",
+        "Name": "Ath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7811",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7812",
+        "Name": "Ath Villers-Saint-Amand",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7812",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7822",
+        "Name": "Ath",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7822",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7823",
+        "Name": "Ath Gibecq",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7823",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7830",
+        "Name": "Silly Gondregnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7830",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7850",
+        "Name": "Enghien",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7850",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7860",
+        "Name": "Lessines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7860",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7861",
+        "Name": "Lessines Papignies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7861",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7862",
+        "Name": "Lessines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7862",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7863",
+        "Name": "Lessines Ghoy",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7863",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7864",
+        "Name": "Lessines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7864",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7866",
+        "Name": "Lessines Boisde-Lessines",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7866",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7870",
+        "Name": "Lens Cambron-Saint-Vincent",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7870",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7880",
+        "Name": "Flobecq",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7880",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7890",
+        "Name": "Ellezelles",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7890",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7900",
+        "Name": "Leuzeen-Hainaut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7900",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7901",
+        "Name": "Leuzeen-Hainaut Thieulain",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7901",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7903",
+        "Name": "Leuzeen-Hainaut Chapelle\u00e0-Oie",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7903",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7904",
+        "Name": "Leuzeen-Hainaut Willaupuis",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7904",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7906",
+        "Name": "Leuzeen-Hainaut",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7906",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7910",
+        "Name": "Frasneslez-Anvaing Anvaing",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7910",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7911",
+        "Name": "Frasneslez-Anvaing Oeudeghien",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7911",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7912",
+        "Name": "Frasneslez-Anvaing Dergneau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7912",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7940",
+        "Name": "Brugelette Cambron-Casteau",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7940",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7941",
+        "Name": "Brugelette Attre",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7941",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7942",
+        "Name": "Brugelette M\u00e9vergnieslez-Lens",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7942",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7943",
+        "Name": "Brugelette Gages",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7943",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7950",
+        "Name": "Chi\u00e8vres",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7950",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7951",
+        "Name": "Chi\u00e8vres",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7951",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7970",
+        "Name": "Beloeil",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7970",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7971",
+        "Name": "Beloeil Ramegnies",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7971",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7972",
+        "Name": "Beloeil Ellignies-Sainte-Anne",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7972",
+        "Country": "Belgium"
+    },
+    {
+        "Code": "7973",
+        "Name": "Beloeil Grandglise",
+        "Catchment": "Yes",
+        "AVM": "Belgian",
+        "Key": "BE7973",
+        "Country": "Belgium"
+    }
+]    
 
-]
-    `;
+ `;
