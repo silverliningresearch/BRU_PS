@@ -22,24 +22,19 @@ function load_postal_code() {
   console.log("load_postal_code started...");
 
   var country = api.fn.answers().Q55_Recoded;
-  if (country ==='Belgium' || country ==='比利时' || country ==='Belgique' 
-   || country ==='Belgien')  {
+  if (country.includes('Belgium')) {
     rawList = JSON.parse(postalCodeBelgium);
   }
-  else if (country ==='France' || country ==='法国' || country ==='France' 
-  || country ==='Frankreich' ) {
+  else if (country.includes('France')) {
     rawList = JSON.parse(postalCodeFrance);
   }
-  else if (country ==='Germany' || country ==='德国'|| country ==='Allemagne' 
-    || country ==='Deutschland') {
+  else if (country.includes('Germany')) {
     rawList = JSON.parse(postalCodeGermany);
   }
-  else if (country ==='Luxembourg' || country ==='卢森堡' || country ==='Luxembourg' 
-  || country ==='Luxemburg') {
+  else if (country.includes('Luxembourg')) {
     rawList = JSON.parse(postalCodeLuxembourg);
   }
-  else if (country ==='Netherlands' || country ==='荷兰' || country ==='Pays-Bas' 
-  || country ==='Niederlande' )  {
+  else if (country.includes('Netherlands'))  {
     rawList = JSON.parse(postalCodeNetherlands);
   }
   else {
