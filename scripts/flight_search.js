@@ -155,7 +155,9 @@ function select_flight() {
       api.fn.answers({Q4_destination_name: currentFlight.DestName});
       api.fn.answers({Q4_via: currentFlight.Via});
       api.fn.answers({Q4_via_name: currentFlight.ViaName});
+      api.fn.answers({Q4_Schengen: currentFlight.Schengen});
       api.fn.answers({Q4_destination_name_combine: currentFlight.DestinationNameCombine});
+      
       
       console.log("currentFlight: ", currentFlight);
       found = true;
