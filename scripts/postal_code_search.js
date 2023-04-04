@@ -74,7 +74,7 @@ function update_postal_code_search_box() {
       postalCodeShortList.push(postcalCode);
       count++;
     }
-    if (count > 30) break;
+    if (count > 7) break;
   }
 
   if (find_postal_code(postalCodeList, document.getElementById('inputPostalCodeID').value)) {
