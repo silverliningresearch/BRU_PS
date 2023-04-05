@@ -91,14 +91,17 @@ function calculate_distance()
             api.fn.answers({Q11_final_airport_lat: final_airport_lat}); 
             api.fn.answers({Q11_final_airport_long: final_airport_long}); 
 
-            if ((BRU_next_distance + BRU_final_distance) > 2*next_final_distance)
+            //old: if ((BRU_next_distance + BRU_final_distance) > 2*next_final_distance)
+            if ((BRU_next_distance +next_final_distance) > 2*BRU_final_distance)
             {
-              api.fn.answers({Q11_Detour_Check: 1});                 
+              api.fn.answers({Q11_Detour_Check_Result: 1});     
+              api.fn.answers({Q11_Detour_Check: 1}); //used for condition           
               console.log("result: this route seems like a detour");     
             }
             else
             {
-              api.fn.answers({Q11_Detour_Check: 0});                 
+              api.fn.answers({Q11_Detour_Check_Result: 0});  
+              api.fn.answers({Q11_Detour_Check: 0}); //used for condition               
               console.log("result: this route seems a actual route");  
             }
 
