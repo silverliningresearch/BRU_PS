@@ -150,7 +150,6 @@ function select_flight() {
       api.fn.answers({Q4_airline_name:   airlineName}); //airline name
       api.fn.answers({Q4_airline:   currentFlight.AirlineCode}); //airline code
       api.fn.answers({Q4_flight_number:   currentFlight.Flight});
-      api.fn.answers({Core_Q54:   currentFlight.Flight});
       api.fn.answers({Q4_destination:   currentFlight.Dest});
       api.fn.answers({Q4_destination_name: currentFlight.DestName});
       api.fn.answers({Q4_via: currentFlight.Via});
