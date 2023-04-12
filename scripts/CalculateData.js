@@ -56,7 +56,8 @@ function CalculateAirportAirLineReport() {
       }
     }  
   }
-
+  
+  total_completed_percent = (100*(total_completed/total_quota)).toFixed(0);   
   daily_plan_data = [];
   daily_plan_data.length = 0;
 
