@@ -26,7 +26,7 @@
  },
  {
   "Code": "1007",
-  "Name": "Ass. Commiss. Communau. fran\u00e7aise, Bruxelles",
+  "Name": "Ass. Commiss. Communau. francaise, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1007",
@@ -34,7 +34,7 @@
  },
  {
   "Code": "1008",
-  "Name": "Chambre des Repr\u00e9sentants, Bruxelles",
+  "Name": "Chambre des Representants, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1008",
@@ -50,7 +50,7 @@
  },
  {
   "Code": "1010",
-  "Name": "Cit\u00e9 Administrative de l'Etat, Bruxelles",
+  "Name": "Cite Administrative de l'Etat, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1010",
@@ -66,7 +66,7 @@
  },
  {
   "Code": "1012",
-  "Name": "Parlement de la Communaut\u00e9 fran\u00e7aise, Bruxelles",
+  "Name": "Parlement de la Communaute francaise, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1012",
@@ -90,7 +90,7 @@
  },
  {
   "Code": "1031",
-  "Name": "Organisations Sociales Chr\u00e9tiennes, Bruxelles",
+  "Name": "Organisations Sociales Chretiennes, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1031",
@@ -138,7 +138,7 @@
  },
  {
   "Code": "1047",
-  "Name": "Parlement Europ\u00e9en, Bruxelles",
+  "Name": "Parlement Europeen, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1047",
@@ -298,7 +298,7 @@
  },
  {
   "Code": "1200",
-  "Name": "Bruxelles Woluw\u00e9-Saint-Lambert, Bruxelles",
+  "Name": "Bruxelles Woluwe-Saint-Lambert, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1200",
@@ -322,7 +322,7 @@
  },
  {
   "Code": "1212",
-  "Name": "SPF Mobilit\u00e9, Bruxelles",
+  "Name": "SPF Mobilite, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1212",
@@ -4538,7 +4538,7 @@
  },
  {
   "Code": "1315",
-  "Name": "Incourt Pi\u00e8trebais, Brabant Wallon",
+  "Name": "Incourt Pietrebais, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1315",
@@ -4570,7 +4570,7 @@
  },
  {
   "Code": "1331",
-  "Name": "Rixensart Rosi\u00e8res, Brabant Wallon",
+  "Name": "Rixensart Rosieres, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1331",
@@ -4594,7 +4594,7 @@
  },
  {
   "Code": "1341",
-  "Name": "Ottignies-Louvainla-Neuve C\u00e9roux-Mousty, Brabant Wallon",
+  "Name": "Ottignies-Louvainla-Neuve Ceroux-Mousty, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1341",
@@ -4642,7 +4642,7 @@
  },
  {
   "Code": "1367",
-  "Name": "Ramillies G\u00e9rompont, Brabant Wallon",
+  "Name": "Ramillies Gerompont, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1367",
@@ -4650,7 +4650,7 @@
  },
  {
   "Code": "1370",
-  "Name": "Jodoigne M\u00e9lin, Brabant Wallon",
+  "Name": "Jodoigne Melin, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1370",
@@ -4762,7 +4762,7 @@
  },
  {
   "Code": "1440",
-  "Name": "Brainele-Ch\u00e2teau Wauthier-Braine, Brabant Wallon",
+  "Name": "Brainele-Chateau Wauthier-Braine, Brabant Wallon",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1440",
@@ -4874,7 +4874,7 @@
  },
  {
   "Code": "4000",
-  "Name": "Li\u00e8ge, Li\u00e8ge",
+  "Name": "Liege, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4000",
@@ -4882,7 +4882,7 @@
  },
  {
   "Code": "4020",
-  "Name": "Li\u00e8ge Wandre, Li\u00e8ge",
+  "Name": "Liege Wandre, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4020",
@@ -4890,7 +4890,7 @@
  },
  {
   "Code": "4030",
-  "Name": "Li\u00e8ge Grivegn\u00e9e, Li\u00e8ge",
+  "Name": "Liege Grivegnee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4030",
@@ -4898,7 +4898,7 @@
  },
  {
   "Code": "4031",
-  "Name": "Li\u00e8ge Angleur, Li\u00e8ge",
+  "Name": "Liege Angleur, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4031",
@@ -4906,7 +4906,7 @@
  },
  {
   "Code": "4032",
-  "Name": "Li\u00e8ge Ch\u00ean\u00e9e, Li\u00e8ge",
+  "Name": "Liege Chenee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4032",
@@ -4914,7 +4914,7 @@
  },
  {
   "Code": "4040",
-  "Name": "Herstal, Li\u00e8ge",
+  "Name": "Herstal, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4040",
@@ -4922,7 +4922,7 @@
  },
  {
   "Code": "4041",
-  "Name": "Herstal Milmort, Li\u00e8ge",
+  "Name": "Herstal Milmort, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4041",
@@ -4930,7 +4930,7 @@
  },
  {
   "Code": "4042",
-  "Name": "Herstal, Li\u00e8ge",
+  "Name": "Herstal, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4042",
@@ -4938,7 +4938,7 @@
  },
  {
   "Code": "4050",
-  "Name": "Chaudfontaine, Li\u00e8ge",
+  "Name": "Chaudfontaine, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4050",
@@ -4946,7 +4946,7 @@
  },
  {
   "Code": "4051",
-  "Name": "Chaudfontaine Vauxsous-Ch\u00e8vremont, Li\u00e8ge",
+  "Name": "Chaudfontaine Vauxsous-Chevremont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4051",
@@ -4954,7 +4954,7 @@
  },
  {
   "Code": "4052",
-  "Name": "Chaudfontaine, Li\u00e8ge",
+  "Name": "Chaudfontaine, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4052",
@@ -4962,7 +4962,7 @@
  },
  {
   "Code": "4053",
-  "Name": "Chaudfontaine, Li\u00e8ge",
+  "Name": "Chaudfontaine, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4053",
@@ -4970,7 +4970,7 @@
  },
  {
   "Code": "4100",
-  "Name": "Seraing Boncelles, Li\u00e8ge",
+  "Name": "Seraing Boncelles, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4100",
@@ -4978,7 +4978,7 @@
  },
  {
   "Code": "4101",
-  "Name": "Seraing Jemeppesur-Meuse, Li\u00e8ge",
+  "Name": "Seraing Jemeppesur-Meuse, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4101",
@@ -4986,7 +4986,7 @@
  },
  {
   "Code": "4102",
-  "Name": "Seraing Ougr\u00e9e, Li\u00e8ge",
+  "Name": "Seraing Ougree, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4102",
@@ -4994,7 +4994,7 @@
  },
  {
   "Code": "4120",
-  "Name": "Neupr\u00e9 Ehein, Li\u00e8ge",
+  "Name": "Neupre Ehein, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4120",
@@ -5002,7 +5002,7 @@
  },
  {
   "Code": "4121",
-  "Name": "Neupr\u00e9 Neuvilleen-Condroz, Li\u00e8ge",
+  "Name": "Neupre Neuvilleen-Condroz, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4121",
@@ -5010,7 +5010,7 @@
  },
  {
   "Code": "4122",
-  "Name": "Neupr\u00e9 Plainevaux, Li\u00e8ge",
+  "Name": "Neupre Plainevaux, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4122",
@@ -5018,7 +5018,7 @@
  },
  {
   "Code": "4130",
-  "Name": "Esneux Tilff, Li\u00e8ge",
+  "Name": "Esneux Tilff, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4130",
@@ -5026,7 +5026,7 @@
  },
  {
   "Code": "4140",
-  "Name": "Sprimont Gomze-Andoumont, Li\u00e8ge",
+  "Name": "Sprimont Gomze-Andoumont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4140",
@@ -5034,7 +5034,7 @@
  },
  {
   "Code": "4141",
-  "Name": "Sprimont Louveign\u00e9, Li\u00e8ge",
+  "Name": "Sprimont Louveigne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4141",
@@ -5042,7 +5042,7 @@
  },
  {
   "Code": "4151",
-  "Name": "Anthisnes, Li\u00e8ge",
+  "Name": "Anthisnes, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4151",
@@ -5050,7 +5050,7 @@
  },
  {
   "Code": "4160",
-  "Name": "Anthisnes, Li\u00e8ge",
+  "Name": "Anthisnes, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4160",
@@ -5058,7 +5058,7 @@
  },
  {
   "Code": "4161",
-  "Name": "Anthisnes Villersaux-Tours, Li\u00e8ge",
+  "Name": "Anthisnes Villersaux-Tours, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4161",
@@ -5066,7 +5066,7 @@
  },
  {
   "Code": "4162",
-  "Name": "Anthisnes, Li\u00e8ge",
+  "Name": "Anthisnes, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4162",
@@ -5074,7 +5074,7 @@
  },
  {
   "Code": "4163",
-  "Name": "Anthisnes Tavier, Li\u00e8ge",
+  "Name": "Anthisnes Tavier, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4163",
@@ -5082,7 +5082,7 @@
  },
  {
   "Code": "4170",
-  "Name": "Comblainau-Pont, Li\u00e8ge",
+  "Name": "Comblainau-Pont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4170",
@@ -5090,7 +5090,7 @@
  },
  {
   "Code": "4171",
-  "Name": "Comblainau-Pont Poulseur, Li\u00e8ge",
+  "Name": "Comblainau-Pont Poulseur, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4171",
@@ -5098,7 +5098,7 @@
  },
  {
   "Code": "4180",
-  "Name": "Hamoir Comblain-Fairon, Li\u00e8ge",
+  "Name": "Hamoir Comblain-Fairon, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4180",
@@ -5106,7 +5106,7 @@
  },
  {
   "Code": "4181",
-  "Name": "Hamoir, Li\u00e8ge",
+  "Name": "Hamoir, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4181",
@@ -5114,7 +5114,7 @@
  },
  {
   "Code": "4190",
-  "Name": "Ferri\u00e8res Xhoris, Li\u00e8ge",
+  "Name": "Ferrieres Xhoris, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4190",
@@ -5122,7 +5122,7 @@
  },
  {
   "Code": "4210",
-  "Name": "Burdinne Lamontz\u00e9e, Li\u00e8ge",
+  "Name": "Burdinne Lamontzee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4210",
@@ -5130,7 +5130,7 @@
  },
  {
   "Code": "4217",
-  "Name": "H\u00e9ron Waretl'Ev\u00eaque, Li\u00e8ge",
+  "Name": "Heron Waretl'Eveque, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4217",
@@ -5138,7 +5138,7 @@
  },
  {
   "Code": "4218",
-  "Name": "H\u00e9ron Couthuin, Li\u00e8ge",
+  "Name": "Heron Couthuin, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4218",
@@ -5146,7 +5146,7 @@
  },
  {
   "Code": "4219",
-  "Name": "Wasseiges, Li\u00e8ge",
+  "Name": "Wasseiges, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4219",
@@ -5154,7 +5154,7 @@
  },
  {
   "Code": "4250",
-  "Name": "Geer Hollognesur-Geer, Li\u00e8ge",
+  "Name": "Geer Hollognesur-Geer, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4250",
@@ -5162,7 +5162,7 @@
  },
  {
   "Code": "4252",
-  "Name": "Geer Omal, Li\u00e8ge",
+  "Name": "Geer Omal, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4252",
@@ -5170,7 +5170,7 @@
  },
  {
   "Code": "4253",
-  "Name": "Geer, Li\u00e8ge",
+  "Name": "Geer, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4253",
@@ -5178,7 +5178,7 @@
  },
  {
   "Code": "4254",
-  "Name": "Geer Ligney, Li\u00e8ge",
+  "Name": "Geer Ligney, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4254",
@@ -5186,7 +5186,7 @@
  },
  {
   "Code": "4257",
-  "Name": "Berloz, Li\u00e8ge",
+  "Name": "Berloz, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4257",
@@ -5194,7 +5194,7 @@
  },
  {
   "Code": "4260",
-  "Name": "Braives Fallais, Li\u00e8ge",
+  "Name": "Braives Fallais, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4260",
@@ -5202,7 +5202,7 @@
  },
  {
   "Code": "4261",
-  "Name": "Braives Latinne, Li\u00e8ge",
+  "Name": "Braives Latinne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4261",
@@ -5210,7 +5210,7 @@
  },
  {
   "Code": "4263",
-  "Name": "Braives Tourinne, Li\u00e8ge",
+  "Name": "Braives Tourinne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4263",
@@ -5218,7 +5218,7 @@
  },
  {
   "Code": "4280",
-  "Name": "Hannut, Li\u00e8ge",
+  "Name": "Hannut, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4280",
@@ -5226,7 +5226,7 @@
  },
  {
   "Code": "4287",
-  "Name": "Lincent Pellaines, Li\u00e8ge",
+  "Name": "Lincent Pellaines, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4287",
@@ -5234,7 +5234,7 @@
  },
  {
   "Code": "4300",
-  "Name": "Waremme Oleye, Li\u00e8ge",
+  "Name": "Waremme Oleye, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4300",
@@ -5242,7 +5242,7 @@
  },
  {
   "Code": "4317",
-  "Name": "Faimes Celles, Li\u00e8ge",
+  "Name": "Faimes Celles, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4317",
@@ -5250,7 +5250,7 @@
  },
  {
   "Code": "4340",
-  "Name": "Awans Oth\u00e9e, Li\u00e8ge",
+  "Name": "Awans Othee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4340",
@@ -5258,7 +5258,7 @@
  },
  {
   "Code": "4342",
-  "Name": "Awans Hognoul, Li\u00e8ge",
+  "Name": "Awans Hognoul, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4342",
@@ -5266,7 +5266,7 @@
  },
  {
   "Code": "4347",
-  "Name": "Fexhele-Haut-Clocher Voroux-Goreux, Li\u00e8ge",
+  "Name": "Fexhele-Haut-Clocher Voroux-Goreux, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4347",
@@ -5274,7 +5274,7 @@
  },
  {
   "Code": "4350",
-  "Name": "Remicourt Momalle, Li\u00e8ge",
+  "Name": "Remicourt Momalle, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4350",
@@ -5282,7 +5282,7 @@
  },
  {
   "Code": "4351",
-  "Name": "Remicourt Hodeige, Li\u00e8ge",
+  "Name": "Remicourt Hodeige, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4351",
@@ -5290,7 +5290,7 @@
  },
  {
   "Code": "4357",
-  "Name": "Donceel Haneffe, Li\u00e8ge",
+  "Name": "Donceel Haneffe, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4357",
@@ -5298,7 +5298,7 @@
  },
  {
   "Code": "4360",
-  "Name": "Oreye, Li\u00e8ge",
+  "Name": "Oreye, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4360",
@@ -5306,7 +5306,7 @@
  },
  {
   "Code": "4367",
-  "Name": "Crisn\u00e9e, Li\u00e8ge",
+  "Name": "Crisnee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4367",
@@ -5314,7 +5314,7 @@
  },
  {
   "Code": "4400",
-  "Name": "Fl\u00e9malle Monslez-Li\u00e8ge, Li\u00e8ge",
+  "Name": "Flemalle Monslez-Liege, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4400",
@@ -5322,7 +5322,7 @@
  },
  {
   "Code": "4420",
-  "Name": "Saint-Nicolas Tilleur, Li\u00e8ge",
+  "Name": "Saint-Nicolas Tilleur, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4420",
@@ -5330,7 +5330,7 @@
  },
  {
   "Code": "4430",
-  "Name": "Ans, Li\u00e8ge",
+  "Name": "Ans, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4430",
@@ -5338,7 +5338,7 @@
  },
  {
   "Code": "4431",
-  "Name": "Ans, Li\u00e8ge",
+  "Name": "Ans, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4431",
@@ -5346,7 +5346,7 @@
  },
  {
   "Code": "4432",
-  "Name": "Ans Alleur, Li\u00e8ge",
+  "Name": "Ans Alleur, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4432",
@@ -5354,7 +5354,7 @@
  },
  {
   "Code": "4450",
-  "Name": "Juprelle Slins, Li\u00e8ge",
+  "Name": "Juprelle Slins, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4450",
@@ -5362,7 +5362,7 @@
  },
  {
   "Code": "4451",
-  "Name": "Juprelle, Li\u00e8ge",
+  "Name": "Juprelle, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4451",
@@ -5370,7 +5370,7 @@
  },
  {
   "Code": "4452",
-  "Name": "Juprelle Paifve, Li\u00e8ge",
+  "Name": "Juprelle Paifve, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4452",
@@ -5378,7 +5378,7 @@
  },
  {
   "Code": "4453",
-  "Name": "Juprelle, Li\u00e8ge",
+  "Name": "Juprelle, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4453",
@@ -5386,7 +5386,7 @@
  },
  {
   "Code": "4458",
-  "Name": "Juprelle Fexhe-Slins, Li\u00e8ge",
+  "Name": "Juprelle Fexhe-Slins, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4458",
@@ -5394,7 +5394,7 @@
  },
  {
   "Code": "4460",
-  "Name": "Gr\u00e2ce-Hollogne Horion-Hoz\u00e9mont, Li\u00e8ge",
+  "Name": "Grace-Hollogne Horion-Hozemont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4460",
@@ -5402,7 +5402,7 @@
  },
  {
   "Code": "4470",
-  "Name": "Saint-Georgessur-Meuse, Li\u00e8ge",
+  "Name": "Saint-Georgessur-Meuse, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4470",
@@ -5410,7 +5410,7 @@
  },
  {
   "Code": "4480",
-  "Name": "Engis Hermallesous-Huy, Li\u00e8ge",
+  "Name": "Engis Hermallesous-Huy, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4480",
@@ -5418,7 +5418,7 @@
  },
  {
   "Code": "4500",
-  "Name": "Huy Ben-Ahin, Li\u00e8ge",
+  "Name": "Huy Ben-Ahin, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4500",
@@ -5426,7 +5426,7 @@
  },
  {
   "Code": "4520",
-  "Name": "Wanze Bas-Oha, Li\u00e8ge",
+  "Name": "Wanze Bas-Oha, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4520",
@@ -5434,7 +5434,7 @@
  },
  {
   "Code": "4530",
-  "Name": "Villersle-Bouillet Vieux-Waleffe, Li\u00e8ge",
+  "Name": "Villersle-Bouillet Vieux-Waleffe, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4530",
@@ -5442,7 +5442,7 @@
  },
  {
   "Code": "4537",
-  "Name": "Verlaine, Li\u00e8ge",
+  "Name": "Verlaine, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4537",
@@ -5450,7 +5450,7 @@
  },
  {
   "Code": "4540",
-  "Name": "Amay, Li\u00e8ge",
+  "Name": "Amay, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4540",
@@ -5458,7 +5458,7 @@
  },
  {
   "Code": "4550",
-  "Name": "Nandrin Villersle-Temple, Li\u00e8ge",
+  "Name": "Nandrin Villersle-Temple, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4550",
@@ -5466,7 +5466,7 @@
  },
  {
   "Code": "4557",
-  "Name": "Tinlot Ramelot, Li\u00e8ge",
+  "Name": "Tinlot Ramelot, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4557",
@@ -5474,7 +5474,7 @@
  },
  {
   "Code": "4560",
-  "Name": "Clavier Terwagne, Li\u00e8ge",
+  "Name": "Clavier Terwagne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4560",
@@ -5482,7 +5482,7 @@
  },
  {
   "Code": "4570",
-  "Name": "Marchin, Li\u00e8ge",
+  "Name": "Marchin, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4570",
@@ -5490,7 +5490,7 @@
  },
  {
   "Code": "4577",
-  "Name": "Modave Vierset-Barse, Li\u00e8ge",
+  "Name": "Modave Vierset-Barse, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4577",
@@ -5498,7 +5498,7 @@
  },
  {
   "Code": "4590",
-  "Name": "Ouffet Warz\u00e9e, Li\u00e8ge",
+  "Name": "Ouffet Warzee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4590",
@@ -5506,7 +5506,7 @@
  },
  {
   "Code": "4600",
-  "Name": "Vis\u00e9 Lixhe, Li\u00e8ge",
+  "Name": "Vise Lixhe, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4600",
@@ -5514,7 +5514,7 @@
  },
  {
   "Code": "4601",
-  "Name": "Vis\u00e9 Argenteau, Li\u00e8ge",
+  "Name": "Vise Argenteau, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4601",
@@ -5522,7 +5522,7 @@
  },
  {
   "Code": "4602",
-  "Name": "Vis\u00e9, Li\u00e8ge",
+  "Name": "Vise, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4602",
@@ -5530,7 +5530,7 @@
  },
  {
   "Code": "4606",
-  "Name": "Dalhem, Li\u00e8ge",
+  "Name": "Dalhem, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4606",
@@ -5538,7 +5538,7 @@
  },
  {
   "Code": "4607",
-  "Name": "Dalhem Bombaye, Li\u00e8ge",
+  "Name": "Dalhem Bombaye, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4607",
@@ -5546,7 +5546,7 @@
  },
  {
   "Code": "4608",
-  "Name": "Dalhem, Li\u00e8ge",
+  "Name": "Dalhem, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4608",
@@ -5554,7 +5554,7 @@
  },
  {
   "Code": "4610",
-  "Name": "Beyne-Heusay, Li\u00e8ge",
+  "Name": "Beyne-Heusay, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4610",
@@ -5562,7 +5562,7 @@
  },
  {
   "Code": "4620",
-  "Name": "Fl\u00e9ron, Li\u00e8ge",
+  "Name": "Fleron, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4620",
@@ -5570,7 +5570,7 @@
  },
  {
   "Code": "4621",
-  "Name": "Fl\u00e9ron Retinne, Li\u00e8ge",
+  "Name": "Fleron Retinne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4621",
@@ -5578,7 +5578,7 @@
  },
  {
   "Code": "4623",
-  "Name": "Fl\u00e9ron Magn\u00e9e, Li\u00e8ge",
+  "Name": "Fleron Magnee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4623",
@@ -5586,7 +5586,7 @@
  },
  {
   "Code": "4624",
-  "Name": "Fl\u00e9ron, Li\u00e8ge",
+  "Name": "Fleron, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4624",
@@ -5594,7 +5594,7 @@
  },
  {
   "Code": "4630",
-  "Name": "Soumagne, Li\u00e8ge",
+  "Name": "Soumagne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4630",
@@ -5602,7 +5602,7 @@
  },
  {
   "Code": "4631",
-  "Name": "Soumagne Evegn\u00e9e, Li\u00e8ge",
+  "Name": "Soumagne Evegnee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4631",
@@ -5610,7 +5610,7 @@
  },
  {
   "Code": "4632",
-  "Name": "Soumagne, Li\u00e8ge",
+  "Name": "Soumagne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4632",
@@ -5618,7 +5618,7 @@
  },
  {
   "Code": "4633",
-  "Name": "Soumagne, Li\u00e8ge",
+  "Name": "Soumagne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4633",
@@ -5626,7 +5626,7 @@
  },
  {
   "Code": "4650",
-  "Name": "Herve, Li\u00e8ge",
+  "Name": "Herve, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4650",
@@ -5634,7 +5634,7 @@
  },
  {
   "Code": "4651",
-  "Name": "Herve, Li\u00e8ge",
+  "Name": "Herve, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4651",
@@ -5642,7 +5642,7 @@
  },
  {
   "Code": "4652",
-  "Name": "Herve Xhendelesse, Li\u00e8ge",
+  "Name": "Herve Xhendelesse, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4652",
@@ -5650,7 +5650,7 @@
  },
  {
   "Code": "4653",
-  "Name": "Herve, Li\u00e8ge",
+  "Name": "Herve, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4653",
@@ -5658,7 +5658,7 @@
  },
  {
   "Code": "4654",
-  "Name": "Herve, Li\u00e8ge",
+  "Name": "Herve, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4654",
@@ -5666,7 +5666,7 @@
  },
  {
   "Code": "4670",
-  "Name": "Bl\u00e9gny, Li\u00e8ge",
+  "Name": "Blegny, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4670",
@@ -5674,7 +5674,7 @@
  },
  {
   "Code": "4671",
-  "Name": "Bl\u00e9gny Housse, Li\u00e8ge",
+  "Name": "Blegny Housse, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4671",
@@ -5682,7 +5682,7 @@
  },
  {
   "Code": "4672",
-  "Name": "Bl\u00e9gny Saint-Remy, Li\u00e8ge",
+  "Name": "Blegny Saint-Remy, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4672",
@@ -5690,7 +5690,7 @@
  },
  {
   "Code": "4680",
-  "Name": "Oupeye Herm\u00e9e, Li\u00e8ge",
+  "Name": "Oupeye Hermee, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4680",
@@ -5698,7 +5698,7 @@
  },
  {
   "Code": "4681",
-  "Name": "Oupeye Hermallesous-Argenteau, Li\u00e8ge",
+  "Name": "Oupeye Hermallesous-Argenteau, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4681",
@@ -5706,7 +5706,7 @@
  },
  {
   "Code": "4682",
-  "Name": "Oupeye Heurele-Romain, Li\u00e8ge",
+  "Name": "Oupeye Heurele-Romain, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4682",
@@ -5714,7 +5714,7 @@
  },
  {
   "Code": "4683",
-  "Name": "Oupeye Vivegnis, Li\u00e8ge",
+  "Name": "Oupeye Vivegnis, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4683",
@@ -5722,7 +5722,7 @@
  },
  {
   "Code": "4684",
-  "Name": "Oupeye Haccourt, Li\u00e8ge",
+  "Name": "Oupeye Haccourt, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4684",
@@ -5730,7 +5730,7 @@
  },
  {
   "Code": "4690",
-  "Name": "Bassenge Boirs, Li\u00e8ge",
+  "Name": "Bassenge Boirs, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4690",
@@ -5738,7 +5738,7 @@
  },
  {
   "Code": "4700",
-  "Name": "Eupen, Li\u00e8ge",
+  "Name": "Eupen, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4700",
@@ -5746,7 +5746,7 @@
  },
  {
   "Code": "4701",
-  "Name": "Eupen, Li\u00e8ge",
+  "Name": "Eupen, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4701",
@@ -5754,7 +5754,7 @@
  },
  {
   "Code": "4710",
-  "Name": "Lontzen, Li\u00e8ge",
+  "Name": "Lontzen, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4710",
@@ -5762,7 +5762,7 @@
  },
  {
   "Code": "4711",
-  "Name": "Lontzen, Li\u00e8ge",
+  "Name": "Lontzen, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4711",
@@ -5770,7 +5770,7 @@
  },
  {
   "Code": "4720",
-  "Name": "Kelmis, Li\u00e8ge",
+  "Name": "Kelmis, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4720",
@@ -5778,7 +5778,7 @@
  },
  {
   "Code": "4721",
-  "Name": "Kelmis, Li\u00e8ge",
+  "Name": "Kelmis, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4721",
@@ -5786,7 +5786,7 @@
  },
  {
   "Code": "4728",
-  "Name": "Kelmis Hergenrath, Li\u00e8ge",
+  "Name": "Kelmis Hergenrath, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4728",
@@ -5794,7 +5794,7 @@
  },
  {
   "Code": "4730",
-  "Name": "Raeren, Li\u00e8ge",
+  "Name": "Raeren, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4730",
@@ -5802,7 +5802,7 @@
  },
  {
   "Code": "4731",
-  "Name": "Raeren, Li\u00e8ge",
+  "Name": "Raeren, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4731",
@@ -5810,7 +5810,7 @@
  },
  {
   "Code": "4750",
-  "Name": "B\u00fctgenbach Elsenborn, Li\u00e8ge",
+  "Name": "Butgenbach Elsenborn, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4750",
@@ -5818,7 +5818,7 @@
  },
  {
   "Code": "4760",
-  "Name": "B\u00fcllingen Manderfeld, Li\u00e8ge",
+  "Name": "Bullingen Manderfeld, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4760",
@@ -5826,7 +5826,7 @@
  },
  {
   "Code": "4761",
-  "Name": "B\u00fcllingen Rocherath, Li\u00e8ge",
+  "Name": "Bullingen Rocherath, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4761",
@@ -5834,7 +5834,7 @@
  },
  {
   "Code": "4770",
-  "Name": "Amel Meyrode, Li\u00e8ge",
+  "Name": "Amel Meyrode, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4770",
@@ -5842,7 +5842,7 @@
  },
  {
   "Code": "4771",
-  "Name": "Amel, Li\u00e8ge",
+  "Name": "Amel, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4771",
@@ -5850,7 +5850,7 @@
  },
  {
   "Code": "4780",
-  "Name": "Sankt Vith Sankt Vith, Li\u00e8ge",
+  "Name": "Sankt Vith Sankt Vith, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4780",
@@ -5858,7 +5858,7 @@
  },
  {
   "Code": "4782",
-  "Name": "Sankt Vith Sch\u00f6nberg, Li\u00e8ge",
+  "Name": "Sankt Vith Schonberg, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4782",
@@ -5866,7 +5866,7 @@
  },
  {
   "Code": "4783",
-  "Name": "Sankt Vith Lommersweiler, Li\u00e8ge",
+  "Name": "Sankt Vith Lommersweiler, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4783",
@@ -5874,7 +5874,7 @@
  },
  {
   "Code": "4784",
-  "Name": "Sankt Vith, Li\u00e8ge",
+  "Name": "Sankt Vith, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4784",
@@ -5882,7 +5882,7 @@
  },
  {
   "Code": "4790",
-  "Name": "Burg-Reuland, Li\u00e8ge",
+  "Name": "Burg-Reuland, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4790",
@@ -5890,7 +5890,7 @@
  },
  {
   "Code": "4791",
-  "Name": "Burg-Reuland Thommen, Li\u00e8ge",
+  "Name": "Burg-Reuland Thommen, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4791",
@@ -5898,7 +5898,7 @@
  },
  {
   "Code": "4800",
-  "Name": "Verviers Lambermont, Li\u00e8ge",
+  "Name": "Verviers Lambermont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4800",
@@ -5906,7 +5906,7 @@
  },
  {
   "Code": "4801",
-  "Name": "Verviers Stembert, Li\u00e8ge",
+  "Name": "Verviers Stembert, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4801",
@@ -5914,7 +5914,7 @@
  },
  {
   "Code": "4802",
-  "Name": "Verviers Heusy, Li\u00e8ge",
+  "Name": "Verviers Heusy, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4802",
@@ -5922,7 +5922,7 @@
  },
  {
   "Code": "4820",
-  "Name": "Dison, Li\u00e8ge",
+  "Name": "Dison, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4820",
@@ -5930,7 +5930,7 @@
  },
  {
   "Code": "4821",
-  "Name": "Dison Andrimont, Li\u00e8ge",
+  "Name": "Dison Andrimont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4821",
@@ -5938,7 +5938,7 @@
  },
  {
   "Code": "4830",
-  "Name": "Limbourg, Li\u00e8ge",
+  "Name": "Limbourg, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4830",
@@ -5946,7 +5946,7 @@
  },
  {
   "Code": "4831",
-  "Name": "Limbourg, Li\u00e8ge",
+  "Name": "Limbourg, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4831",
@@ -5954,7 +5954,7 @@
  },
  {
   "Code": "4834",
-  "Name": "Limbourg, Li\u00e8ge",
+  "Name": "Limbourg, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4834",
@@ -5962,7 +5962,7 @@
  },
  {
   "Code": "4837",
-  "Name": "Baelen Membach, Li\u00e8ge",
+  "Name": "Baelen Membach, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4837",
@@ -5970,7 +5970,7 @@
  },
  {
   "Code": "4840",
-  "Name": "Welkenraedt, Li\u00e8ge",
+  "Name": "Welkenraedt, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4840",
@@ -5978,7 +5978,7 @@
  },
  {
   "Code": "4841",
-  "Name": "Welkenraedt Henri-Chapelle, Li\u00e8ge",
+  "Name": "Welkenraedt Henri-Chapelle, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4841",
@@ -5986,7 +5986,7 @@
  },
  {
   "Code": "4845",
-  "Name": "Jalhay, Li\u00e8ge",
+  "Name": "Jalhay, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4845",
@@ -5994,7 +5994,7 @@
  },
  {
   "Code": "4850",
-  "Name": "Plombi\u00e8res, Li\u00e8ge",
+  "Name": "Plombieres, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4850",
@@ -6002,7 +6002,7 @@
  },
  {
   "Code": "4851",
-  "Name": "Plombi\u00e8res Sippenaeken, Li\u00e8ge",
+  "Name": "Plombieres Sippenaeken, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4851",
@@ -6010,7 +6010,7 @@
  },
  {
   "Code": "4852",
-  "Name": "Plombi\u00e8res, Li\u00e8ge",
+  "Name": "Plombieres, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4852",
@@ -6018,7 +6018,7 @@
  },
  {
   "Code": "4860",
-  "Name": "Pepinster, Li\u00e8ge",
+  "Name": "Pepinster, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4860",
@@ -6026,7 +6026,7 @@
  },
  {
   "Code": "4861",
-  "Name": "Pepinster, Li\u00e8ge",
+  "Name": "Pepinster, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4861",
@@ -6034,7 +6034,7 @@
  },
  {
   "Code": "4870",
-  "Name": "Trooz Nessonvaux, Li\u00e8ge",
+  "Name": "Trooz Nessonvaux, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4870",
@@ -6042,7 +6042,7 @@
  },
  {
   "Code": "4877",
-  "Name": "Olne, Li\u00e8ge",
+  "Name": "Olne, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4877",
@@ -6050,7 +6050,7 @@
  },
  {
   "Code": "4880",
-  "Name": "Aubel, Li\u00e8ge",
+  "Name": "Aubel, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4880",
@@ -6058,7 +6058,7 @@
  },
  {
   "Code": "4890",
-  "Name": "Thimister-Clermont, Li\u00e8ge",
+  "Name": "Thimister-Clermont, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4890",
@@ -6066,7 +6066,7 @@
  },
  {
   "Code": "4900",
-  "Name": "Spa, Li\u00e8ge",
+  "Name": "Spa, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4900",
@@ -6074,7 +6074,7 @@
  },
  {
   "Code": "4910",
-  "Name": "Theux, Li\u00e8ge",
+  "Name": "Theux, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4910",
@@ -6082,7 +6082,7 @@
  },
  {
   "Code": "4920",
-  "Name": "Aywaille, Li\u00e8ge",
+  "Name": "Aywaille, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4920",
@@ -6090,7 +6090,7 @@
  },
  {
   "Code": "4950",
-  "Name": "Waimes Sourbrodt, Li\u00e8ge",
+  "Name": "Waimes Sourbrodt, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4950",
@@ -6098,7 +6098,7 @@
  },
  {
   "Code": "4960",
-  "Name": "Malmedy Bellevaux-Ligneuville, Li\u00e8ge",
+  "Name": "Malmedy Bellevaux-Ligneuville, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4960",
@@ -6106,7 +6106,7 @@
  },
  {
   "Code": "4970",
-  "Name": "Stavelot Coo, Li\u00e8ge",
+  "Name": "Stavelot Coo, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4970",
@@ -6114,7 +6114,7 @@
  },
  {
   "Code": "4980",
-  "Name": "Trois-Ponts, Li\u00e8ge",
+  "Name": "Trois-Ponts, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4980",
@@ -6122,7 +6122,7 @@
  },
  {
   "Code": "4983",
-  "Name": "Trois-Ponts, Li\u00e8ge",
+  "Name": "Trois-Ponts, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4983",
@@ -6130,7 +6130,7 @@
  },
  {
   "Code": "4987",
-  "Name": "Stoumont Cheneux, Li\u00e8ge",
+  "Name": "Stoumont Cheneux, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4987",
@@ -6138,7 +6138,7 @@
  },
  {
   "Code": "4990",
-  "Name": "Lierneux Bra, Li\u00e8ge",
+  "Name": "Lierneux Bra, Liege",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE4990",
@@ -6202,7 +6202,7 @@
  },
  {
   "Code": "5022",
-  "Name": "Namur Cognel\u00e9e, Namur",
+  "Name": "Namur Cognelee, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5022",
@@ -6210,7 +6210,7 @@
  },
  {
   "Code": "5024",
-  "Name": "Namur Gelbress\u00e9e, Namur",
+  "Name": "Namur Gelbressee, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5024",
@@ -6258,7 +6258,7 @@
  },
  {
   "Code": "5080",
-  "Name": "La Bruy\u00e8re Rhisnes, Namur",
+  "Name": "La Bruyere Rhisnes, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5080",
@@ -6266,7 +6266,7 @@
  },
  {
   "Code": "5081",
-  "Name": "La Bruy\u00e8re Saint-Denis-Bovesse, Namur",
+  "Name": "La Bruyere Saint-Denis-Bovesse, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5081",
@@ -6330,7 +6330,7 @@
  },
  {
   "Code": "5310",
-  "Name": "Eghez\u00e9e Branchon, Namur",
+  "Name": "Eghezee Branchon, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5310",
@@ -6490,7 +6490,7 @@
  },
  {
   "Code": "5376",
-  "Name": "Havelange Mi\u00e9cret, Namur",
+  "Name": "Havelange Miecret, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5376",
@@ -6554,7 +6554,7 @@
  },
  {
   "Code": "5520",
-  "Name": "Onhaye Anth\u00e9e, Namur",
+  "Name": "Onhaye Anthee, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5520",
@@ -6602,7 +6602,7 @@
  },
  {
   "Code": "5537",
-  "Name": "Anh\u00e9e Hautle-Wastia, Namur",
+  "Name": "Anhee Hautle-Wastia, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5537",
@@ -6610,7 +6610,7 @@
  },
  {
   "Code": "5540",
-  "Name": "Hasti\u00e8re Hasti\u00e8re-Lavaux, Namur",
+  "Name": "Hastiere Hastiere-Lavaux, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5540",
@@ -6618,7 +6618,7 @@
  },
  {
   "Code": "5541",
-  "Name": "Hasti\u00e8re, Namur",
+  "Name": "Hastiere, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5541",
@@ -6626,7 +6626,7 @@
  },
  {
   "Code": "5542",
-  "Name": "Hasti\u00e8re Blaimont, Namur",
+  "Name": "Hastiere Blaimont, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5542",
@@ -6634,7 +6634,7 @@
  },
  {
   "Code": "5543",
-  "Name": "Hasti\u00e8re Heer, Namur",
+  "Name": "Hastiere Heer, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5543",
@@ -6642,7 +6642,7 @@
  },
  {
   "Code": "5544",
-  "Name": "Hasti\u00e8re Agimont, Namur",
+  "Name": "Hastiere Agimont, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5544",
@@ -6658,7 +6658,7 @@
  },
  {
   "Code": "5555",
-  "Name": "Bi\u00e8vre Cornimont, Namur",
+  "Name": "Bievre Cornimont, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5555",
@@ -6738,7 +6738,7 @@
  },
  {
   "Code": "5574",
-  "Name": "Beauraing Pondr\u00f4me, Namur",
+  "Name": "Beauraing Pondrome, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5574",
@@ -6850,7 +6850,7 @@
  },
  {
   "Code": "5651",
-  "Name": "Walcourt Rogn\u00e9e, Namur",
+  "Name": "Walcourt Rognee, Namur",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE5651",
@@ -7018,7 +7018,7 @@
  },
  {
   "Code": "6140",
-  "Name": "Fontainel'Ev\u00eaque, Hainaut",
+  "Name": "Fontainel'Eveque, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6140",
@@ -7026,7 +7026,7 @@
  },
  {
   "Code": "6141",
-  "Name": "Fontainel'Ev\u00eaque Forchiesla-Marche, Hainaut",
+  "Name": "Fontainel'Eveque Forchiesla-Marche, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6141",
@@ -7034,7 +7034,7 @@
  },
  {
   "Code": "6142",
-  "Name": "Fontainel'Ev\u00eaque, Hainaut",
+  "Name": "Fontainel'Eveque, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6142",
@@ -7082,7 +7082,7 @@
  },
  {
   "Code": "6200",
-  "Name": "Ch\u00e2telet Ch\u00e2telineau, Hainaut",
+  "Name": "Chatelet Chatelineau, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6200",
@@ -7146,7 +7146,7 @@
  },
  {
   "Code": "6230",
-  "Name": "Pont\u00e0-Celles Viesville, Hainaut",
+  "Name": "Ponta-Celles Viesville, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6230",
@@ -7154,7 +7154,7 @@
  },
  {
   "Code": "6238",
-  "Name": "Pont\u00e0-Celles, Hainaut",
+  "Name": "Ponta-Celles, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6238",
@@ -7250,7 +7250,7 @@
  },
  {
   "Code": "6500",
-  "Name": "Beaumont Barben\u00e7on, Hainaut",
+  "Name": "Beaumont Barbencon, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6500",
@@ -7258,7 +7258,7 @@
  },
  {
   "Code": "6511",
-  "Name": "Beaumont Str\u00e9e, Hainaut",
+  "Name": "Beaumont Stree, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6511",
@@ -7298,7 +7298,7 @@
  },
  {
   "Code": "6534",
-  "Name": "Thuin Goz\u00e9e, Hainaut",
+  "Name": "Thuin Gozee, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6534",
@@ -7314,7 +7314,7 @@
  },
  {
   "Code": "6540",
-  "Name": "Lobbes Mont-Sainte-Genevi\u00e8ve, Hainaut",
+  "Name": "Lobbes Mont-Sainte-Genevieve, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6540",
@@ -7322,7 +7322,7 @@
  },
  {
   "Code": "6542",
-  "Name": "Lobbes Sarsla-Buissi\u00e8re, Hainaut",
+  "Name": "Lobbes Sarsla-Buissiere, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6542",
@@ -7346,7 +7346,7 @@
  },
  {
   "Code": "6567",
-  "Name": "Merbesle-Ch\u00e2teau Labuissi\u00e8re, Hainaut",
+  "Name": "Merbesle-Chateau Labuissiere, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6567",
@@ -7426,7 +7426,7 @@
  },
  {
   "Code": "6640",
-  "Name": "Vaux-sur-S\u00fbre Hompr\u00e9, Luxembourg",
+  "Name": "Vaux-sur-Sure Hompre, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6640",
@@ -7466,7 +7466,7 @@
  },
  {
   "Code": "6663",
-  "Name": "Houffalize Mabompr\u00e9, Luxembourg",
+  "Name": "Houffalize Mabompre, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6663",
@@ -7690,7 +7690,7 @@
  },
  {
   "Code": "6747",
-  "Name": "Saint-L\u00e9ger Meixle-Tige, Luxembourg",
+  "Name": "Saint-Leger Meixle-Tige, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6747",
@@ -7922,7 +7922,7 @@
  },
  {
   "Code": "6840",
-  "Name": "Neufch\u00e2teau Hamipr\u00e9, Luxembourg",
+  "Name": "Neufchateau Hamipre, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6840",
@@ -7970,7 +7970,7 @@
  },
  {
   "Code": "6860",
-  "Name": "L\u00e9glise, Luxembourg",
+  "Name": "Leglise, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6860",
@@ -7994,7 +7994,7 @@
  },
  {
   "Code": "6887",
-  "Name": "Herbeumont Saint-M\u00e9dard, Luxembourg",
+  "Name": "Herbeumont Saint-Medard, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6887",
@@ -8066,7 +8066,7 @@
  },
  {
   "Code": "6940",
-  "Name": "Durbuy W\u00e9ris, Luxembourg",
+  "Name": "Durbuy Weris, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6940",
@@ -8154,7 +8154,7 @@
  },
  {
   "Code": "6982",
-  "Name": "La Rocheen-Ardenne Samr\u00e9e, Luxembourg",
+  "Name": "La Rocheen-Ardenne Samree, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6982",
@@ -8202,7 +8202,7 @@
  },
  {
   "Code": "6997",
-  "Name": "Erez\u00e9e Mormont, Luxembourg",
+  "Name": "Erezee Mormont, Luxembourg",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE6997",
@@ -8234,7 +8234,7 @@
  },
  {
   "Code": "7012",
-  "Name": "Mons Fl\u00e9nu, Hainaut",
+  "Name": "Mons Flenu, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7012",
@@ -8242,7 +8242,7 @@
  },
  {
   "Code": "7020",
-  "Name": "Mons Casteau,Maisi\u00e8res,Masnuy-Saint-Jean, Hainaut",
+  "Name": "Mons Casteau,Maisieres,Masnuy-Saint-Jean, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7020",
@@ -8314,7 +8314,7 @@
  },
  {
   "Code": "7040",
-  "Name": "Qu\u00e9vy Qu\u00e9vyle-Grand, Hainaut",
+  "Name": "Quevy Quevyle-Grand, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7040",
@@ -8322,7 +8322,7 @@
  },
  {
   "Code": "7041",
-  "Name": "Qu\u00e9vy Givry, Hainaut",
+  "Name": "Quevy Givry, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7041",
@@ -8378,7 +8378,7 @@
  },
  {
   "Code": "7080",
-  "Name": "Frameries Sarsla-Bruy\u00e8re, Hainaut",
+  "Name": "Frameries Sarsla-Bruyere, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7080",
@@ -8386,7 +8386,7 @@
  },
  {
   "Code": "7090",
-  "Name": "Brainele-Comte Ronqui\u00e8res, Hainaut",
+  "Name": "Brainele-Comte Ronquieres, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7090",
@@ -8394,7 +8394,7 @@
  },
  {
   "Code": "7100",
-  "Name": "La Louvi\u00e8re Saint-Vaast, Hainaut",
+  "Name": "La Louviere Saint-Vaast, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7100",
@@ -8402,7 +8402,7 @@
  },
  {
   "Code": "7110",
-  "Name": "La Louvi\u00e8re Houdeng-Goegnies, Hainaut",
+  "Name": "La Louviere Houdeng-Goegnies, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7110",
@@ -8594,7 +8594,7 @@
  },
  {
   "Code": "7340",
-  "Name": "Colfontaine P\u00e2turages, Hainaut",
+  "Name": "Colfontaine Paturages, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7340",
@@ -8618,7 +8618,7 @@
  },
  {
   "Code": "7380",
-  "Name": "Qui\u00e9vrain Baisieux, Hainaut",
+  "Name": "Quievrain Baisieux, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7380",
@@ -8626,7 +8626,7 @@
  },
  {
   "Code": "7382",
-  "Name": "Qui\u00e9vrain, Hainaut",
+  "Name": "Quievrain, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7382",
@@ -8810,7 +8810,7 @@
  },
  {
   "Code": "7600",
-  "Name": "P\u00e9ruwelz, Hainaut",
+  "Name": "Peruwelz, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7600",
@@ -8818,7 +8818,7 @@
  },
  {
   "Code": "7601",
-  "Name": "P\u00e9ruwelz Roucourt, Hainaut",
+  "Name": "Peruwelz Roucourt, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7601",
@@ -8826,7 +8826,7 @@
  },
  {
   "Code": "7602",
-  "Name": "P\u00e9ruwelz, Hainaut",
+  "Name": "Peruwelz, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7602",
@@ -8834,7 +8834,7 @@
  },
  {
   "Code": "7603",
-  "Name": "P\u00e9ruwelz, Hainaut",
+  "Name": "Peruwelz, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7603",
@@ -8842,7 +8842,7 @@
  },
  {
   "Code": "7604",
-  "Name": "P\u00e9ruwelz, Hainaut",
+  "Name": "Peruwelz, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7604",
@@ -8850,7 +8850,7 @@
  },
  {
   "Code": "7608",
-  "Name": "P\u00e9ruwelz, Hainaut",
+  "Name": "Peruwelz, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7608",
@@ -8922,7 +8922,7 @@
  },
  {
   "Code": "7640",
-  "Name": "Antoing P\u00e9ronneslez-Antoing, Hainaut",
+  "Name": "Antoing Peronneslez-Antoing, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7640",
@@ -8994,7 +8994,7 @@
  },
  {
   "Code": "7742",
-  "Name": "Pecq H\u00e9rinneslez-Pecq, Hainaut",
+  "Name": "Pecq Herinneslez-Pecq, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7742",
@@ -9250,7 +9250,7 @@
  },
  {
   "Code": "7903",
-  "Name": "Leuzeen-Hainaut Chapelle\u00e0-Oie, Hainaut",
+  "Name": "Leuzeen-Hainaut Chapellea-Oie, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7903",
@@ -9314,7 +9314,7 @@
  },
  {
   "Code": "7942",
-  "Name": "Brugelette M\u00e9vergnieslez-Lens, Hainaut",
+  "Name": "Brugelette Mevergnieslez-Lens, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7942",
@@ -9330,7 +9330,7 @@
  },
  {
   "Code": "7950",
-  "Name": "Chi\u00e8vres, Hainaut",
+  "Name": "Chievres, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7950",
@@ -9338,7 +9338,7 @@
  },
  {
   "Code": "7951",
-  "Name": "Chi\u00e8vres, Hainaut",
+  "Name": "Chievres, Hainaut",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE7951",
