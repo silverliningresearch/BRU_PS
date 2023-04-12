@@ -73,7 +73,7 @@
           const listSearchHandler = () => {
             console.log("Current Page Index: ", api.fn.getCurrentPageIndex() );
             
-            if (api.fn.getCurrentPageIndex() ===2) {
+            if (api.fn.getCurrentPageIndex() ===2) { 
               show_flight_search_box();
             } else {
               hide_flight_search_box();
@@ -97,7 +97,7 @@
               calculate_distance();
               setTimeout(function () {
                 api.fn.goNext();
-              }, 1 * 1000); //2 second
+              }, 1 * 1000); //1 second
             }
             else {
               api.fn.answers({Q11_Detour_Check: 0}); //used for condition

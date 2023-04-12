@@ -1,6 +1,7 @@
 var postalCodeList;
 var rawList = [];
 var postalCodeShortList = [];
+
 function find_postal_code(list, item) {
   item = item.toLowerCase();
   
@@ -46,6 +47,10 @@ function load_postal_code() {
   for (i = 0; i < rawList.length; i++) {
     var item = rawList[i];
     item.show = item.Code + "-" + item.Name;
+    if (item.Code == "Don’t want to answer")
+    {
+      item.show = "Don’t want to answer";
+    } 
     postalCodeList.push(item);
   }
 
@@ -62,7 +67,7 @@ function update_postal_code_search_box() {
 
   postalCodeShortList = [];
   postalCodeShortList.length = 0;
-  
+
   var count = 0;
   for (i = 0; i < postalCodeList.length; i++) {
     let postcalCode = postalCodeList[i];
@@ -74,8 +79,19 @@ function update_postal_code_search_box() {
       postalCodeShortList.push(postcalCode);
       count++;
     }
-    if (count > 7) break;
+
+    if ((count > 6)) {
+      break;
+    }
   }
+  ////////////////
+  let postcalCode = postalCodeList[postalCodeList.length-1];
+  const elem = document.createElement("option");
+  elem.value =  postcalCode.show;
+  list.appendChild(elem);
+  postalCodeShortList.push(postcalCode);
+  ////////////////
+
 
   if (find_postal_code(postalCodeList, document.getElementById('inputPostalCodeID').value)) {
     console.log("Found ", document.getElementById('inputPostalCodeID').value);
@@ -113,7 +129,7 @@ function select_postal_code() {
 function show_postal_code_search_box() {
     load_postal_code();  
 
-    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" >
+    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
     <datalist id="postalCodehtmlList"> </datalist>`);
     document.getElementById('inputPostalCodeID').value = "";
 
@@ -130,6 +146,7 @@ function show_postal_code_search_box() {
     else{
       console.log("not found ", document.getElementById('inputPostalCodeID').value);
     }
+    update_postal_code_search_box();
 
     //$('.rt-btn.rt-btn-next').hide(); 
     $('#inputPostalCodeID').show(); 
