@@ -57,8 +57,6 @@ function CalculateAirportAirLineReport() {
     }  
   }
 
-  console.log("daily_plan_data_temp: ", daily_plan_data_temp);
-
   daily_plan_data = [];
   daily_plan_data.length = 0;
 
@@ -96,13 +94,13 @@ function getDOOP(date) //"07-02-2023"
 function isNotThePastDate(date) //"07-02-2023"
 {
   var current_day_of_month =  new Date().getDate();
+  var current_month =  new Date().getMonth();
 
   var parts = date.split("-")
-  var flight_day = parts[0];
-  var Month = parts[1];
-   
-  var result = (flight_day >= current_day_of_month);
-
+  var flight_day = parseInt(parts[0]);
+  var Month = parseInt(parts[1]);
+  
+  var result = ((flight_day >= current_day_of_month) || (Month>current_month));
   //console.log("flight_day", date);
   //console.log("current_day_of_month", current_day_of_month);
   return (result);
