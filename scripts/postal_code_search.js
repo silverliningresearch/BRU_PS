@@ -129,7 +129,7 @@ function select_postal_code() {
 function show_postal_code_search_box() {
     load_postal_code();  
 
-    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
+    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID">
     <datalist id="postalCodehtmlList"> </datalist>`);
     document.getElementById('inputPostalCodeID').value = "";
 
@@ -148,7 +148,7 @@ function show_postal_code_search_box() {
     }
     update_postal_code_search_box();
 
-    //$('.rt-btn.rt-btn-next').hide(); 
+    $('.rt-btn.rt-btn-next').hide(); 
     $('#inputPostalCodeID').show(); 
 }
 
