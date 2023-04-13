@@ -146,7 +146,6 @@ function show_postal_code_search_box() {
     else{
       console.log("not found ", document.getElementById('inputPostalCodeID').value);
     }
-    update_postal_code_search_box();
 
     $('.rt-btn.rt-btn-next').hide(); 
     $('#inputPostalCodeID').show(); 
