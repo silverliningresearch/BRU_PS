@@ -95,7 +95,7 @@ function getDOOP(date) //"07-02-2023"
 function isNotThePastDate(date) //"07-02-2023"
 {
   var current_day_of_month =  new Date().getDate();
-  var current_month =  new Date().getMonth();
+  var current_month =  new Date().getMonth()+1;
 
   var parts = date.split("-")
   var flight_day = parseInt(parts[0]);
