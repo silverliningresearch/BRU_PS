@@ -74,19 +74,21 @@ function update_postal_code_search_box() {
   postalCodeShortList.length = 0;
 
   var count = 0;
-  for (i = 0; i < postalCodeList.length; i++) {
-    let postcalCode = postalCodeList[i];
+  if (input.length>0) {
+    for (i = 0; i < postalCodeList.length; i++) {
+      let postcalCode = postalCodeList[i];
 
-    if (postcalCode.show.toLowerCase().includes(input)) {
-      const elem = document.createElement("option");
-      elem.value = postcalCode.show;
-      list.appendChild(elem);
-      postalCodeShortList.push(postcalCode);
-      count++;
-    }
+      if (postcalCode.show.toLowerCase().includes(input)) {
+        const elem = document.createElement("option");
+        elem.value = postcalCode.show;
+        list.appendChild(elem);
+        postalCodeShortList.push(postcalCode);
+        count++;
+      }
 
-    if ((count > 7)) {
-      break;
+      if ((count > 7)) {
+        break;
+      }
     }
   }
   
@@ -134,7 +136,7 @@ function select_postal_code() {
 function show_postal_code_search_box() {
     load_postal_code();  
 
-    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID">
+    $('.rt-element.rt-text-container').append(`<input list="postalCodehtmlList" onchange="select_postal_code()"  onkeyup="update_postal_code_search_box()" name="inputPostalCodeID" id="inputPostalCodeID" autocomplete="off">
     <datalist id="postalCodehtmlList"> </datalist>`);
     document.getElementById('inputPostalCodeID').value = "";
 
