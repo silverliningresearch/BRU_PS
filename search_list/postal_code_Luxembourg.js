@@ -33319,15 +33319,6 @@
   "AVM": "Cross Border LUX",
   "Key": "LU9999",
   "Country": "Luxembourg"
- },
- {
-    "Code": "Don’t want to answer",
-    "Name": "",
-    "Catchment": "Don’t want to answer",
-    "AVM": "Don’t want to answer",
-    "Key": "Don’t want to answer",
-    "Country": "Luxembourg"
-   }
+ }
 ]    
-
- `;
+`;

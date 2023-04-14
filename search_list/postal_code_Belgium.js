@@ -26,7 +26,7 @@
  },
  {
   "Code": "1007",
-  "Name": "Ass. Commiss. Communau. francaise, Bruxelles",
+  "Name": "Ass. Commiss. Communau. française, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1007",
@@ -34,7 +34,7 @@
  },
  {
   "Code": "1008",
-  "Name": "Chambre des Representants, Bruxelles",
+  "Name": "Chambre des Représentants, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1008",
@@ -50,7 +50,7 @@
  },
  {
   "Code": "1010",
-  "Name": "Cite Administrative de l'Etat, Bruxelles",
+  "Name": "Cité Administrative de l'Etat, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1010",
@@ -66,7 +66,7 @@
  },
  {
   "Code": "1012",
-  "Name": "Parlement de la Communaute francaise, Bruxelles",
+  "Name": "Parlement de la Communauté française, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1012",
@@ -90,7 +90,7 @@
  },
  {
   "Code": "1031",
-  "Name": "Organisations Sociales Chretiennes, Bruxelles",
+  "Name": "Organisations Sociales Chrétiennes, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1031",
@@ -138,7 +138,7 @@
  },
  {
   "Code": "1047",
-  "Name": "Parlement Europeen, Bruxelles",
+  "Name": "Parlement Européen, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1047",
@@ -298,7 +298,7 @@
  },
  {
   "Code": "1200",
-  "Name": "Bruxelles Woluwe-Saint-Lambert, Bruxelles",
+  "Name": "Bruxelles Woluwé-Saint-Lambert, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1200",
@@ -322,10 +322,370 @@
  },
  {
   "Code": "1212",
-  "Name": "SPF Mobilite, Bruxelles",
+  "Name": "SPF Mobilité, Bruxelles",
   "Catchment": "Yes",
   "AVM": "Belgian",
   "Key": "BE1212",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1300",
+  "Name": "Wavre Limal, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1300",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1301",
+  "Name": "Wavre Bierges, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1301",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1310",
+  "Name": "La Hulpe, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1310",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1315",
+  "Name": "Incourt Piètrebais, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1315",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1320",
+  "Name": "Beauvechain Nodebais, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1320",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1325",
+  "Name": "Chaumont-Gistoux Bonlez, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1325",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1330",
+  "Name": "Rixensart, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1330",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1331",
+  "Name": "Rixensart Rosières, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1331",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1332",
+  "Name": "Rixensart Genval, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1332",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1340",
+  "Name": "Ottignies-Louvainla-Neuve, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1340",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1341",
+  "Name": "Ottignies-Louvainla-Neuve Céroux-Mousty, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1341",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1342",
+  "Name": "Ottignies-Louvainla-Neuve Limelette, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1342",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1348",
+  "Name": "Ottignies-Louvainla-Neuve Louvainla-Neuve, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1348",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1350",
+  "Name": "Nivelles Noduwez, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1350",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1357",
+  "Name": "Florennes Linsmeau, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1357",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1360",
+  "Name": "Perwez Orbais, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1360",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1367",
+  "Name": "Ramillies Gérompont, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1367",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1370",
+  "Name": "Jodoigne Mélin, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1370",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1380",
+  "Name": "Lasne Lasne-Chapelle-Saint-Lambert, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1380",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1390",
+  "Name": "Grez-Doiceau Biez, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1390",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1400",
+  "Name": "Nivelles, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1400",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1401",
+  "Name": "Nivelles Baulers, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1401",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1402",
+  "Name": "Nivelles Thines, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1402",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1404",
+  "Name": "Nivelles Bornival, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1404",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1410",
+  "Name": "Waterloo, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1410",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1414",
+  "Name": "Promo-Control, Brabant Wallon Nivelles",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1414",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1420",
+  "Name": "Brainel'Alleud Brainel'Alleud, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1420",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1421",
+  "Name": "Brainel'Alleud Ophain-Bois-Seigneur-Isaac, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1421",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1428",
+  "Name": "Brainel'Alleud, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1428",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1430",
+  "Name": "Rebecq Quenast, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1430",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1435",
+  "Name": "Mont-Saint-Guibert, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1435",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1440",
+  "Name": "Brainele-Château Wauthier-Braine, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1440",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1450",
+  "Name": "Chastre Gentinnes, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1450",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1457",
+  "Name": "Walhain Nil-Saint-Vincent-Saint-Martin, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1457",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1460",
+  "Name": "Ittre Virginal-Samme, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1460",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1461",
+  "Name": "Ittre Haut-Ittre, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1461",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1470",
+  "Name": "Genappe Baisy-Thy, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1470",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1471",
+  "Name": "Genappe Loupoigne, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1471",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1472",
+  "Name": "Genappe Vieux-Genappe, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1472",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1473",
+  "Name": "Genappe Glabais, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1473",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1474",
+  "Name": "Genappe Ways, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1474",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1476",
+  "Name": "Genappe Houtainle-Val, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1476",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1480",
+  "Name": "Tubize, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1480",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1490",
+  "Name": "Court-Saint-Etienne, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1490",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "1495",
+  "Name": "Villersla-Ville Marbais, Brabant Wallon",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE1495",
   "Country": "Belgium"
  },
  {
@@ -2777,6 +3137,4510 @@
   "Country": "Belgium"
  },
  {
+  "Code": "4000",
+  "Name": "Liège, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4000",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4020",
+  "Name": "Liège Wandre, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4020",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4030",
+  "Name": "Liège Grivegnée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4030",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4031",
+  "Name": "Liège Angleur, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4031",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4032",
+  "Name": "Liège Chênée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4032",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4040",
+  "Name": "Herstal, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4040",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4041",
+  "Name": "Herstal Milmort, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4041",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4042",
+  "Name": "Herstal, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4042",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4050",
+  "Name": "Chaudfontaine, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4050",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4051",
+  "Name": "Chaudfontaine Vauxsous-Chèvremont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4051",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4052",
+  "Name": "Chaudfontaine, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4052",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4053",
+  "Name": "Chaudfontaine, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4053",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4100",
+  "Name": "Seraing Boncelles, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4100",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4101",
+  "Name": "Seraing Jemeppesur-Meuse, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4101",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4102",
+  "Name": "Seraing Ougrée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4102",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4120",
+  "Name": "Neupré Ehein, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4120",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4121",
+  "Name": "Neupré Neuvilleen-Condroz, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4121",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4122",
+  "Name": "Neupré Plainevaux, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4122",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4130",
+  "Name": "Esneux Tilff, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4130",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4140",
+  "Name": "Sprimont Gomze-Andoumont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4140",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4141",
+  "Name": "Sprimont Louveigné, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4141",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4151",
+  "Name": "Anthisnes, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4151",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4160",
+  "Name": "Anthisnes, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4160",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4161",
+  "Name": "Anthisnes Villersaux-Tours, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4161",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4162",
+  "Name": "Anthisnes, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4162",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4163",
+  "Name": "Anthisnes Tavier, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4163",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4170",
+  "Name": "Comblainau-Pont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4170",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4171",
+  "Name": "Comblainau-Pont Poulseur, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4171",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4180",
+  "Name": "Hamoir Comblain-Fairon, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4180",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4181",
+  "Name": "Hamoir, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4181",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4190",
+  "Name": "Ferrières Xhoris, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4190",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4210",
+  "Name": "Burdinne Lamontzée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4210",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4217",
+  "Name": "Héron Waretl'Evêque, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4217",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4218",
+  "Name": "Héron Couthuin, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4218",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4219",
+  "Name": "Wasseiges, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4219",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4250",
+  "Name": "Geer Hollognesur-Geer, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4250",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4252",
+  "Name": "Geer Omal, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4252",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4253",
+  "Name": "Geer, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4253",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4254",
+  "Name": "Geer Ligney, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4254",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4257",
+  "Name": "Berloz, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4257",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4260",
+  "Name": "Braives Fallais, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4260",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4261",
+  "Name": "Braives Latinne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4261",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4263",
+  "Name": "Braives Tourinne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4263",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4280",
+  "Name": "Hannut, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4280",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4287",
+  "Name": "Lincent Pellaines, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4287",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4300",
+  "Name": "Waremme Oleye, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4300",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4317",
+  "Name": "Faimes Celles, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4317",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4340",
+  "Name": "Awans Othée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4340",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4342",
+  "Name": "Awans Hognoul, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4342",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4347",
+  "Name": "Fexhele-Haut-Clocher Voroux-Goreux, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4347",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4350",
+  "Name": "Remicourt Momalle, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4350",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4351",
+  "Name": "Remicourt Hodeige, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4351",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4357",
+  "Name": "Donceel Haneffe, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4357",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4360",
+  "Name": "Oreye, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4360",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4367",
+  "Name": "Crisnée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4367",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4400",
+  "Name": "Flémalle Monslez-Liège, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4400",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4420",
+  "Name": "Saint-Nicolas Tilleur, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4420",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4430",
+  "Name": "Ans, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4430",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4431",
+  "Name": "Ans, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4431",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4432",
+  "Name": "Ans Alleur, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4432",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4450",
+  "Name": "Juprelle Slins, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4450",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4451",
+  "Name": "Juprelle, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4451",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4452",
+  "Name": "Juprelle Paifve, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4452",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4453",
+  "Name": "Juprelle, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4453",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4458",
+  "Name": "Juprelle Fexhe-Slins, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4458",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4460",
+  "Name": "Grâce-Hollogne Horion-Hozémont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4460",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4470",
+  "Name": "Saint-Georgessur-Meuse, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4470",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4480",
+  "Name": "Engis Hermallesous-Huy, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4480",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4500",
+  "Name": "Huy Ben-Ahin, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4500",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4520",
+  "Name": "Wanze Bas-Oha, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4520",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4530",
+  "Name": "Villersle-Bouillet Vieux-Waleffe, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4530",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4537",
+  "Name": "Verlaine, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4537",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4540",
+  "Name": "Amay, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4540",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4550",
+  "Name": "Nandrin Villersle-Temple, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4550",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4557",
+  "Name": "Tinlot Ramelot, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4557",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4560",
+  "Name": "Clavier Terwagne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4560",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4570",
+  "Name": "Marchin, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4570",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4577",
+  "Name": "Modave Vierset-Barse, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4577",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4590",
+  "Name": "Ouffet Warzée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4590",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4600",
+  "Name": "Visé Lixhe, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4600",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4601",
+  "Name": "Visé Argenteau, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4601",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4602",
+  "Name": "Visé, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4602",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4606",
+  "Name": "Dalhem, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4606",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4607",
+  "Name": "Dalhem Bombaye, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4607",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4608",
+  "Name": "Dalhem, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4608",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4610",
+  "Name": "Beyne-Heusay, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4610",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4620",
+  "Name": "Fléron, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4620",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4621",
+  "Name": "Fléron Retinne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4621",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4623",
+  "Name": "Fléron Magnée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4623",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4624",
+  "Name": "Fléron, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4624",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4630",
+  "Name": "Soumagne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4630",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4631",
+  "Name": "Soumagne Evegnée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4631",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4632",
+  "Name": "Soumagne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4632",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4633",
+  "Name": "Soumagne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4633",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4650",
+  "Name": "Herve, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4650",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4651",
+  "Name": "Herve, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4651",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4652",
+  "Name": "Herve Xhendelesse, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4652",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4653",
+  "Name": "Herve, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4653",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4654",
+  "Name": "Herve, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4654",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4670",
+  "Name": "Blégny, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4670",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4671",
+  "Name": "Blégny Housse, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4671",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4672",
+  "Name": "Blégny Saint-Remy, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4672",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4680",
+  "Name": "Oupeye Hermée, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4680",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4681",
+  "Name": "Oupeye Hermallesous-Argenteau, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4681",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4682",
+  "Name": "Oupeye Heurele-Romain, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4682",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4683",
+  "Name": "Oupeye Vivegnis, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4683",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4684",
+  "Name": "Oupeye Haccourt, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4684",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4690",
+  "Name": "Bassenge Boirs, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4690",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4700",
+  "Name": "Eupen, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4700",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4701",
+  "Name": "Eupen, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4701",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4710",
+  "Name": "Lontzen, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4710",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4711",
+  "Name": "Lontzen, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4711",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4720",
+  "Name": "Kelmis, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4720",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4721",
+  "Name": "Kelmis, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4721",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4728",
+  "Name": "Kelmis Hergenrath, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4728",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4730",
+  "Name": "Raeren, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4730",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4731",
+  "Name": "Raeren, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4731",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4750",
+  "Name": "Bütgenbach Elsenborn, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4750",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4760",
+  "Name": "Büllingen Manderfeld, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4760",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4761",
+  "Name": "Büllingen Rocherath, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4761",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4770",
+  "Name": "Amel Meyrode, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4770",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4771",
+  "Name": "Amel, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4771",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4780",
+  "Name": "Sankt Vith Sankt Vith, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4780",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4782",
+  "Name": "Sankt Vith Schönberg, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4782",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4783",
+  "Name": "Sankt Vith Lommersweiler, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4783",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4784",
+  "Name": "Sankt Vith, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4784",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4790",
+  "Name": "Burg-Reuland, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4790",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4791",
+  "Name": "Burg-Reuland Thommen, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4791",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4800",
+  "Name": "Verviers Lambermont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4800",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4801",
+  "Name": "Verviers Stembert, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4801",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4802",
+  "Name": "Verviers Heusy, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4802",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4820",
+  "Name": "Dison, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4820",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4821",
+  "Name": "Dison Andrimont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4821",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4830",
+  "Name": "Limbourg, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4830",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4831",
+  "Name": "Limbourg, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4831",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4834",
+  "Name": "Limbourg, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4834",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4837",
+  "Name": "Baelen Membach, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4837",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4840",
+  "Name": "Welkenraedt, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4840",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4841",
+  "Name": "Welkenraedt Henri-Chapelle, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4841",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4845",
+  "Name": "Jalhay, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4845",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4850",
+  "Name": "Plombières, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4850",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4851",
+  "Name": "Plombières Sippenaeken, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4851",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4852",
+  "Name": "Plombières, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4852",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4860",
+  "Name": "Pepinster, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4860",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4861",
+  "Name": "Pepinster, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4861",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4870",
+  "Name": "Trooz Nessonvaux, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4870",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4877",
+  "Name": "Olne, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4877",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4880",
+  "Name": "Aubel, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4880",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4890",
+  "Name": "Thimister-Clermont, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4890",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4900",
+  "Name": "Spa, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4900",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4910",
+  "Name": "Theux, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4910",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4920",
+  "Name": "Aywaille, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4920",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4950",
+  "Name": "Waimes Sourbrodt, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4950",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4960",
+  "Name": "Malmedy Bellevaux-Ligneuville, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4960",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4970",
+  "Name": "Stavelot Coo, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4970",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4980",
+  "Name": "Trois-Ponts, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4980",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4983",
+  "Name": "Trois-Ponts, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4983",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4987",
+  "Name": "Stoumont Cheneux, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4987",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "4990",
+  "Name": "Lierneux Bra, Liège",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE4990",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5000",
+  "Name": "Namur Beez, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5000",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5001",
+  "Name": "Namur, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5001",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5002",
+  "Name": "Namur Saint-Servais, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5002",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5003",
+  "Name": "Namur, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5003",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5004",
+  "Name": "Namur, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5004",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5020",
+  "Name": "Namur, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5020",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5021",
+  "Name": "Namur, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5021",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5022",
+  "Name": "Namur Cognelée, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5022",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5024",
+  "Name": "Namur Gelbressée, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5024",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5030",
+  "Name": "Gembloux Grand-Manil, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5030",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5031",
+  "Name": "Gembloux, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5031",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5032",
+  "Name": "Gembloux, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5032",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5060",
+  "Name": "Sambreville Falisolle, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5060",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5070",
+  "Name": "Fossesla-Ville, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5070",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5080",
+  "Name": "La Bruyère Rhisnes, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5080",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5081",
+  "Name": "La Bruyère Saint-Denis-Bovesse, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5081",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5100",
+  "Name": "Namur Naninne, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5100",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5101",
+  "Name": "Namur Livessur-Meuse, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5101",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5140",
+  "Name": "Sombreffe, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5140",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5150",
+  "Name": "Floreffe, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5150",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5170",
+  "Name": "Profondeville Arbre, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5170",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5190",
+  "Name": "Jemeppesur-Sambre Spy, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5190",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5300",
+  "Name": "Andenne Sclayn, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5300",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5310",
+  "Name": "Eghezée Branchon, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5310",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5330",
+  "Name": "Assesse Sart-Bernard, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5330",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5332",
+  "Name": "Assesse Crupet, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5332",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5333",
+  "Name": "Assesse Sorinnela-Longue, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5333",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5334",
+  "Name": "Assesse, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5334",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5336",
+  "Name": "Assesse, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5336",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5340",
+  "Name": "Gesves Haltinne, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5340",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5350",
+  "Name": "Ohey, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5350",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5351",
+  "Name": "Ohey Haillot, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5351",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5352",
+  "Name": "Ohey Perwez, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5352",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5353",
+  "Name": "Ohey, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5353",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5354",
+  "Name": "Ohey, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5354",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5360",
+  "Name": "Hamois, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5360",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5361",
+  "Name": "Hamois Mohiville, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5361",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5362",
+  "Name": "Hamois, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5362",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5363",
+  "Name": "Hamois, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5363",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5364",
+  "Name": "Hamois Schaltin, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5364",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5370",
+  "Name": "Havelange Porcheresse, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5370",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5372",
+  "Name": "Havelange, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5372",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5374",
+  "Name": "Havelange, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5374",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5376",
+  "Name": "Havelange Miécret, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5376",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5377",
+  "Name": "Somme-Leuze Waillet, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5377",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5380",
+  "Name": "Fernelmont Bierwart, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5380",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5500",
+  "Name": "Dinant, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5500",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5501",
+  "Name": "Dinant, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5501",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5502",
+  "Name": "Dinant Thynes, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5502",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5503",
+  "Name": "Dinant, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5503",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5504",
+  "Name": "Dinant, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5504",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5520",
+  "Name": "Onhaye Anthée, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5520",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5521",
+  "Name": "Onhaye, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5521",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5522",
+  "Name": "Onhaye, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5522",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5523",
+  "Name": "Onhaye Weillen, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5523",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5524",
+  "Name": "Onhaye, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5524",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5530",
+  "Name": "Yvoir Dorinne, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5530",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5537",
+  "Name": "Anhée Hautle-Wastia, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5537",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5540",
+  "Name": "Hastière Hastière-Lavaux, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5540",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5541",
+  "Name": "Hastière, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5541",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5542",
+  "Name": "Hastière Blaimont, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5542",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5543",
+  "Name": "Hastière Heer, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5543",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5544",
+  "Name": "Hastière Agimont, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5544",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5550",
+  "Name": "Vressesur-Semois Mouzaive, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5550",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5555",
+  "Name": "Bièvre Cornimont, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5555",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5560",
+  "Name": "Houyet Ciergnon, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5560",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5561",
+  "Name": "Houyet Celles, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5561",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5562",
+  "Name": "Houyet, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5562",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5563",
+  "Name": "Houyet Hour, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5563",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5564",
+  "Name": "Houyet Wanlin, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5564",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5570",
+  "Name": "Beauraing Dion, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5570",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5571",
+  "Name": "Beauraing, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5571",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5572",
+  "Name": "Beauraing, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5572",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5573",
+  "Name": "Beauraing Martouzin-Neuville, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5573",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5574",
+  "Name": "Beauraing Pondrôme, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5574",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5575",
+  "Name": "Gedinne Sart-Custinne, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5575",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5576",
+  "Name": "Beauraing Froidfontaine, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5576",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5580",
+  "Name": "Rochefort Eprave, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5580",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5590",
+  "Name": "Ciney Chevetogne, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5590",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5600",
+  "Name": "Philippeville Samart, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5600",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5620",
+  "Name": "Florennes Morville, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5620",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5621",
+  "Name": "Florennes Hanzinelle, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5621",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5630",
+  "Name": "Cerfontaine Soumoy, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5630",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5640",
+  "Name": "Mettet Oret, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5640",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5641",
+  "Name": "Mettet, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5641",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5644",
+  "Name": "Mettet Ermetonsur-Biert, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5644",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5646",
+  "Name": "Mettet Stave, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5646",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5650",
+  "Name": "Walcourt Clermont, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5650",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5651",
+  "Name": "Walcourt Rognée, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5651",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5660",
+  "Name": "Couvin Culdes-Sarts, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5660",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5670",
+  "Name": "Viroinval, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5670",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "5680",
+  "Name": "Doische Matagnela-Grande, Namur",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE5680",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6000",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6000",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6001",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6001",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6010",
+  "Name": "Charleroi Couillet, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6010",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6020",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6020",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6030",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6030",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6031",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6031",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6032",
+  "Name": "Charleroi Montsur-Marchienne, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6032",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6040",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6040",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6041",
+  "Name": "Charleroi Gosselies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6041",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6042",
+  "Name": "Charleroi Lodelinsart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6042",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6043",
+  "Name": "Charleroi Ransart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6043",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6044",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6044",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6060",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6060",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6061",
+  "Name": "Charleroi, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6061",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6110",
+  "Name": "Montignyle-Tilleul, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6110",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6111",
+  "Name": "Montignyle-Tilleul Landelies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6111",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6120",
+  "Name": "Hamsur-Heure-Nalinnes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6120",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6140",
+  "Name": "Fontainel'Evêque, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6140",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6141",
+  "Name": "Fontainel'Evêque Forchiesla-Marche, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6141",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6142",
+  "Name": "Fontainel'Evêque, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6142",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6150",
+  "Name": "Anderlues, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6150",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6180",
+  "Name": "Courcelles, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6180",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6181",
+  "Name": "Courcelles, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6181",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6182",
+  "Name": "Courcelles Souvret, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6182",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6183",
+  "Name": "Courcelles Trazegnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6183",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6200",
+  "Name": "Châtelet Châtelineau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6200",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6210",
+  "Name": "Les Bons Villers Frasneslez-Gosselies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6210",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6211",
+  "Name": "Les Bons Villers, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6211",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6220",
+  "Name": "Fleurus Lambusart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6220",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6221",
+  "Name": "Fleurus, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6221",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6222",
+  "Name": "Fleurus, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6222",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6223",
+  "Name": "Fleurus, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6223",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6224",
+  "Name": "Fleurus, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6224",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6230",
+  "Name": "Pontà-Celles Viesville, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6230",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6238",
+  "Name": "Pontà-Celles, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6238",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6240",
+  "Name": "Farciennes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6240",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6250",
+  "Name": "Aiseau-Presles Roselies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6250",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6280",
+  "Name": "Gerpinnes Loverval, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6280",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6440",
+  "Name": "Froidchapelle Boussulez-Walcourt, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6440",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6441",
+  "Name": "Froidchapelle Erpion, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6441",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6460",
+  "Name": "Chimay Villersla-Tour, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6460",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6461",
+  "Name": "Chimay, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6461",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6462",
+  "Name": "Chimay, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6462",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6463",
+  "Name": "Chimay, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6463",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6464",
+  "Name": "Chimay, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6464",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6470",
+  "Name": "Sivry-Rance Montbliart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6470",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6500",
+  "Name": "Beaumont Barbençon, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6500",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6511",
+  "Name": "Beaumont Strée, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6511",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6530",
+  "Name": "Thuin Leerset-Fosteau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6530",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6531",
+  "Name": "Thuin Biesmesous-Thuin, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6531",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6532",
+  "Name": "Thuin Ragnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6532",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6533",
+  "Name": "Thuin, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6533",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6534",
+  "Name": "Thuin Gozée, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6534",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6536",
+  "Name": "Thuin Thuillies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6536",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6540",
+  "Name": "Lobbes Mont-Sainte-Geneviève, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6540",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6542",
+  "Name": "Lobbes Sarsla-Buissière, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6542",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6543",
+  "Name": "Lobbes Biennelez-Happart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6543",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6560",
+  "Name": "Erquelinnes Grand-Reng, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6560",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6567",
+  "Name": "Merbesle-Château Labuissière, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6567",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6590",
+  "Name": "Momignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6590",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6591",
+  "Name": "Momignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6591",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6592",
+  "Name": "Momignies Monceau-Imbrechies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6592",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6593",
+  "Name": "Momignies Macquenoise, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6593",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6594",
+  "Name": "Momignies Beauwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6594",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6596",
+  "Name": "Momignies Forge-Philippe, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6596",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6600",
+  "Name": "Bastogne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6600",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6630",
+  "Name": "Martelange, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6630",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6637",
+  "Name": "Fauvillers, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6637",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6640",
+  "Name": "Vaux-sur-Sûre Hompré, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6640",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6642",
+  "Name": "Juseret, Luxembourg Bastogne",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6642",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6660",
+  "Name": "Houffalize, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6660",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6661",
+  "Name": "Houffalize Mont, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6661",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6662",
+  "Name": "Houffalize Tavigny, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6662",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6663",
+  "Name": "Houffalize Mabompré, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6663",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6666",
+  "Name": "Houffalize Wibrin, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6666",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6670",
+  "Name": "Gouvy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6670",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6671",
+  "Name": "Gouvy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6671",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6672",
+  "Name": "Gouvy Beho, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6672",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6673",
+  "Name": "Gouvy Cherain, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6673",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6674",
+  "Name": "Gouvy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6674",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6680",
+  "Name": "Sainte-Ode Tillet, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6680",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6681",
+  "Name": "Sainte-Ode, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6681",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6686",
+  "Name": "Bertogne Flamierge, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6686",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6687",
+  "Name": "Bertogne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6687",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6688",
+  "Name": "Bertogne Longchamps, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6688",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6690",
+  "Name": "Vielsalm, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6690",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6692",
+  "Name": "Vielsalm, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6692",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6698",
+  "Name": "Vielsalm, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6698",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6700",
+  "Name": "Arlon Toernich, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6700",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6704",
+  "Name": "Arlon Guirsch, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6704",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6706",
+  "Name": "Arlon Autelbas, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6706",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6717",
+  "Name": "Attert Nobressart, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6717",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6720",
+  "Name": "Habay Habayla-Neuve, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6720",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6721",
+  "Name": "Habay, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6721",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6723",
+  "Name": "Habay Habayla-Vieille, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6723",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6724",
+  "Name": "Habay Marbehan, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6724",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6730",
+  "Name": "Tintigny Rossignol, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6730",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6740",
+  "Name": "Etalle, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6740",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6741",
+  "Name": "Etalle, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6741",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6742",
+  "Name": "Etalle, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6742",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6743",
+  "Name": "Etalle, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6743",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6747",
+  "Name": "Saint-Léger Meixle-Tige, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6747",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6750",
+  "Name": "Musson Signeulx, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6750",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6760",
+  "Name": "Virton Ruette, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6760",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6761",
+  "Name": "Virton, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6761",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6762",
+  "Name": "Virton Saint-Mard, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6762",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6767",
+  "Name": "Rouvroy Harnoncourt, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6767",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6769",
+  "Name": "Meixdevant-Virton Robelmont, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6769",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6780",
+  "Name": "Messancy Hondelange, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6780",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6781",
+  "Name": "Messancy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6781",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6782",
+  "Name": "Messancy Habergy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6782",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6790",
+  "Name": "Aubange, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6790",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6791",
+  "Name": "Aubange, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6791",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6792",
+  "Name": "Aubange, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6792",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6800",
+  "Name": "Libramont-Chevigny Recogne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6800",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6810",
+  "Name": "Chiny Izel, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6810",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6811",
+  "Name": "Chiny Les Bulles, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6811",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6812",
+  "Name": "Chiny Suxy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6812",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6813",
+  "Name": "Chiny Termes, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6813",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6820",
+  "Name": "Florenville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6820",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6821",
+  "Name": "Florenville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6821",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6823",
+  "Name": "Florenville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6823",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6824",
+  "Name": "Florenville Chassepierre, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6824",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6830",
+  "Name": "Bouillon Les Hayons, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6830",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6831",
+  "Name": "Bouillon, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6831",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6832",
+  "Name": "Bouillon, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6832",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6833",
+  "Name": "Bouillon Vivy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6833",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6834",
+  "Name": "Bouillon, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6834",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6836",
+  "Name": "Bouillon, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6836",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6838",
+  "Name": "Bouillon Corbion, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6838",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6840",
+  "Name": "Neufchâteau Hamipré, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6840",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6850",
+  "Name": "Paliseul, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6850",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6851",
+  "Name": "Paliseul Nollevaux, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6851",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6852",
+  "Name": "Paliseul Opont, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6852",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6853",
+  "Name": "Paliseul, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6853",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6856",
+  "Name": "Paliseul Faysles-Veneurs, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6856",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6860",
+  "Name": "Léglise, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6860",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6870",
+  "Name": "Saint-Hubert Hatrival, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6870",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6880",
+  "Name": "Bertrix Jehonville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6880",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6887",
+  "Name": "Herbeumont Saint-Médard, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6887",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6890",
+  "Name": "Libin Transinne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6890",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6900",
+  "Name": "Marche-en-Famenne Humain, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6900",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6920",
+  "Name": "Wellin, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6920",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6921",
+  "Name": "Wellin, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6921",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6922",
+  "Name": "Wellin Halma, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6922",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6924",
+  "Name": "Wellin, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6924",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6927",
+  "Name": "Tellin, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6927",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6929",
+  "Name": "Daverdisse Haut-Fays, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6929",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6940",
+  "Name": "Durbuy Wéris, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6940",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6941",
+  "Name": "Durbuy, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6941",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6950",
+  "Name": "Nassogne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6950",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6951",
+  "Name": "Nassogne Bande, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6951",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6952",
+  "Name": "Nassogne Grune, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6952",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6953",
+  "Name": "Nassogne Lesterny, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6953",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6960",
+  "Name": "Manhay Harre, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6960",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6970",
+  "Name": "Tenneville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6970",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6971",
+  "Name": "Tenneville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6971",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6972",
+  "Name": "Tenneville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6972",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6980",
+  "Name": "La Rocheen-Ardenne Beausaint, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6980",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6982",
+  "Name": "La Rocheen-Ardenne Samrée, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6982",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6983",
+  "Name": "La Rocheen-Ardenne, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6983",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6984",
+  "Name": "La Rocheen-Ardenne Hives, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6984",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6986",
+  "Name": "La Rocheen-Ardenne Halleux, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6986",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6987",
+  "Name": "Rendeux, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6987",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6990",
+  "Name": "Hotton Fronville, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6990",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "6997",
+  "Name": "Erezée Mormont, Luxembourg",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE6997",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7000",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7000",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7010",
+  "Name": "S.H.A.P.E. Belgique, Hainaut Mons",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7010",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7011",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7011",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7012",
+  "Name": "Mons Flénu, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7012",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7020",
+  "Name": "Mons Casteau,Maisières,Masnuy-Saint-Jean, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7020",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7021",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7021",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7022",
+  "Name": "Mons Mesvin, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7022",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7024",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7024",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7030",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7030",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7031",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7031",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7032",
+  "Name": "Mons Spiennes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7032",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7033",
+  "Name": "Mons Cuesmes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7033",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7034",
+  "Name": "Mons, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7034",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7040",
+  "Name": "Quévy Quévyle-Grand, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7040",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7041",
+  "Name": "Quévy Givry, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7041",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7050",
+  "Name": "Jurbise Erbaut, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7050",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7060",
+  "Name": "Soignies Horrues, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7060",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7061",
+  "Name": "Soignies Casteau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7061",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7062",
+  "Name": "Soignies Naast, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7062",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7063",
+  "Name": "Soignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7063",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7070",
+  "Name": "Le Roeulx Thieu, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7070",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7080",
+  "Name": "Frameries Sarsla-Bruyère, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7080",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7090",
+  "Name": "Brainele-Comte Ronquières, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7090",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7100",
+  "Name": "La Louvière Saint-Vaast, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7100",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7110",
+  "Name": "La Louvière Houdeng-Goegnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7110",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7120",
+  "Name": "Estinnes Estinnesau-Val, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7120",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7130",
+  "Name": "Binche, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7130",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7131",
+  "Name": "Binche, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7131",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7133",
+  "Name": "Binche, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7133",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7134",
+  "Name": "Binche Leval-Trahegnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7134",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7140",
+  "Name": "Morlanwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7140",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7141",
+  "Name": "Morlanwelz Mont-Sainte-Aldegonde, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7141",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7160",
+  "Name": "Chapellelez-Herlaimont Godarville, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7160",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7170",
+  "Name": "Manage Boisd'Haine, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7170",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7180",
+  "Name": "Seneffe, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7180",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7181",
+  "Name": "Seneffe Familleureux, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7181",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7190",
+  "Name": "Ecaussinnes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7190",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7191",
+  "Name": "Ecaussinnes Ecaussinnes-Lalaing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7191",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7300",
+  "Name": "Boussu, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7300",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7301",
+  "Name": "Boussu Hornu, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7301",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7320",
+  "Name": "Bernissart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7320",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7321",
+  "Name": "Bernissart, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7321",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7322",
+  "Name": "Bernissart Pommeroeul, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7322",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7330",
+  "Name": "Saint-Ghislain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7330",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7331",
+  "Name": "Saint-Ghislain Baudour, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7331",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7332",
+  "Name": "Saint-Ghislain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7332",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7333",
+  "Name": "Saint-Ghislain Tertre, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7333",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7334",
+  "Name": "Saint-Ghislain Villerot, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7334",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7340",
+  "Name": "Colfontaine Pâturages, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7340",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7350",
+  "Name": "Hensies Montroeulsur-Haine, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7350",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7370",
+  "Name": "Dour Elouges, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7370",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7380",
+  "Name": "Quiévrain Baisieux, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7380",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7382",
+  "Name": "Quiévrain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7382",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7387",
+  "Name": "Honnelles Angreau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7387",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7390",
+  "Name": "Quaregnon, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7390",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7500",
+  "Name": "Tournai Ere, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7500",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7501",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7501",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7502",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7502",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7503",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7503",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7504",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7504",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7506",
+  "Name": "Tournai Willemeau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7506",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7520",
+  "Name": "Tournai Ramegnies-Chin, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7520",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7521",
+  "Name": "Tournai Chercq, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7521",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7522",
+  "Name": "Tournai Marquain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7522",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7530",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7530",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7531",
+  "Name": "Tournai Havinnes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7531",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7532",
+  "Name": "Tournai Beclers, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7532",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7533",
+  "Name": "Tournai Thimougies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7533",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7534",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7534",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7536",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7536",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7538",
+  "Name": "Tournai Vezon, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7538",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7540",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7540",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7542",
+  "Name": "Tournai Mont-Saint-Aubert, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7542",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7543",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7543",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7548",
+  "Name": "Tournai, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7548",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7600",
+  "Name": "Péruwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7600",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7601",
+  "Name": "Péruwelz Roucourt, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7601",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7602",
+  "Name": "Péruwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7602",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7603",
+  "Name": "Péruwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7603",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7604",
+  "Name": "Péruwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7604",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7608",
+  "Name": "Péruwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7608",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7610",
+  "Name": "Rumes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7610",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7611",
+  "Name": "Rumes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7611",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7618",
+  "Name": "Rumes Taintignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7618",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7620",
+  "Name": "Brunehaut, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7620",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7621",
+  "Name": "Brunehaut Lesdain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7621",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7622",
+  "Name": "Brunehaut Laplaigne, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7622",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7623",
+  "Name": "Brunehaut Rongy, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7623",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7624",
+  "Name": "Brunehaut, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7624",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7640",
+  "Name": "Antoing Péronneslez-Antoing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7640",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7641",
+  "Name": "Antoing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7641",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7642",
+  "Name": "Antoing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7642",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7643",
+  "Name": "Antoing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7643",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7700",
+  "Name": "Mouscron, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7700",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7711",
+  "Name": "Mouscron Dottignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7711",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7712",
+  "Name": "Mouscron Herseaux, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7712",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7730",
+  "Name": "Estaimpuis Evregnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7730",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7740",
+  "Name": "Pecq Warcoing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7740",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7742",
+  "Name": "Pecq Hérinneslez-Pecq, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7742",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7743",
+  "Name": "Pecq Esquelmes, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7743",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7750",
+  "Name": "Montdel'Enclus Russeignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7750",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7760",
+  "Name": "Celles Escanaffles, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7760",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7780",
+  "Name": "Comines-Warneton, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7780",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7781",
+  "Name": "Comines-Warneton, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7781",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7782",
+  "Name": "Comines-Warneton, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7782",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7783",
+  "Name": "Comines-Warneton, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7783",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7784",
+  "Name": "Comines-Warneton Warneton, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7784",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7800",
+  "Name": "Ath Lanquesaint, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7800",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7801",
+  "Name": "Ath Irchonwelz, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7801",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7802",
+  "Name": "Ath, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7802",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7803",
+  "Name": "Ath, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7803",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7804",
+  "Name": "Ath Ostiches, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7804",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7810",
+  "Name": "Ath, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7810",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7811",
+  "Name": "Ath, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7811",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7812",
+  "Name": "Ath Villers-Saint-Amand, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7812",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7822",
+  "Name": "Ath, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7822",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7823",
+  "Name": "Ath Gibecq, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7823",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7830",
+  "Name": "Silly Gondregnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7830",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7850",
+  "Name": "Enghien, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7850",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7860",
+  "Name": "Lessines, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7860",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7861",
+  "Name": "Lessines Papignies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7861",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7862",
+  "Name": "Lessines, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7862",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7863",
+  "Name": "Lessines Ghoy, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7863",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7864",
+  "Name": "Lessines, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7864",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7866",
+  "Name": "Lessines Boisde-Lessines, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7866",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7870",
+  "Name": "Lens Cambron-Saint-Vincent, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7870",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7880",
+  "Name": "Flobecq, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7880",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7890",
+  "Name": "Ellezelles, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7890",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7900",
+  "Name": "Leuzeen-Hainaut, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7900",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7901",
+  "Name": "Leuzeen-Hainaut Thieulain, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7901",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7903",
+  "Name": "Leuzeen-Hainaut Chapelleà-Oie, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7903",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7904",
+  "Name": "Leuzeen-Hainaut Willaupuis, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7904",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7906",
+  "Name": "Leuzeen-Hainaut, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7906",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7910",
+  "Name": "Frasneslez-Anvaing Anvaing, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7910",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7911",
+  "Name": "Frasneslez-Anvaing Oeudeghien, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7911",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7912",
+  "Name": "Frasneslez-Anvaing Dergneau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7912",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7940",
+  "Name": "Brugelette Cambron-Casteau, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7940",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7941",
+  "Name": "Brugelette Attre, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7941",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7942",
+  "Name": "Brugelette Mévergnieslez-Lens, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7942",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7943",
+  "Name": "Brugelette Gages, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7943",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7950",
+  "Name": "Chièvres, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7950",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7951",
+  "Name": "Chièvres, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7951",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7970",
+  "Name": "Beloeil, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7970",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7971",
+  "Name": "Beloeil Ramegnies, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7971",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7972",
+  "Name": "Beloeil Ellignies-Sainte-Anne, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7972",
+  "Country": "Belgium"
+ },
+ {
+  "Code": "7973",
+  "Name": "Beloeil Grandglise, Hainaut",
+  "Catchment": "Yes",
+  "AVM": "Belgian",
+  "Key": "BE7973",
+  "Country": "Belgium"
+ },
+ {
   "Code": "8000",
   "Name": "Brugge, West-Vlaanderen",
   "Catchment": "Yes",
@@ -4511,4879 +9375,6 @@
   "AVM": "Belgian",
   "Key": "BE9992",
   "Country": "Belgium"
- },
- {
-  "Code": "1300",
-  "Name": "Wavre Limal, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1300",
-  "Country": "Belgium"
- },
- {
-  "Code": "1301",
-  "Name": "Wavre Bierges, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1301",
-  "Country": "Belgium"
- },
- {
-  "Code": "1310",
-  "Name": "La Hulpe, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1310",
-  "Country": "Belgium"
- },
- {
-  "Code": "1315",
-  "Name": "Incourt Pietrebais, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1315",
-  "Country": "Belgium"
- },
- {
-  "Code": "1320",
-  "Name": "Beauvechain Nodebais, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1320",
-  "Country": "Belgium"
- },
- {
-  "Code": "1325",
-  "Name": "Chaumont-Gistoux Bonlez, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1325",
-  "Country": "Belgium"
- },
- {
-  "Code": "1330",
-  "Name": "Rixensart, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1330",
-  "Country": "Belgium"
- },
- {
-  "Code": "1331",
-  "Name": "Rixensart Rosieres, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1331",
-  "Country": "Belgium"
- },
- {
-  "Code": "1332",
-  "Name": "Rixensart Genval, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1332",
-  "Country": "Belgium"
- },
- {
-  "Code": "1340",
-  "Name": "Ottignies-Louvainla-Neuve, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1340",
-  "Country": "Belgium"
- },
- {
-  "Code": "1341",
-  "Name": "Ottignies-Louvainla-Neuve Ceroux-Mousty, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1341",
-  "Country": "Belgium"
- },
- {
-  "Code": "1342",
-  "Name": "Ottignies-Louvainla-Neuve Limelette, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1342",
-  "Country": "Belgium"
- },
- {
-  "Code": "1348",
-  "Name": "Ottignies-Louvainla-Neuve Louvainla-Neuve, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1348",
-  "Country": "Belgium"
- },
- {
-  "Code": "1350",
-  "Name": "Nivelles Noduwez, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1350",
-  "Country": "Belgium"
- },
- {
-  "Code": "1357",
-  "Name": "Florennes Linsmeau, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1357",
-  "Country": "Belgium"
- },
- {
-  "Code": "1360",
-  "Name": "Perwez Orbais, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1360",
-  "Country": "Belgium"
- },
- {
-  "Code": "1367",
-  "Name": "Ramillies Gerompont, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1367",
-  "Country": "Belgium"
- },
- {
-  "Code": "1370",
-  "Name": "Jodoigne Melin, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1370",
-  "Country": "Belgium"
- },
- {
-  "Code": "1380",
-  "Name": "Lasne Lasne-Chapelle-Saint-Lambert, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1380",
-  "Country": "Belgium"
- },
- {
-  "Code": "1390",
-  "Name": "Grez-Doiceau Biez, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1390",
-  "Country": "Belgium"
- },
- {
-  "Code": "1400",
-  "Name": "Nivelles, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1400",
-  "Country": "Belgium"
- },
- {
-  "Code": "1401",
-  "Name": "Nivelles Baulers, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1401",
-  "Country": "Belgium"
- },
- {
-  "Code": "1402",
-  "Name": "Nivelles Thines, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1402",
-  "Country": "Belgium"
- },
- {
-  "Code": "1404",
-  "Name": "Nivelles Bornival, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1404",
-  "Country": "Belgium"
- },
- {
-  "Code": "1410",
-  "Name": "Waterloo, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1410",
-  "Country": "Belgium"
- },
- {
-  "Code": "1414",
-  "Name": "Promo-Control, Brabant Wallon Nivelles",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1414",
-  "Country": "Belgium"
- },
- {
-  "Code": "1420",
-  "Name": "Brainel'Alleud Brainel'Alleud, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1420",
-  "Country": "Belgium"
- },
- {
-  "Code": "1421",
-  "Name": "Brainel'Alleud Ophain-Bois-Seigneur-Isaac, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1421",
-  "Country": "Belgium"
- },
- {
-  "Code": "1428",
-  "Name": "Brainel'Alleud, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1428",
-  "Country": "Belgium"
- },
- {
-  "Code": "1430",
-  "Name": "Rebecq Quenast, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1430",
-  "Country": "Belgium"
- },
- {
-  "Code": "1435",
-  "Name": "Mont-Saint-Guibert, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1435",
-  "Country": "Belgium"
- },
- {
-  "Code": "1440",
-  "Name": "Brainele-Chateau Wauthier-Braine, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1440",
-  "Country": "Belgium"
- },
- {
-  "Code": "1450",
-  "Name": "Chastre Gentinnes, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1450",
-  "Country": "Belgium"
- },
- {
-  "Code": "1457",
-  "Name": "Walhain Nil-Saint-Vincent-Saint-Martin, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1457",
-  "Country": "Belgium"
- },
- {
-  "Code": "1460",
-  "Name": "Ittre Virginal-Samme, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1460",
-  "Country": "Belgium"
- },
- {
-  "Code": "1461",
-  "Name": "Ittre Haut-Ittre, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1461",
-  "Country": "Belgium"
- },
- {
-  "Code": "1470",
-  "Name": "Genappe Baisy-Thy, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1470",
-  "Country": "Belgium"
- },
- {
-  "Code": "1471",
-  "Name": "Genappe Loupoigne, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1471",
-  "Country": "Belgium"
- },
- {
-  "Code": "1472",
-  "Name": "Genappe Vieux-Genappe, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1472",
-  "Country": "Belgium"
- },
- {
-  "Code": "1473",
-  "Name": "Genappe Glabais, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1473",
-  "Country": "Belgium"
- },
- {
-  "Code": "1474",
-  "Name": "Genappe Ways, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1474",
-  "Country": "Belgium"
- },
- {
-  "Code": "1476",
-  "Name": "Genappe Houtainle-Val, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1476",
-  "Country": "Belgium"
- },
- {
-  "Code": "1480",
-  "Name": "Tubize, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1480",
-  "Country": "Belgium"
- },
- {
-  "Code": "1490",
-  "Name": "Court-Saint-Etienne, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1490",
-  "Country": "Belgium"
- },
- {
-  "Code": "1495",
-  "Name": "Villersla-Ville Marbais, Brabant Wallon",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE1495",
-  "Country": "Belgium"
- },
- {
-  "Code": "4000",
-  "Name": "Liege, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4000",
-  "Country": "Belgium"
- },
- {
-  "Code": "4020",
-  "Name": "Liege Wandre, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4020",
-  "Country": "Belgium"
- },
- {
-  "Code": "4030",
-  "Name": "Liege Grivegnee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4030",
-  "Country": "Belgium"
- },
- {
-  "Code": "4031",
-  "Name": "Liege Angleur, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4031",
-  "Country": "Belgium"
- },
- {
-  "Code": "4032",
-  "Name": "Liege Chenee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4032",
-  "Country": "Belgium"
- },
- {
-  "Code": "4040",
-  "Name": "Herstal, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4040",
-  "Country": "Belgium"
- },
- {
-  "Code": "4041",
-  "Name": "Herstal Milmort, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4041",
-  "Country": "Belgium"
- },
- {
-  "Code": "4042",
-  "Name": "Herstal, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4042",
-  "Country": "Belgium"
- },
- {
-  "Code": "4050",
-  "Name": "Chaudfontaine, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4050",
-  "Country": "Belgium"
- },
- {
-  "Code": "4051",
-  "Name": "Chaudfontaine Vauxsous-Chevremont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4051",
-  "Country": "Belgium"
- },
- {
-  "Code": "4052",
-  "Name": "Chaudfontaine, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4052",
-  "Country": "Belgium"
- },
- {
-  "Code": "4053",
-  "Name": "Chaudfontaine, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4053",
-  "Country": "Belgium"
- },
- {
-  "Code": "4100",
-  "Name": "Seraing Boncelles, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4100",
-  "Country": "Belgium"
- },
- {
-  "Code": "4101",
-  "Name": "Seraing Jemeppesur-Meuse, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4101",
-  "Country": "Belgium"
- },
- {
-  "Code": "4102",
-  "Name": "Seraing Ougree, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4102",
-  "Country": "Belgium"
- },
- {
-  "Code": "4120",
-  "Name": "Neupre Ehein, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4120",
-  "Country": "Belgium"
- },
- {
-  "Code": "4121",
-  "Name": "Neupre Neuvilleen-Condroz, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4121",
-  "Country": "Belgium"
- },
- {
-  "Code": "4122",
-  "Name": "Neupre Plainevaux, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4122",
-  "Country": "Belgium"
- },
- {
-  "Code": "4130",
-  "Name": "Esneux Tilff, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4130",
-  "Country": "Belgium"
- },
- {
-  "Code": "4140",
-  "Name": "Sprimont Gomze-Andoumont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4140",
-  "Country": "Belgium"
- },
- {
-  "Code": "4141",
-  "Name": "Sprimont Louveigne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4141",
-  "Country": "Belgium"
- },
- {
-  "Code": "4151",
-  "Name": "Anthisnes, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4151",
-  "Country": "Belgium"
- },
- {
-  "Code": "4160",
-  "Name": "Anthisnes, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4160",
-  "Country": "Belgium"
- },
- {
-  "Code": "4161",
-  "Name": "Anthisnes Villersaux-Tours, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4161",
-  "Country": "Belgium"
- },
- {
-  "Code": "4162",
-  "Name": "Anthisnes, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4162",
-  "Country": "Belgium"
- },
- {
-  "Code": "4163",
-  "Name": "Anthisnes Tavier, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4163",
-  "Country": "Belgium"
- },
- {
-  "Code": "4170",
-  "Name": "Comblainau-Pont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4170",
-  "Country": "Belgium"
- },
- {
-  "Code": "4171",
-  "Name": "Comblainau-Pont Poulseur, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4171",
-  "Country": "Belgium"
- },
- {
-  "Code": "4180",
-  "Name": "Hamoir Comblain-Fairon, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4180",
-  "Country": "Belgium"
- },
- {
-  "Code": "4181",
-  "Name": "Hamoir, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4181",
-  "Country": "Belgium"
- },
- {
-  "Code": "4190",
-  "Name": "Ferrieres Xhoris, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4190",
-  "Country": "Belgium"
- },
- {
-  "Code": "4210",
-  "Name": "Burdinne Lamontzee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4210",
-  "Country": "Belgium"
- },
- {
-  "Code": "4217",
-  "Name": "Heron Waretl'Eveque, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4217",
-  "Country": "Belgium"
- },
- {
-  "Code": "4218",
-  "Name": "Heron Couthuin, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4218",
-  "Country": "Belgium"
- },
- {
-  "Code": "4219",
-  "Name": "Wasseiges, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4219",
-  "Country": "Belgium"
- },
- {
-  "Code": "4250",
-  "Name": "Geer Hollognesur-Geer, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4250",
-  "Country": "Belgium"
- },
- {
-  "Code": "4252",
-  "Name": "Geer Omal, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4252",
-  "Country": "Belgium"
- },
- {
-  "Code": "4253",
-  "Name": "Geer, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4253",
-  "Country": "Belgium"
- },
- {
-  "Code": "4254",
-  "Name": "Geer Ligney, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4254",
-  "Country": "Belgium"
- },
- {
-  "Code": "4257",
-  "Name": "Berloz, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4257",
-  "Country": "Belgium"
- },
- {
-  "Code": "4260",
-  "Name": "Braives Fallais, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4260",
-  "Country": "Belgium"
- },
- {
-  "Code": "4261",
-  "Name": "Braives Latinne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4261",
-  "Country": "Belgium"
- },
- {
-  "Code": "4263",
-  "Name": "Braives Tourinne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4263",
-  "Country": "Belgium"
- },
- {
-  "Code": "4280",
-  "Name": "Hannut, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4280",
-  "Country": "Belgium"
- },
- {
-  "Code": "4287",
-  "Name": "Lincent Pellaines, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4287",
-  "Country": "Belgium"
- },
- {
-  "Code": "4300",
-  "Name": "Waremme Oleye, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4300",
-  "Country": "Belgium"
- },
- {
-  "Code": "4317",
-  "Name": "Faimes Celles, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4317",
-  "Country": "Belgium"
- },
- {
-  "Code": "4340",
-  "Name": "Awans Othee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4340",
-  "Country": "Belgium"
- },
- {
-  "Code": "4342",
-  "Name": "Awans Hognoul, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4342",
-  "Country": "Belgium"
- },
- {
-  "Code": "4347",
-  "Name": "Fexhele-Haut-Clocher Voroux-Goreux, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4347",
-  "Country": "Belgium"
- },
- {
-  "Code": "4350",
-  "Name": "Remicourt Momalle, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4350",
-  "Country": "Belgium"
- },
- {
-  "Code": "4351",
-  "Name": "Remicourt Hodeige, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4351",
-  "Country": "Belgium"
- },
- {
-  "Code": "4357",
-  "Name": "Donceel Haneffe, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4357",
-  "Country": "Belgium"
- },
- {
-  "Code": "4360",
-  "Name": "Oreye, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4360",
-  "Country": "Belgium"
- },
- {
-  "Code": "4367",
-  "Name": "Crisnee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4367",
-  "Country": "Belgium"
- },
- {
-  "Code": "4400",
-  "Name": "Flemalle Monslez-Liege, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4400",
-  "Country": "Belgium"
- },
- {
-  "Code": "4420",
-  "Name": "Saint-Nicolas Tilleur, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4420",
-  "Country": "Belgium"
- },
- {
-  "Code": "4430",
-  "Name": "Ans, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4430",
-  "Country": "Belgium"
- },
- {
-  "Code": "4431",
-  "Name": "Ans, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4431",
-  "Country": "Belgium"
- },
- {
-  "Code": "4432",
-  "Name": "Ans Alleur, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4432",
-  "Country": "Belgium"
- },
- {
-  "Code": "4450",
-  "Name": "Juprelle Slins, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4450",
-  "Country": "Belgium"
- },
- {
-  "Code": "4451",
-  "Name": "Juprelle, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4451",
-  "Country": "Belgium"
- },
- {
-  "Code": "4452",
-  "Name": "Juprelle Paifve, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4452",
-  "Country": "Belgium"
- },
- {
-  "Code": "4453",
-  "Name": "Juprelle, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4453",
-  "Country": "Belgium"
- },
- {
-  "Code": "4458",
-  "Name": "Juprelle Fexhe-Slins, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4458",
-  "Country": "Belgium"
- },
- {
-  "Code": "4460",
-  "Name": "Grace-Hollogne Horion-Hozemont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4460",
-  "Country": "Belgium"
- },
- {
-  "Code": "4470",
-  "Name": "Saint-Georgessur-Meuse, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4470",
-  "Country": "Belgium"
- },
- {
-  "Code": "4480",
-  "Name": "Engis Hermallesous-Huy, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4480",
-  "Country": "Belgium"
- },
- {
-  "Code": "4500",
-  "Name": "Huy Ben-Ahin, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4500",
-  "Country": "Belgium"
- },
- {
-  "Code": "4520",
-  "Name": "Wanze Bas-Oha, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4520",
-  "Country": "Belgium"
- },
- {
-  "Code": "4530",
-  "Name": "Villersle-Bouillet Vieux-Waleffe, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4530",
-  "Country": "Belgium"
- },
- {
-  "Code": "4537",
-  "Name": "Verlaine, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4537",
-  "Country": "Belgium"
- },
- {
-  "Code": "4540",
-  "Name": "Amay, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4540",
-  "Country": "Belgium"
- },
- {
-  "Code": "4550",
-  "Name": "Nandrin Villersle-Temple, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4550",
-  "Country": "Belgium"
- },
- {
-  "Code": "4557",
-  "Name": "Tinlot Ramelot, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4557",
-  "Country": "Belgium"
- },
- {
-  "Code": "4560",
-  "Name": "Clavier Terwagne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4560",
-  "Country": "Belgium"
- },
- {
-  "Code": "4570",
-  "Name": "Marchin, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4570",
-  "Country": "Belgium"
- },
- {
-  "Code": "4577",
-  "Name": "Modave Vierset-Barse, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4577",
-  "Country": "Belgium"
- },
- {
-  "Code": "4590",
-  "Name": "Ouffet Warzee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4590",
-  "Country": "Belgium"
- },
- {
-  "Code": "4600",
-  "Name": "Vise Lixhe, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4600",
-  "Country": "Belgium"
- },
- {
-  "Code": "4601",
-  "Name": "Vise Argenteau, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4601",
-  "Country": "Belgium"
- },
- {
-  "Code": "4602",
-  "Name": "Vise, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4602",
-  "Country": "Belgium"
- },
- {
-  "Code": "4606",
-  "Name": "Dalhem, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4606",
-  "Country": "Belgium"
- },
- {
-  "Code": "4607",
-  "Name": "Dalhem Bombaye, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4607",
-  "Country": "Belgium"
- },
- {
-  "Code": "4608",
-  "Name": "Dalhem, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4608",
-  "Country": "Belgium"
- },
- {
-  "Code": "4610",
-  "Name": "Beyne-Heusay, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4610",
-  "Country": "Belgium"
- },
- {
-  "Code": "4620",
-  "Name": "Fleron, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4620",
-  "Country": "Belgium"
- },
- {
-  "Code": "4621",
-  "Name": "Fleron Retinne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4621",
-  "Country": "Belgium"
- },
- {
-  "Code": "4623",
-  "Name": "Fleron Magnee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4623",
-  "Country": "Belgium"
- },
- {
-  "Code": "4624",
-  "Name": "Fleron, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4624",
-  "Country": "Belgium"
- },
- {
-  "Code": "4630",
-  "Name": "Soumagne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4630",
-  "Country": "Belgium"
- },
- {
-  "Code": "4631",
-  "Name": "Soumagne Evegnee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4631",
-  "Country": "Belgium"
- },
- {
-  "Code": "4632",
-  "Name": "Soumagne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4632",
-  "Country": "Belgium"
- },
- {
-  "Code": "4633",
-  "Name": "Soumagne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4633",
-  "Country": "Belgium"
- },
- {
-  "Code": "4650",
-  "Name": "Herve, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4650",
-  "Country": "Belgium"
- },
- {
-  "Code": "4651",
-  "Name": "Herve, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4651",
-  "Country": "Belgium"
- },
- {
-  "Code": "4652",
-  "Name": "Herve Xhendelesse, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4652",
-  "Country": "Belgium"
- },
- {
-  "Code": "4653",
-  "Name": "Herve, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4653",
-  "Country": "Belgium"
- },
- {
-  "Code": "4654",
-  "Name": "Herve, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4654",
-  "Country": "Belgium"
- },
- {
-  "Code": "4670",
-  "Name": "Blegny, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4670",
-  "Country": "Belgium"
- },
- {
-  "Code": "4671",
-  "Name": "Blegny Housse, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4671",
-  "Country": "Belgium"
- },
- {
-  "Code": "4672",
-  "Name": "Blegny Saint-Remy, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4672",
-  "Country": "Belgium"
- },
- {
-  "Code": "4680",
-  "Name": "Oupeye Hermee, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4680",
-  "Country": "Belgium"
- },
- {
-  "Code": "4681",
-  "Name": "Oupeye Hermallesous-Argenteau, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4681",
-  "Country": "Belgium"
- },
- {
-  "Code": "4682",
-  "Name": "Oupeye Heurele-Romain, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4682",
-  "Country": "Belgium"
- },
- {
-  "Code": "4683",
-  "Name": "Oupeye Vivegnis, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4683",
-  "Country": "Belgium"
- },
- {
-  "Code": "4684",
-  "Name": "Oupeye Haccourt, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4684",
-  "Country": "Belgium"
- },
- {
-  "Code": "4690",
-  "Name": "Bassenge Boirs, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4690",
-  "Country": "Belgium"
- },
- {
-  "Code": "4700",
-  "Name": "Eupen, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4700",
-  "Country": "Belgium"
- },
- {
-  "Code": "4701",
-  "Name": "Eupen, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4701",
-  "Country": "Belgium"
- },
- {
-  "Code": "4710",
-  "Name": "Lontzen, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4710",
-  "Country": "Belgium"
- },
- {
-  "Code": "4711",
-  "Name": "Lontzen, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4711",
-  "Country": "Belgium"
- },
- {
-  "Code": "4720",
-  "Name": "Kelmis, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4720",
-  "Country": "Belgium"
- },
- {
-  "Code": "4721",
-  "Name": "Kelmis, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4721",
-  "Country": "Belgium"
- },
- {
-  "Code": "4728",
-  "Name": "Kelmis Hergenrath, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4728",
-  "Country": "Belgium"
- },
- {
-  "Code": "4730",
-  "Name": "Raeren, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4730",
-  "Country": "Belgium"
- },
- {
-  "Code": "4731",
-  "Name": "Raeren, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4731",
-  "Country": "Belgium"
- },
- {
-  "Code": "4750",
-  "Name": "Butgenbach Elsenborn, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4750",
-  "Country": "Belgium"
- },
- {
-  "Code": "4760",
-  "Name": "Bullingen Manderfeld, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4760",
-  "Country": "Belgium"
- },
- {
-  "Code": "4761",
-  "Name": "Bullingen Rocherath, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4761",
-  "Country": "Belgium"
- },
- {
-  "Code": "4770",
-  "Name": "Amel Meyrode, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4770",
-  "Country": "Belgium"
- },
- {
-  "Code": "4771",
-  "Name": "Amel, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4771",
-  "Country": "Belgium"
- },
- {
-  "Code": "4780",
-  "Name": "Sankt Vith Sankt Vith, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4780",
-  "Country": "Belgium"
- },
- {
-  "Code": "4782",
-  "Name": "Sankt Vith Schonberg, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4782",
-  "Country": "Belgium"
- },
- {
-  "Code": "4783",
-  "Name": "Sankt Vith Lommersweiler, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4783",
-  "Country": "Belgium"
- },
- {
-  "Code": "4784",
-  "Name": "Sankt Vith, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4784",
-  "Country": "Belgium"
- },
- {
-  "Code": "4790",
-  "Name": "Burg-Reuland, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4790",
-  "Country": "Belgium"
- },
- {
-  "Code": "4791",
-  "Name": "Burg-Reuland Thommen, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4791",
-  "Country": "Belgium"
- },
- {
-  "Code": "4800",
-  "Name": "Verviers Lambermont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4800",
-  "Country": "Belgium"
- },
- {
-  "Code": "4801",
-  "Name": "Verviers Stembert, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4801",
-  "Country": "Belgium"
- },
- {
-  "Code": "4802",
-  "Name": "Verviers Heusy, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4802",
-  "Country": "Belgium"
- },
- {
-  "Code": "4820",
-  "Name": "Dison, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4820",
-  "Country": "Belgium"
- },
- {
-  "Code": "4821",
-  "Name": "Dison Andrimont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4821",
-  "Country": "Belgium"
- },
- {
-  "Code": "4830",
-  "Name": "Limbourg, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4830",
-  "Country": "Belgium"
- },
- {
-  "Code": "4831",
-  "Name": "Limbourg, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4831",
-  "Country": "Belgium"
- },
- {
-  "Code": "4834",
-  "Name": "Limbourg, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4834",
-  "Country": "Belgium"
- },
- {
-  "Code": "4837",
-  "Name": "Baelen Membach, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4837",
-  "Country": "Belgium"
- },
- {
-  "Code": "4840",
-  "Name": "Welkenraedt, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4840",
-  "Country": "Belgium"
- },
- {
-  "Code": "4841",
-  "Name": "Welkenraedt Henri-Chapelle, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4841",
-  "Country": "Belgium"
- },
- {
-  "Code": "4845",
-  "Name": "Jalhay, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4845",
-  "Country": "Belgium"
- },
- {
-  "Code": "4850",
-  "Name": "Plombieres, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4850",
-  "Country": "Belgium"
- },
- {
-  "Code": "4851",
-  "Name": "Plombieres Sippenaeken, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4851",
-  "Country": "Belgium"
- },
- {
-  "Code": "4852",
-  "Name": "Plombieres, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4852",
-  "Country": "Belgium"
- },
- {
-  "Code": "4860",
-  "Name": "Pepinster, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4860",
-  "Country": "Belgium"
- },
- {
-  "Code": "4861",
-  "Name": "Pepinster, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4861",
-  "Country": "Belgium"
- },
- {
-  "Code": "4870",
-  "Name": "Trooz Nessonvaux, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4870",
-  "Country": "Belgium"
- },
- {
-  "Code": "4877",
-  "Name": "Olne, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4877",
-  "Country": "Belgium"
- },
- {
-  "Code": "4880",
-  "Name": "Aubel, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4880",
-  "Country": "Belgium"
- },
- {
-  "Code": "4890",
-  "Name": "Thimister-Clermont, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4890",
-  "Country": "Belgium"
- },
- {
-  "Code": "4900",
-  "Name": "Spa, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4900",
-  "Country": "Belgium"
- },
- {
-  "Code": "4910",
-  "Name": "Theux, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4910",
-  "Country": "Belgium"
- },
- {
-  "Code": "4920",
-  "Name": "Aywaille, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4920",
-  "Country": "Belgium"
- },
- {
-  "Code": "4950",
-  "Name": "Waimes Sourbrodt, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4950",
-  "Country": "Belgium"
- },
- {
-  "Code": "4960",
-  "Name": "Malmedy Bellevaux-Ligneuville, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4960",
-  "Country": "Belgium"
- },
- {
-  "Code": "4970",
-  "Name": "Stavelot Coo, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4970",
-  "Country": "Belgium"
- },
- {
-  "Code": "4980",
-  "Name": "Trois-Ponts, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4980",
-  "Country": "Belgium"
- },
- {
-  "Code": "4983",
-  "Name": "Trois-Ponts, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4983",
-  "Country": "Belgium"
- },
- {
-  "Code": "4987",
-  "Name": "Stoumont Cheneux, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4987",
-  "Country": "Belgium"
- },
- {
-  "Code": "4990",
-  "Name": "Lierneux Bra, Liege",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE4990",
-  "Country": "Belgium"
- },
- {
-  "Code": "5000",
-  "Name": "Namur Beez, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5000",
-  "Country": "Belgium"
- },
- {
-  "Code": "5001",
-  "Name": "Namur, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5001",
-  "Country": "Belgium"
- },
- {
-  "Code": "5002",
-  "Name": "Namur Saint-Servais, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5002",
-  "Country": "Belgium"
- },
- {
-  "Code": "5003",
-  "Name": "Namur, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5003",
-  "Country": "Belgium"
- },
- {
-  "Code": "5004",
-  "Name": "Namur, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5004",
-  "Country": "Belgium"
- },
- {
-  "Code": "5020",
-  "Name": "Namur, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5020",
-  "Country": "Belgium"
- },
- {
-  "Code": "5021",
-  "Name": "Namur, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5021",
-  "Country": "Belgium"
- },
- {
-  "Code": "5022",
-  "Name": "Namur Cognelee, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5022",
-  "Country": "Belgium"
- },
- {
-  "Code": "5024",
-  "Name": "Namur Gelbressee, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5024",
-  "Country": "Belgium"
- },
- {
-  "Code": "5030",
-  "Name": "Gembloux Grand-Manil, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5030",
-  "Country": "Belgium"
- },
- {
-  "Code": "5031",
-  "Name": "Gembloux, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5031",
-  "Country": "Belgium"
- },
- {
-  "Code": "5032",
-  "Name": "Gembloux, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5032",
-  "Country": "Belgium"
- },
- {
-  "Code": "5060",
-  "Name": "Sambreville Falisolle, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5060",
-  "Country": "Belgium"
- },
- {
-  "Code": "5070",
-  "Name": "Fossesla-Ville, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5070",
-  "Country": "Belgium"
- },
- {
-  "Code": "5080",
-  "Name": "La Bruyere Rhisnes, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5080",
-  "Country": "Belgium"
- },
- {
-  "Code": "5081",
-  "Name": "La Bruyere Saint-Denis-Bovesse, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5081",
-  "Country": "Belgium"
- },
- {
-  "Code": "5100",
-  "Name": "Namur Naninne, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5100",
-  "Country": "Belgium"
- },
- {
-  "Code": "5101",
-  "Name": "Namur Livessur-Meuse, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5101",
-  "Country": "Belgium"
- },
- {
-  "Code": "5140",
-  "Name": "Sombreffe, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5140",
-  "Country": "Belgium"
- },
- {
-  "Code": "5150",
-  "Name": "Floreffe, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5150",
-  "Country": "Belgium"
- },
- {
-  "Code": "5170",
-  "Name": "Profondeville Arbre, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5170",
-  "Country": "Belgium"
- },
- {
-  "Code": "5190",
-  "Name": "Jemeppesur-Sambre Spy, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5190",
-  "Country": "Belgium"
- },
- {
-  "Code": "5300",
-  "Name": "Andenne Sclayn, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5300",
-  "Country": "Belgium"
- },
- {
-  "Code": "5310",
-  "Name": "Eghezee Branchon, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5310",
-  "Country": "Belgium"
- },
- {
-  "Code": "5330",
-  "Name": "Assesse Sart-Bernard, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5330",
-  "Country": "Belgium"
- },
- {
-  "Code": "5332",
-  "Name": "Assesse Crupet, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5332",
-  "Country": "Belgium"
- },
- {
-  "Code": "5333",
-  "Name": "Assesse Sorinnela-Longue, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5333",
-  "Country": "Belgium"
- },
- {
-  "Code": "5334",
-  "Name": "Assesse, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5334",
-  "Country": "Belgium"
- },
- {
-  "Code": "5336",
-  "Name": "Assesse, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5336",
-  "Country": "Belgium"
- },
- {
-  "Code": "5340",
-  "Name": "Gesves Haltinne, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5340",
-  "Country": "Belgium"
- },
- {
-  "Code": "5350",
-  "Name": "Ohey, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5350",
-  "Country": "Belgium"
- },
- {
-  "Code": "5351",
-  "Name": "Ohey Haillot, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5351",
-  "Country": "Belgium"
- },
- {
-  "Code": "5352",
-  "Name": "Ohey Perwez, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5352",
-  "Country": "Belgium"
- },
- {
-  "Code": "5353",
-  "Name": "Ohey, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5353",
-  "Country": "Belgium"
- },
- {
-  "Code": "5354",
-  "Name": "Ohey, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5354",
-  "Country": "Belgium"
- },
- {
-  "Code": "5360",
-  "Name": "Hamois, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5360",
-  "Country": "Belgium"
- },
- {
-  "Code": "5361",
-  "Name": "Hamois Mohiville, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5361",
-  "Country": "Belgium"
- },
- {
-  "Code": "5362",
-  "Name": "Hamois, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5362",
-  "Country": "Belgium"
- },
- {
-  "Code": "5363",
-  "Name": "Hamois, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5363",
-  "Country": "Belgium"
- },
- {
-  "Code": "5364",
-  "Name": "Hamois Schaltin, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5364",
-  "Country": "Belgium"
- },
- {
-  "Code": "5370",
-  "Name": "Havelange Porcheresse, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5370",
-  "Country": "Belgium"
- },
- {
-  "Code": "5372",
-  "Name": "Havelange, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5372",
-  "Country": "Belgium"
- },
- {
-  "Code": "5374",
-  "Name": "Havelange, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5374",
-  "Country": "Belgium"
- },
- {
-  "Code": "5376",
-  "Name": "Havelange Miecret, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5376",
-  "Country": "Belgium"
- },
- {
-  "Code": "5377",
-  "Name": "Somme-Leuze Waillet, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5377",
-  "Country": "Belgium"
- },
- {
-  "Code": "5380",
-  "Name": "Fernelmont Bierwart, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5380",
-  "Country": "Belgium"
- },
- {
-  "Code": "5500",
-  "Name": "Dinant, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5500",
-  "Country": "Belgium"
- },
- {
-  "Code": "5501",
-  "Name": "Dinant, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5501",
-  "Country": "Belgium"
- },
- {
-  "Code": "5502",
-  "Name": "Dinant Thynes, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5502",
-  "Country": "Belgium"
- },
- {
-  "Code": "5503",
-  "Name": "Dinant, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5503",
-  "Country": "Belgium"
- },
- {
-  "Code": "5504",
-  "Name": "Dinant, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5504",
-  "Country": "Belgium"
- },
- {
-  "Code": "5520",
-  "Name": "Onhaye Anthee, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5520",
-  "Country": "Belgium"
- },
- {
-  "Code": "5521",
-  "Name": "Onhaye, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5521",
-  "Country": "Belgium"
- },
- {
-  "Code": "5522",
-  "Name": "Onhaye, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5522",
-  "Country": "Belgium"
- },
- {
-  "Code": "5523",
-  "Name": "Onhaye Weillen, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5523",
-  "Country": "Belgium"
- },
- {
-  "Code": "5524",
-  "Name": "Onhaye, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5524",
-  "Country": "Belgium"
- },
- {
-  "Code": "5530",
-  "Name": "Yvoir Dorinne, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5530",
-  "Country": "Belgium"
- },
- {
-  "Code": "5537",
-  "Name": "Anhee Hautle-Wastia, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5537",
-  "Country": "Belgium"
- },
- {
-  "Code": "5540",
-  "Name": "Hastiere Hastiere-Lavaux, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5540",
-  "Country": "Belgium"
- },
- {
-  "Code": "5541",
-  "Name": "Hastiere, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5541",
-  "Country": "Belgium"
- },
- {
-  "Code": "5542",
-  "Name": "Hastiere Blaimont, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5542",
-  "Country": "Belgium"
- },
- {
-  "Code": "5543",
-  "Name": "Hastiere Heer, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5543",
-  "Country": "Belgium"
- },
- {
-  "Code": "5544",
-  "Name": "Hastiere Agimont, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5544",
-  "Country": "Belgium"
- },
- {
-  "Code": "5550",
-  "Name": "Vressesur-Semois Mouzaive, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5550",
-  "Country": "Belgium"
- },
- {
-  "Code": "5555",
-  "Name": "Bievre Cornimont, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5555",
-  "Country": "Belgium"
- },
- {
-  "Code": "5560",
-  "Name": "Houyet Ciergnon, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5560",
-  "Country": "Belgium"
- },
- {
-  "Code": "5561",
-  "Name": "Houyet Celles, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5561",
-  "Country": "Belgium"
- },
- {
-  "Code": "5562",
-  "Name": "Houyet, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5562",
-  "Country": "Belgium"
- },
- {
-  "Code": "5563",
-  "Name": "Houyet Hour, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5563",
-  "Country": "Belgium"
- },
- {
-  "Code": "5564",
-  "Name": "Houyet Wanlin, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5564",
-  "Country": "Belgium"
- },
- {
-  "Code": "5570",
-  "Name": "Beauraing Dion, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5570",
-  "Country": "Belgium"
- },
- {
-  "Code": "5571",
-  "Name": "Beauraing, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5571",
-  "Country": "Belgium"
- },
- {
-  "Code": "5572",
-  "Name": "Beauraing, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5572",
-  "Country": "Belgium"
- },
- {
-  "Code": "5573",
-  "Name": "Beauraing Martouzin-Neuville, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5573",
-  "Country": "Belgium"
- },
- {
-  "Code": "5574",
-  "Name": "Beauraing Pondrome, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5574",
-  "Country": "Belgium"
- },
- {
-  "Code": "5575",
-  "Name": "Gedinne Sart-Custinne, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5575",
-  "Country": "Belgium"
- },
- {
-  "Code": "5576",
-  "Name": "Beauraing Froidfontaine, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5576",
-  "Country": "Belgium"
- },
- {
-  "Code": "5580",
-  "Name": "Rochefort Eprave, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5580",
-  "Country": "Belgium"
- },
- {
-  "Code": "5590",
-  "Name": "Ciney Chevetogne, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5590",
-  "Country": "Belgium"
- },
- {
-  "Code": "5600",
-  "Name": "Philippeville Samart, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5600",
-  "Country": "Belgium"
- },
- {
-  "Code": "5620",
-  "Name": "Florennes Morville, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5620",
-  "Country": "Belgium"
- },
- {
-  "Code": "5621",
-  "Name": "Florennes Hanzinelle, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5621",
-  "Country": "Belgium"
- },
- {
-  "Code": "5630",
-  "Name": "Cerfontaine Soumoy, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5630",
-  "Country": "Belgium"
- },
- {
-  "Code": "5640",
-  "Name": "Mettet Oret, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5640",
-  "Country": "Belgium"
- },
- {
-  "Code": "5641",
-  "Name": "Mettet, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5641",
-  "Country": "Belgium"
- },
- {
-  "Code": "5644",
-  "Name": "Mettet Ermetonsur-Biert, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5644",
-  "Country": "Belgium"
- },
- {
-  "Code": "5646",
-  "Name": "Mettet Stave, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5646",
-  "Country": "Belgium"
- },
- {
-  "Code": "5650",
-  "Name": "Walcourt Clermont, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5650",
-  "Country": "Belgium"
- },
- {
-  "Code": "5651",
-  "Name": "Walcourt Rognee, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5651",
-  "Country": "Belgium"
- },
- {
-  "Code": "5660",
-  "Name": "Couvin Culdes-Sarts, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5660",
-  "Country": "Belgium"
- },
- {
-  "Code": "5670",
-  "Name": "Viroinval, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5670",
-  "Country": "Belgium"
- },
- {
-  "Code": "5680",
-  "Name": "Doische Matagnela-Grande, Namur",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE5680",
-  "Country": "Belgium"
- },
- {
-  "Code": "6000",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6000",
-  "Country": "Belgium"
- },
- {
-  "Code": "6001",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6001",
-  "Country": "Belgium"
- },
- {
-  "Code": "6010",
-  "Name": "Charleroi Couillet, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6010",
-  "Country": "Belgium"
- },
- {
-  "Code": "6020",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6020",
-  "Country": "Belgium"
- },
- {
-  "Code": "6030",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6030",
-  "Country": "Belgium"
- },
- {
-  "Code": "6031",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6031",
-  "Country": "Belgium"
- },
- {
-  "Code": "6032",
-  "Name": "Charleroi Montsur-Marchienne, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6032",
-  "Country": "Belgium"
- },
- {
-  "Code": "6040",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6040",
-  "Country": "Belgium"
- },
- {
-  "Code": "6041",
-  "Name": "Charleroi Gosselies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6041",
-  "Country": "Belgium"
- },
- {
-  "Code": "6042",
-  "Name": "Charleroi Lodelinsart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6042",
-  "Country": "Belgium"
- },
- {
-  "Code": "6043",
-  "Name": "Charleroi Ransart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6043",
-  "Country": "Belgium"
- },
- {
-  "Code": "6044",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6044",
-  "Country": "Belgium"
- },
- {
-  "Code": "6060",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6060",
-  "Country": "Belgium"
- },
- {
-  "Code": "6061",
-  "Name": "Charleroi, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6061",
-  "Country": "Belgium"
- },
- {
-  "Code": "6110",
-  "Name": "Montignyle-Tilleul, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6110",
-  "Country": "Belgium"
- },
- {
-  "Code": "6111",
-  "Name": "Montignyle-Tilleul Landelies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6111",
-  "Country": "Belgium"
- },
- {
-  "Code": "6120",
-  "Name": "Hamsur-Heure-Nalinnes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6120",
-  "Country": "Belgium"
- },
- {
-  "Code": "6140",
-  "Name": "Fontainel'Eveque, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6140",
-  "Country": "Belgium"
- },
- {
-  "Code": "6141",
-  "Name": "Fontainel'Eveque Forchiesla-Marche, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6141",
-  "Country": "Belgium"
- },
- {
-  "Code": "6142",
-  "Name": "Fontainel'Eveque, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6142",
-  "Country": "Belgium"
- },
- {
-  "Code": "6150",
-  "Name": "Anderlues, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6150",
-  "Country": "Belgium"
- },
- {
-  "Code": "6180",
-  "Name": "Courcelles, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6180",
-  "Country": "Belgium"
- },
- {
-  "Code": "6181",
-  "Name": "Courcelles, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6181",
-  "Country": "Belgium"
- },
- {
-  "Code": "6182",
-  "Name": "Courcelles Souvret, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6182",
-  "Country": "Belgium"
- },
- {
-  "Code": "6183",
-  "Name": "Courcelles Trazegnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6183",
-  "Country": "Belgium"
- },
- {
-  "Code": "6200",
-  "Name": "Chatelet Chatelineau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6200",
-  "Country": "Belgium"
- },
- {
-  "Code": "6210",
-  "Name": "Les Bons Villers Frasneslez-Gosselies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6210",
-  "Country": "Belgium"
- },
- {
-  "Code": "6211",
-  "Name": "Les Bons Villers, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6211",
-  "Country": "Belgium"
- },
- {
-  "Code": "6220",
-  "Name": "Fleurus Lambusart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6220",
-  "Country": "Belgium"
- },
- {
-  "Code": "6221",
-  "Name": "Fleurus, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6221",
-  "Country": "Belgium"
- },
- {
-  "Code": "6222",
-  "Name": "Fleurus, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6222",
-  "Country": "Belgium"
- },
- {
-  "Code": "6223",
-  "Name": "Fleurus, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6223",
-  "Country": "Belgium"
- },
- {
-  "Code": "6224",
-  "Name": "Fleurus, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6224",
-  "Country": "Belgium"
- },
- {
-  "Code": "6230",
-  "Name": "Ponta-Celles Viesville, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6230",
-  "Country": "Belgium"
- },
- {
-  "Code": "6238",
-  "Name": "Ponta-Celles, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6238",
-  "Country": "Belgium"
- },
- {
-  "Code": "6240",
-  "Name": "Farciennes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6240",
-  "Country": "Belgium"
- },
- {
-  "Code": "6250",
-  "Name": "Aiseau-Presles Roselies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6250",
-  "Country": "Belgium"
- },
- {
-  "Code": "6280",
-  "Name": "Gerpinnes Loverval, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6280",
-  "Country": "Belgium"
- },
- {
-  "Code": "6440",
-  "Name": "Froidchapelle Boussulez-Walcourt, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6440",
-  "Country": "Belgium"
- },
- {
-  "Code": "6441",
-  "Name": "Froidchapelle Erpion, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6441",
-  "Country": "Belgium"
- },
- {
-  "Code": "6460",
-  "Name": "Chimay Villersla-Tour, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6460",
-  "Country": "Belgium"
- },
- {
-  "Code": "6461",
-  "Name": "Chimay, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6461",
-  "Country": "Belgium"
- },
- {
-  "Code": "6462",
-  "Name": "Chimay, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6462",
-  "Country": "Belgium"
- },
- {
-  "Code": "6463",
-  "Name": "Chimay, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6463",
-  "Country": "Belgium"
- },
- {
-  "Code": "6464",
-  "Name": "Chimay, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6464",
-  "Country": "Belgium"
- },
- {
-  "Code": "6470",
-  "Name": "Sivry-Rance Montbliart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6470",
-  "Country": "Belgium"
- },
- {
-  "Code": "6500",
-  "Name": "Beaumont Barbencon, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6500",
-  "Country": "Belgium"
- },
- {
-  "Code": "6511",
-  "Name": "Beaumont Stree, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6511",
-  "Country": "Belgium"
- },
- {
-  "Code": "6530",
-  "Name": "Thuin Leerset-Fosteau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6530",
-  "Country": "Belgium"
- },
- {
-  "Code": "6531",
-  "Name": "Thuin Biesmesous-Thuin, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6531",
-  "Country": "Belgium"
- },
- {
-  "Code": "6532",
-  "Name": "Thuin Ragnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6532",
-  "Country": "Belgium"
- },
- {
-  "Code": "6533",
-  "Name": "Thuin, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6533",
-  "Country": "Belgium"
- },
- {
-  "Code": "6534",
-  "Name": "Thuin Gozee, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6534",
-  "Country": "Belgium"
- },
- {
-  "Code": "6536",
-  "Name": "Thuin Thuillies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6536",
-  "Country": "Belgium"
- },
- {
-  "Code": "6540",
-  "Name": "Lobbes Mont-Sainte-Genevieve, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6540",
-  "Country": "Belgium"
- },
- {
-  "Code": "6542",
-  "Name": "Lobbes Sarsla-Buissiere, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6542",
-  "Country": "Belgium"
- },
- {
-  "Code": "6543",
-  "Name": "Lobbes Biennelez-Happart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6543",
-  "Country": "Belgium"
- },
- {
-  "Code": "6560",
-  "Name": "Erquelinnes Grand-Reng, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6560",
-  "Country": "Belgium"
- },
- {
-  "Code": "6567",
-  "Name": "Merbesle-Chateau Labuissiere, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6567",
-  "Country": "Belgium"
- },
- {
-  "Code": "6590",
-  "Name": "Momignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6590",
-  "Country": "Belgium"
- },
- {
-  "Code": "6591",
-  "Name": "Momignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6591",
-  "Country": "Belgium"
- },
- {
-  "Code": "6592",
-  "Name": "Momignies Monceau-Imbrechies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6592",
-  "Country": "Belgium"
- },
- {
-  "Code": "6593",
-  "Name": "Momignies Macquenoise, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6593",
-  "Country": "Belgium"
- },
- {
-  "Code": "6594",
-  "Name": "Momignies Beauwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6594",
-  "Country": "Belgium"
- },
- {
-  "Code": "6596",
-  "Name": "Momignies Forge-Philippe, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6596",
-  "Country": "Belgium"
- },
- {
-  "Code": "6600",
-  "Name": "Bastogne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6600",
-  "Country": "Belgium"
- },
- {
-  "Code": "6630",
-  "Name": "Martelange, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6630",
-  "Country": "Belgium"
- },
- {
-  "Code": "6637",
-  "Name": "Fauvillers, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6637",
-  "Country": "Belgium"
- },
- {
-  "Code": "6640",
-  "Name": "Vaux-sur-Sure Hompre, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6640",
-  "Country": "Belgium"
- },
- {
-  "Code": "6642",
-  "Name": "Juseret, Luxembourg Bastogne",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6642",
-  "Country": "Belgium"
- },
- {
-  "Code": "6660",
-  "Name": "Houffalize, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6660",
-  "Country": "Belgium"
- },
- {
-  "Code": "6661",
-  "Name": "Houffalize Mont, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6661",
-  "Country": "Belgium"
- },
- {
-  "Code": "6662",
-  "Name": "Houffalize Tavigny, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6662",
-  "Country": "Belgium"
- },
- {
-  "Code": "6663",
-  "Name": "Houffalize Mabompre, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6663",
-  "Country": "Belgium"
- },
- {
-  "Code": "6666",
-  "Name": "Houffalize Wibrin, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6666",
-  "Country": "Belgium"
- },
- {
-  "Code": "6670",
-  "Name": "Gouvy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6670",
-  "Country": "Belgium"
- },
- {
-  "Code": "6671",
-  "Name": "Gouvy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6671",
-  "Country": "Belgium"
- },
- {
-  "Code": "6672",
-  "Name": "Gouvy Beho, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6672",
-  "Country": "Belgium"
- },
- {
-  "Code": "6673",
-  "Name": "Gouvy Cherain, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6673",
-  "Country": "Belgium"
- },
- {
-  "Code": "6674",
-  "Name": "Gouvy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6674",
-  "Country": "Belgium"
- },
- {
-  "Code": "6680",
-  "Name": "Sainte-Ode Tillet, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6680",
-  "Country": "Belgium"
- },
- {
-  "Code": "6681",
-  "Name": "Sainte-Ode, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6681",
-  "Country": "Belgium"
- },
- {
-  "Code": "6686",
-  "Name": "Bertogne Flamierge, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6686",
-  "Country": "Belgium"
- },
- {
-  "Code": "6687",
-  "Name": "Bertogne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6687",
-  "Country": "Belgium"
- },
- {
-  "Code": "6688",
-  "Name": "Bertogne Longchamps, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6688",
-  "Country": "Belgium"
- },
- {
-  "Code": "6690",
-  "Name": "Vielsalm, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6690",
-  "Country": "Belgium"
- },
- {
-  "Code": "6692",
-  "Name": "Vielsalm, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6692",
-  "Country": "Belgium"
- },
- {
-  "Code": "6698",
-  "Name": "Vielsalm, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6698",
-  "Country": "Belgium"
- },
- {
-  "Code": "6700",
-  "Name": "Arlon Toernich, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6700",
-  "Country": "Belgium"
- },
- {
-  "Code": "6704",
-  "Name": "Arlon Guirsch, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6704",
-  "Country": "Belgium"
- },
- {
-  "Code": "6706",
-  "Name": "Arlon Autelbas, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6706",
-  "Country": "Belgium"
- },
- {
-  "Code": "6717",
-  "Name": "Attert Nobressart, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6717",
-  "Country": "Belgium"
- },
- {
-  "Code": "6720",
-  "Name": "Habay Habayla-Neuve, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6720",
-  "Country": "Belgium"
- },
- {
-  "Code": "6721",
-  "Name": "Habay, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6721",
-  "Country": "Belgium"
- },
- {
-  "Code": "6723",
-  "Name": "Habay Habayla-Vieille, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6723",
-  "Country": "Belgium"
- },
- {
-  "Code": "6724",
-  "Name": "Habay Marbehan, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6724",
-  "Country": "Belgium"
- },
- {
-  "Code": "6730",
-  "Name": "Tintigny Rossignol, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6730",
-  "Country": "Belgium"
- },
- {
-  "Code": "6740",
-  "Name": "Etalle, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6740",
-  "Country": "Belgium"
- },
- {
-  "Code": "6741",
-  "Name": "Etalle, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6741",
-  "Country": "Belgium"
- },
- {
-  "Code": "6742",
-  "Name": "Etalle, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6742",
-  "Country": "Belgium"
- },
- {
-  "Code": "6743",
-  "Name": "Etalle, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6743",
-  "Country": "Belgium"
- },
- {
-  "Code": "6747",
-  "Name": "Saint-Leger Meixle-Tige, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6747",
-  "Country": "Belgium"
- },
- {
-  "Code": "6750",
-  "Name": "Musson Signeulx, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6750",
-  "Country": "Belgium"
- },
- {
-  "Code": "6760",
-  "Name": "Virton Ruette, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6760",
-  "Country": "Belgium"
- },
- {
-  "Code": "6761",
-  "Name": "Virton, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6761",
-  "Country": "Belgium"
- },
- {
-  "Code": "6762",
-  "Name": "Virton Saint-Mard, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6762",
-  "Country": "Belgium"
- },
- {
-  "Code": "6767",
-  "Name": "Rouvroy Harnoncourt, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6767",
-  "Country": "Belgium"
- },
- {
-  "Code": "6769",
-  "Name": "Meixdevant-Virton Robelmont, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6769",
-  "Country": "Belgium"
- },
- {
-  "Code": "6780",
-  "Name": "Messancy Hondelange, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6780",
-  "Country": "Belgium"
- },
- {
-  "Code": "6781",
-  "Name": "Messancy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6781",
-  "Country": "Belgium"
- },
- {
-  "Code": "6782",
-  "Name": "Messancy Habergy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6782",
-  "Country": "Belgium"
- },
- {
-  "Code": "6790",
-  "Name": "Aubange, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6790",
-  "Country": "Belgium"
- },
- {
-  "Code": "6791",
-  "Name": "Aubange, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6791",
-  "Country": "Belgium"
- },
- {
-  "Code": "6792",
-  "Name": "Aubange, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6792",
-  "Country": "Belgium"
- },
- {
-  "Code": "6800",
-  "Name": "Libramont-Chevigny Recogne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6800",
-  "Country": "Belgium"
- },
- {
-  "Code": "6810",
-  "Name": "Chiny Izel, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6810",
-  "Country": "Belgium"
- },
- {
-  "Code": "6811",
-  "Name": "Chiny Les Bulles, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6811",
-  "Country": "Belgium"
- },
- {
-  "Code": "6812",
-  "Name": "Chiny Suxy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6812",
-  "Country": "Belgium"
- },
- {
-  "Code": "6813",
-  "Name": "Chiny Termes, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6813",
-  "Country": "Belgium"
- },
- {
-  "Code": "6820",
-  "Name": "Florenville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6820",
-  "Country": "Belgium"
- },
- {
-  "Code": "6821",
-  "Name": "Florenville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6821",
-  "Country": "Belgium"
- },
- {
-  "Code": "6823",
-  "Name": "Florenville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6823",
-  "Country": "Belgium"
- },
- {
-  "Code": "6824",
-  "Name": "Florenville Chassepierre, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6824",
-  "Country": "Belgium"
- },
- {
-  "Code": "6830",
-  "Name": "Bouillon Les Hayons, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6830",
-  "Country": "Belgium"
- },
- {
-  "Code": "6831",
-  "Name": "Bouillon, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6831",
-  "Country": "Belgium"
- },
- {
-  "Code": "6832",
-  "Name": "Bouillon, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6832",
-  "Country": "Belgium"
- },
- {
-  "Code": "6833",
-  "Name": "Bouillon Vivy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6833",
-  "Country": "Belgium"
- },
- {
-  "Code": "6834",
-  "Name": "Bouillon, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6834",
-  "Country": "Belgium"
- },
- {
-  "Code": "6836",
-  "Name": "Bouillon, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6836",
-  "Country": "Belgium"
- },
- {
-  "Code": "6838",
-  "Name": "Bouillon Corbion, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6838",
-  "Country": "Belgium"
- },
- {
-  "Code": "6840",
-  "Name": "Neufchateau Hamipre, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6840",
-  "Country": "Belgium"
- },
- {
-  "Code": "6850",
-  "Name": "Paliseul, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6850",
-  "Country": "Belgium"
- },
- {
-  "Code": "6851",
-  "Name": "Paliseul Nollevaux, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6851",
-  "Country": "Belgium"
- },
- {
-  "Code": "6852",
-  "Name": "Paliseul Opont, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6852",
-  "Country": "Belgium"
- },
- {
-  "Code": "6853",
-  "Name": "Paliseul, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6853",
-  "Country": "Belgium"
- },
- {
-  "Code": "6856",
-  "Name": "Paliseul Faysles-Veneurs, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6856",
-  "Country": "Belgium"
- },
- {
-  "Code": "6860",
-  "Name": "Leglise, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6860",
-  "Country": "Belgium"
- },
- {
-  "Code": "6870",
-  "Name": "Saint-Hubert Hatrival, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6870",
-  "Country": "Belgium"
- },
- {
-  "Code": "6880",
-  "Name": "Bertrix Jehonville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6880",
-  "Country": "Belgium"
- },
- {
-  "Code": "6887",
-  "Name": "Herbeumont Saint-Medard, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6887",
-  "Country": "Belgium"
- },
- {
-  "Code": "6890",
-  "Name": "Libin Transinne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6890",
-  "Country": "Belgium"
- },
- {
-  "Code": "6900",
-  "Name": "Marche-en-Famenne Humain, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6900",
-  "Country": "Belgium"
- },
- {
-  "Code": "6920",
-  "Name": "Wellin, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6920",
-  "Country": "Belgium"
- },
- {
-  "Code": "6921",
-  "Name": "Wellin, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6921",
-  "Country": "Belgium"
- },
- {
-  "Code": "6922",
-  "Name": "Wellin Halma, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6922",
-  "Country": "Belgium"
- },
- {
-  "Code": "6924",
-  "Name": "Wellin, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6924",
-  "Country": "Belgium"
- },
- {
-  "Code": "6927",
-  "Name": "Tellin, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6927",
-  "Country": "Belgium"
- },
- {
-  "Code": "6929",
-  "Name": "Daverdisse Haut-Fays, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6929",
-  "Country": "Belgium"
- },
- {
-  "Code": "6940",
-  "Name": "Durbuy Weris, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6940",
-  "Country": "Belgium"
- },
- {
-  "Code": "6941",
-  "Name": "Durbuy, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6941",
-  "Country": "Belgium"
- },
- {
-  "Code": "6950",
-  "Name": "Nassogne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6950",
-  "Country": "Belgium"
- },
- {
-  "Code": "6951",
-  "Name": "Nassogne Bande, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6951",
-  "Country": "Belgium"
- },
- {
-  "Code": "6952",
-  "Name": "Nassogne Grune, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6952",
-  "Country": "Belgium"
- },
- {
-  "Code": "6953",
-  "Name": "Nassogne Lesterny, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6953",
-  "Country": "Belgium"
- },
- {
-  "Code": "6960",
-  "Name": "Manhay Harre, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6960",
-  "Country": "Belgium"
- },
- {
-  "Code": "6970",
-  "Name": "Tenneville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6970",
-  "Country": "Belgium"
- },
- {
-  "Code": "6971",
-  "Name": "Tenneville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6971",
-  "Country": "Belgium"
- },
- {
-  "Code": "6972",
-  "Name": "Tenneville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6972",
-  "Country": "Belgium"
- },
- {
-  "Code": "6980",
-  "Name": "La Rocheen-Ardenne Beausaint, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6980",
-  "Country": "Belgium"
- },
- {
-  "Code": "6982",
-  "Name": "La Rocheen-Ardenne Samree, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6982",
-  "Country": "Belgium"
- },
- {
-  "Code": "6983",
-  "Name": "La Rocheen-Ardenne, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6983",
-  "Country": "Belgium"
- },
- {
-  "Code": "6984",
-  "Name": "La Rocheen-Ardenne Hives, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6984",
-  "Country": "Belgium"
- },
- {
-  "Code": "6986",
-  "Name": "La Rocheen-Ardenne Halleux, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6986",
-  "Country": "Belgium"
- },
- {
-  "Code": "6987",
-  "Name": "Rendeux, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6987",
-  "Country": "Belgium"
- },
- {
-  "Code": "6990",
-  "Name": "Hotton Fronville, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6990",
-  "Country": "Belgium"
- },
- {
-  "Code": "6997",
-  "Name": "Erezee Mormont, Luxembourg",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE6997",
-  "Country": "Belgium"
- },
- {
-  "Code": "7000",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7000",
-  "Country": "Belgium"
- },
- {
-  "Code": "7010",
-  "Name": "S.H.A.P.E. Belgique, Hainaut Mons",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7010",
-  "Country": "Belgium"
- },
- {
-  "Code": "7011",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7011",
-  "Country": "Belgium"
- },
- {
-  "Code": "7012",
-  "Name": "Mons Flenu, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7012",
-  "Country": "Belgium"
- },
- {
-  "Code": "7020",
-  "Name": "Mons Casteau,Maisieres,Masnuy-Saint-Jean, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7020",
-  "Country": "Belgium"
- },
- {
-  "Code": "7021",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7021",
-  "Country": "Belgium"
- },
- {
-  "Code": "7022",
-  "Name": "Mons Mesvin, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7022",
-  "Country": "Belgium"
- },
- {
-  "Code": "7024",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7024",
-  "Country": "Belgium"
- },
- {
-  "Code": "7030",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7030",
-  "Country": "Belgium"
- },
- {
-  "Code": "7031",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7031",
-  "Country": "Belgium"
- },
- {
-  "Code": "7032",
-  "Name": "Mons Spiennes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7032",
-  "Country": "Belgium"
- },
- {
-  "Code": "7033",
-  "Name": "Mons Cuesmes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7033",
-  "Country": "Belgium"
- },
- {
-  "Code": "7034",
-  "Name": "Mons, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7034",
-  "Country": "Belgium"
- },
- {
-  "Code": "7040",
-  "Name": "Quevy Quevyle-Grand, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7040",
-  "Country": "Belgium"
- },
- {
-  "Code": "7041",
-  "Name": "Quevy Givry, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7041",
-  "Country": "Belgium"
- },
- {
-  "Code": "7050",
-  "Name": "Jurbise Erbaut, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7050",
-  "Country": "Belgium"
- },
- {
-  "Code": "7060",
-  "Name": "Soignies Horrues, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7060",
-  "Country": "Belgium"
- },
- {
-  "Code": "7061",
-  "Name": "Soignies Casteau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7061",
-  "Country": "Belgium"
- },
- {
-  "Code": "7062",
-  "Name": "Soignies Naast, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7062",
-  "Country": "Belgium"
- },
- {
-  "Code": "7063",
-  "Name": "Soignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7063",
-  "Country": "Belgium"
- },
- {
-  "Code": "7070",
-  "Name": "Le Roeulx Thieu, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7070",
-  "Country": "Belgium"
- },
- {
-  "Code": "7080",
-  "Name": "Frameries Sarsla-Bruyere, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7080",
-  "Country": "Belgium"
- },
- {
-  "Code": "7090",
-  "Name": "Brainele-Comte Ronquieres, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7090",
-  "Country": "Belgium"
- },
- {
-  "Code": "7100",
-  "Name": "La Louviere Saint-Vaast, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7100",
-  "Country": "Belgium"
- },
- {
-  "Code": "7110",
-  "Name": "La Louviere Houdeng-Goegnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7110",
-  "Country": "Belgium"
- },
- {
-  "Code": "7120",
-  "Name": "Estinnes Estinnesau-Val, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7120",
-  "Country": "Belgium"
- },
- {
-  "Code": "7130",
-  "Name": "Binche, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7130",
-  "Country": "Belgium"
- },
- {
-  "Code": "7131",
-  "Name": "Binche, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7131",
-  "Country": "Belgium"
- },
- {
-  "Code": "7133",
-  "Name": "Binche, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7133",
-  "Country": "Belgium"
- },
- {
-  "Code": "7134",
-  "Name": "Binche Leval-Trahegnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7134",
-  "Country": "Belgium"
- },
- {
-  "Code": "7140",
-  "Name": "Morlanwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7140",
-  "Country": "Belgium"
- },
- {
-  "Code": "7141",
-  "Name": "Morlanwelz Mont-Sainte-Aldegonde, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7141",
-  "Country": "Belgium"
- },
- {
-  "Code": "7160",
-  "Name": "Chapellelez-Herlaimont Godarville, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7160",
-  "Country": "Belgium"
- },
- {
-  "Code": "7170",
-  "Name": "Manage Boisd'Haine, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7170",
-  "Country": "Belgium"
- },
- {
-  "Code": "7180",
-  "Name": "Seneffe, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7180",
-  "Country": "Belgium"
- },
- {
-  "Code": "7181",
-  "Name": "Seneffe Familleureux, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7181",
-  "Country": "Belgium"
- },
- {
-  "Code": "7190",
-  "Name": "Ecaussinnes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7190",
-  "Country": "Belgium"
- },
- {
-  "Code": "7191",
-  "Name": "Ecaussinnes Ecaussinnes-Lalaing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7191",
-  "Country": "Belgium"
- },
- {
-  "Code": "7300",
-  "Name": "Boussu, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7300",
-  "Country": "Belgium"
- },
- {
-  "Code": "7301",
-  "Name": "Boussu Hornu, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7301",
-  "Country": "Belgium"
- },
- {
-  "Code": "7320",
-  "Name": "Bernissart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7320",
-  "Country": "Belgium"
- },
- {
-  "Code": "7321",
-  "Name": "Bernissart, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7321",
-  "Country": "Belgium"
- },
- {
-  "Code": "7322",
-  "Name": "Bernissart Pommeroeul, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7322",
-  "Country": "Belgium"
- },
- {
-  "Code": "7330",
-  "Name": "Saint-Ghislain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7330",
-  "Country": "Belgium"
- },
- {
-  "Code": "7331",
-  "Name": "Saint-Ghislain Baudour, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7331",
-  "Country": "Belgium"
- },
- {
-  "Code": "7332",
-  "Name": "Saint-Ghislain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7332",
-  "Country": "Belgium"
- },
- {
-  "Code": "7333",
-  "Name": "Saint-Ghislain Tertre, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7333",
-  "Country": "Belgium"
- },
- {
-  "Code": "7334",
-  "Name": "Saint-Ghislain Villerot, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7334",
-  "Country": "Belgium"
- },
- {
-  "Code": "7340",
-  "Name": "Colfontaine Paturages, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7340",
-  "Country": "Belgium"
- },
- {
-  "Code": "7350",
-  "Name": "Hensies Montroeulsur-Haine, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7350",
-  "Country": "Belgium"
- },
- {
-  "Code": "7370",
-  "Name": "Dour Elouges, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7370",
-  "Country": "Belgium"
- },
- {
-  "Code": "7380",
-  "Name": "Quievrain Baisieux, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7380",
-  "Country": "Belgium"
- },
- {
-  "Code": "7382",
-  "Name": "Quievrain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7382",
-  "Country": "Belgium"
- },
- {
-  "Code": "7387",
-  "Name": "Honnelles Angreau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7387",
-  "Country": "Belgium"
- },
- {
-  "Code": "7390",
-  "Name": "Quaregnon, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7390",
-  "Country": "Belgium"
- },
- {
-  "Code": "7500",
-  "Name": "Tournai Ere, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7500",
-  "Country": "Belgium"
- },
- {
-  "Code": "7501",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7501",
-  "Country": "Belgium"
- },
- {
-  "Code": "7502",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7502",
-  "Country": "Belgium"
- },
- {
-  "Code": "7503",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7503",
-  "Country": "Belgium"
- },
- {
-  "Code": "7504",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7504",
-  "Country": "Belgium"
- },
- {
-  "Code": "7506",
-  "Name": "Tournai Willemeau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7506",
-  "Country": "Belgium"
- },
- {
-  "Code": "7520",
-  "Name": "Tournai Ramegnies-Chin, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7520",
-  "Country": "Belgium"
- },
- {
-  "Code": "7521",
-  "Name": "Tournai Chercq, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7521",
-  "Country": "Belgium"
- },
- {
-  "Code": "7522",
-  "Name": "Tournai Marquain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7522",
-  "Country": "Belgium"
- },
- {
-  "Code": "7530",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7530",
-  "Country": "Belgium"
- },
- {
-  "Code": "7531",
-  "Name": "Tournai Havinnes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7531",
-  "Country": "Belgium"
- },
- {
-  "Code": "7532",
-  "Name": "Tournai Beclers, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7532",
-  "Country": "Belgium"
- },
- {
-  "Code": "7533",
-  "Name": "Tournai Thimougies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7533",
-  "Country": "Belgium"
- },
- {
-  "Code": "7534",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7534",
-  "Country": "Belgium"
- },
- {
-  "Code": "7536",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7536",
-  "Country": "Belgium"
- },
- {
-  "Code": "7538",
-  "Name": "Tournai Vezon, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7538",
-  "Country": "Belgium"
- },
- {
-  "Code": "7540",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7540",
-  "Country": "Belgium"
- },
- {
-  "Code": "7542",
-  "Name": "Tournai Mont-Saint-Aubert, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7542",
-  "Country": "Belgium"
- },
- {
-  "Code": "7543",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7543",
-  "Country": "Belgium"
- },
- {
-  "Code": "7548",
-  "Name": "Tournai, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7548",
-  "Country": "Belgium"
- },
- {
-  "Code": "7600",
-  "Name": "Peruwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7600",
-  "Country": "Belgium"
- },
- {
-  "Code": "7601",
-  "Name": "Peruwelz Roucourt, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7601",
-  "Country": "Belgium"
- },
- {
-  "Code": "7602",
-  "Name": "Peruwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7602",
-  "Country": "Belgium"
- },
- {
-  "Code": "7603",
-  "Name": "Peruwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7603",
-  "Country": "Belgium"
- },
- {
-  "Code": "7604",
-  "Name": "Peruwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7604",
-  "Country": "Belgium"
- },
- {
-  "Code": "7608",
-  "Name": "Peruwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7608",
-  "Country": "Belgium"
- },
- {
-  "Code": "7610",
-  "Name": "Rumes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7610",
-  "Country": "Belgium"
- },
- {
-  "Code": "7611",
-  "Name": "Rumes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7611",
-  "Country": "Belgium"
- },
- {
-  "Code": "7618",
-  "Name": "Rumes Taintignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7618",
-  "Country": "Belgium"
- },
- {
-  "Code": "7620",
-  "Name": "Brunehaut, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7620",
-  "Country": "Belgium"
- },
- {
-  "Code": "7621",
-  "Name": "Brunehaut Lesdain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7621",
-  "Country": "Belgium"
- },
- {
-  "Code": "7622",
-  "Name": "Brunehaut Laplaigne, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7622",
-  "Country": "Belgium"
- },
- {
-  "Code": "7623",
-  "Name": "Brunehaut Rongy, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7623",
-  "Country": "Belgium"
- },
- {
-  "Code": "7624",
-  "Name": "Brunehaut, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7624",
-  "Country": "Belgium"
- },
- {
-  "Code": "7640",
-  "Name": "Antoing Peronneslez-Antoing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7640",
-  "Country": "Belgium"
- },
- {
-  "Code": "7641",
-  "Name": "Antoing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7641",
-  "Country": "Belgium"
- },
- {
-  "Code": "7642",
-  "Name": "Antoing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7642",
-  "Country": "Belgium"
- },
- {
-  "Code": "7643",
-  "Name": "Antoing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7643",
-  "Country": "Belgium"
- },
- {
-  "Code": "7700",
-  "Name": "Mouscron, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7700",
-  "Country": "Belgium"
- },
- {
-  "Code": "7711",
-  "Name": "Mouscron Dottignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7711",
-  "Country": "Belgium"
- },
- {
-  "Code": "7712",
-  "Name": "Mouscron Herseaux, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7712",
-  "Country": "Belgium"
- },
- {
-  "Code": "7730",
-  "Name": "Estaimpuis Evregnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7730",
-  "Country": "Belgium"
- },
- {
-  "Code": "7740",
-  "Name": "Pecq Warcoing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7740",
-  "Country": "Belgium"
- },
- {
-  "Code": "7742",
-  "Name": "Pecq Herinneslez-Pecq, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7742",
-  "Country": "Belgium"
- },
- {
-  "Code": "7743",
-  "Name": "Pecq Esquelmes, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7743",
-  "Country": "Belgium"
- },
- {
-  "Code": "7750",
-  "Name": "Montdel'Enclus Russeignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7750",
-  "Country": "Belgium"
- },
- {
-  "Code": "7760",
-  "Name": "Celles Escanaffles, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7760",
-  "Country": "Belgium"
- },
- {
-  "Code": "7780",
-  "Name": "Comines-Warneton, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7780",
-  "Country": "Belgium"
- },
- {
-  "Code": "7781",
-  "Name": "Comines-Warneton, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7781",
-  "Country": "Belgium"
- },
- {
-  "Code": "7782",
-  "Name": "Comines-Warneton, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7782",
-  "Country": "Belgium"
- },
- {
-  "Code": "7783",
-  "Name": "Comines-Warneton, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7783",
-  "Country": "Belgium"
- },
- {
-  "Code": "7784",
-  "Name": "Comines-Warneton Warneton, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7784",
-  "Country": "Belgium"
- },
- {
-  "Code": "7800",
-  "Name": "Ath Lanquesaint, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7800",
-  "Country": "Belgium"
- },
- {
-  "Code": "7801",
-  "Name": "Ath Irchonwelz, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7801",
-  "Country": "Belgium"
- },
- {
-  "Code": "7802",
-  "Name": "Ath, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7802",
-  "Country": "Belgium"
- },
- {
-  "Code": "7803",
-  "Name": "Ath, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7803",
-  "Country": "Belgium"
- },
- {
-  "Code": "7804",
-  "Name": "Ath Ostiches, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7804",
-  "Country": "Belgium"
- },
- {
-  "Code": "7810",
-  "Name": "Ath, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7810",
-  "Country": "Belgium"
- },
- {
-  "Code": "7811",
-  "Name": "Ath, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7811",
-  "Country": "Belgium"
- },
- {
-  "Code": "7812",
-  "Name": "Ath Villers-Saint-Amand, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7812",
-  "Country": "Belgium"
- },
- {
-  "Code": "7822",
-  "Name": "Ath, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7822",
-  "Country": "Belgium"
- },
- {
-  "Code": "7823",
-  "Name": "Ath Gibecq, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7823",
-  "Country": "Belgium"
- },
- {
-  "Code": "7830",
-  "Name": "Silly Gondregnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7830",
-  "Country": "Belgium"
- },
- {
-  "Code": "7850",
-  "Name": "Enghien, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7850",
-  "Country": "Belgium"
- },
- {
-  "Code": "7860",
-  "Name": "Lessines, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7860",
-  "Country": "Belgium"
- },
- {
-  "Code": "7861",
-  "Name": "Lessines Papignies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7861",
-  "Country": "Belgium"
- },
- {
-  "Code": "7862",
-  "Name": "Lessines, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7862",
-  "Country": "Belgium"
- },
- {
-  "Code": "7863",
-  "Name": "Lessines Ghoy, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7863",
-  "Country": "Belgium"
- },
- {
-  "Code": "7864",
-  "Name": "Lessines, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7864",
-  "Country": "Belgium"
- },
- {
-  "Code": "7866",
-  "Name": "Lessines Boisde-Lessines, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7866",
-  "Country": "Belgium"
- },
- {
-  "Code": "7870",
-  "Name": "Lens Cambron-Saint-Vincent, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7870",
-  "Country": "Belgium"
- },
- {
-  "Code": "7880",
-  "Name": "Flobecq, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7880",
-  "Country": "Belgium"
- },
- {
-  "Code": "7890",
-  "Name": "Ellezelles, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7890",
-  "Country": "Belgium"
- },
- {
-  "Code": "7900",
-  "Name": "Leuzeen-Hainaut, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7900",
-  "Country": "Belgium"
- },
- {
-  "Code": "7901",
-  "Name": "Leuzeen-Hainaut Thieulain, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7901",
-  "Country": "Belgium"
- },
- {
-  "Code": "7903",
-  "Name": "Leuzeen-Hainaut Chapellea-Oie, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7903",
-  "Country": "Belgium"
- },
- {
-  "Code": "7904",
-  "Name": "Leuzeen-Hainaut Willaupuis, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7904",
-  "Country": "Belgium"
- },
- {
-  "Code": "7906",
-  "Name": "Leuzeen-Hainaut, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7906",
-  "Country": "Belgium"
- },
- {
-  "Code": "7910",
-  "Name": "Frasneslez-Anvaing Anvaing, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7910",
-  "Country": "Belgium"
- },
- {
-  "Code": "7911",
-  "Name": "Frasneslez-Anvaing Oeudeghien, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7911",
-  "Country": "Belgium"
- },
- {
-  "Code": "7912",
-  "Name": "Frasneslez-Anvaing Dergneau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7912",
-  "Country": "Belgium"
- },
- {
-  "Code": "7940",
-  "Name": "Brugelette Cambron-Casteau, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7940",
-  "Country": "Belgium"
- },
- {
-  "Code": "7941",
-  "Name": "Brugelette Attre, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7941",
-  "Country": "Belgium"
- },
- {
-  "Code": "7942",
-  "Name": "Brugelette Mevergnieslez-Lens, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7942",
-  "Country": "Belgium"
- },
- {
-  "Code": "7943",
-  "Name": "Brugelette Gages, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7943",
-  "Country": "Belgium"
- },
- {
-  "Code": "7950",
-  "Name": "Chievres, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7950",
-  "Country": "Belgium"
- },
- {
-  "Code": "7951",
-  "Name": "Chievres, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7951",
-  "Country": "Belgium"
- },
- {
-  "Code": "7970",
-  "Name": "Beloeil, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7970",
-  "Country": "Belgium"
- },
- {
-  "Code": "7971",
-  "Name": "Beloeil Ramegnies, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7971",
-  "Country": "Belgium"
- },
- {
-  "Code": "7972",
-  "Name": "Beloeil Ellignies-Sainte-Anne, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7972",
-  "Country": "Belgium"
- },
- {
-  "Code": "7973",
-  "Name": "Beloeil Grandglise, Hainaut",
-  "Catchment": "Yes",
-  "AVM": "Belgian",
-  "Key": "BE7973",
-  "Country": "Belgium"
- },
- {
-    "Code": "Don’t want to answer",
-    "Name": "",
-    "Catchment": "Don’t want to answer",
-    "AVM": "Don’t want to answer",
-    "Key": "Don’t want to answer",
-    "Country": "Belgium"
-   }
+ }
 ]    
-
- `;
+`;
