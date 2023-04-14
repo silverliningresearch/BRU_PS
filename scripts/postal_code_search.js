@@ -15,7 +15,7 @@ function find_postal_code(list, item) {
       }
     }
   }
-  //$('.rt-btn.rt-btn-next').hide(); 
+  $('.rt-btn.rt-btn-next').hide(); 
   return false;
 }
 
