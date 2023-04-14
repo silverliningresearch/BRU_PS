@@ -46,13 +46,18 @@ function load_postal_code() {
   postalCodeList.length = 0;
   for (i = 0; i < rawList.length; i++) {
     var item = rawList[i];
-    item.show = item.Code + "-" + item.Name;
-    if (item.Code == "Don’t want to answer")
-    {
-      item.show = "Don’t want to answer";
-    } 
     postalCodeList.push(item);
   }
+
+  //Add Dont want to answer
+  var item;
+  item.Code = "Don’t want to answer";
+  item.Catchment = "Don’t want to answer";
+  item.AVM = "Don’t want to answer";
+  item.Country = "Don’t want to answer";
+  item.show = "Don’t want to answer";  
+  postalCodeList.push(item);
+  ////////////////
 
   api.fn.answers({Q56_Catchment:  "No"}); //Clear it
   console.log("load_postal_code done!");
@@ -80,18 +85,18 @@ function update_postal_code_search_box() {
       count++;
     }
 
-    if ((count > 6)) {
+    if ((count > 7)) {
       break;
     }
   }
-  ////////////////
+  
+  //Load "Dont want to answer" from the end of the list
   let postcalCode = postalCodeList[postalCodeList.length-1];
   const elem = document.createElement("option");
   elem.value =  postcalCode.show;
   list.appendChild(elem);
   postalCodeShortList.push(postcalCode);
   ////////////////
-
 
   if (find_postal_code(postalCodeList, document.getElementById('inputPostalCodeID').value)) {
     console.log("Found ", document.getElementById('inputPostalCodeID').value);
