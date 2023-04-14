@@ -15,7 +15,7 @@ function find_postal_code(list, item) {
       }
     }
   }
-  $('.rt-btn.rt-btn-next').hide(); 
+  //$('.rt-btn.rt-btn-next').hide(); 
   return false;
 }
 
@@ -50,13 +50,13 @@ function load_postal_code() {
   }
 
   //Add Dont want to answer
-  var item;
-  item.Code = "Don’t want to answer";
-  item.Catchment = "Don’t want to answer";
-  item.AVM = "Don’t want to answer";
-  item.Country = "Don’t want to answer";
-  item.show = "Don’t want to answer";  
-  postalCodeList.push(item);
+  // var item;
+  // item.Code = "Don’t want to answer";
+  // item.Catchment = "Don’t want to answer";
+  // item.AVM = "Don’t want to answer";
+  // item.Country = "Don’t want to answer";
+  // item.show = "Don’t want to answer";  
+  // postalCodeList.push(item);
   ////////////////
 
   api.fn.answers({Q56_Catchment:  "No"}); //Clear it
@@ -91,11 +91,11 @@ function update_postal_code_search_box() {
   }
   
   //Load "Dont want to answer" from the end of the list
-  let postcalCode = postalCodeList[postalCodeList.length-1];
-  const elem = document.createElement("option");
-  elem.value =  postcalCode.show;
-  list.appendChild(elem);
-  postalCodeShortList.push(postcalCode);
+  // let postcalCode = postalCodeList[postalCodeList.length-1];
+  // const elem = document.createElement("option");
+  // elem.value =  postcalCode.show;
+  // list.appendChild(elem);
+  // postalCodeShortList.push(postcalCode);
   ////////////////
 
   if (find_postal_code(postalCodeList, document.getElementById('inputPostalCodeID').value)) {
