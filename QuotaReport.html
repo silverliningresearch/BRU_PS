@@ -31,7 +31,7 @@
 
         //define header
         data.addColumn('string', 'Flight - To');
-        data.addColumn('string', 'Via');
+        //data.addColumn('string', 'Via');
         data.addColumn('string', 'DOOP [Mon-Sun]');
         data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
@@ -45,7 +45,7 @@
           data.addRows([
           [
             row.Flight_To,
-            row.Next, 
+            //row.Next, 
             row.doop,
             Number(row.remaining_flights),
             Number(row.Quota),
