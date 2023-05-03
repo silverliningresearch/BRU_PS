@@ -19,7 +19,8 @@ var total_completed_percent;
 var total_quota_completed;
 var total_hard_quota;
 
-
+var less_than_2_flights_list;
+var less_than_6_flights_list;
 /************************************/
 /************************************/
 function initCurrentTimeVars() {
@@ -158,6 +159,9 @@ function prepareInterviewData() {
 	  flight.Dest = flight.Dest + "-" + flight.DestName;//code for compare
     flight.Next = flight.Next + "-" + flight.NextName;//code for compare
 
+    //for sorting: YYYY-MM-DD
+    flight.Date_Time = flight.Date.substring(6,10) + "-" + flight.Date.substring(3,5) + "-" + flight.Date.substring(0,2) +" " + flight.Time;
+
     //currentMonth: 02-2023
     //flight.Date: 08-02-2023
     if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5))) { 
@@ -168,8 +172,6 @@ function prepareInterviewData() {
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
         || (nextDate == flight.Date))
     { 
-      flight.Date_Time = flight.Date + " " + flight.Time;
-
       flight.nextDay = 0; //display two date infor as requester by Didi
       if (nextDate == flight.Date) {
         flight.nextDay = 1;

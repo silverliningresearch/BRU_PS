@@ -109,7 +109,7 @@ function isNotThePastDate(date) //"07-02-2023"
 }
 
 function CalculateDOOP() {
-  for (i = 0; i < quota_data.length; i++) {
+  for (var i = 0; i < quota_data.length; i++) {
     quota_data[i].doop = " ";
     quota_data[i].remaining_flights = 0;
     var mon =0;
@@ -121,7 +121,7 @@ function CalculateDOOP() {
     var sun =0;
 
     var remaining_flights = 0;
-    for (j = 0; j < this_month_flight_list.length; j++) {
+    for (var j = 0; j < this_month_flight_list.length; j++) {
       if (quota_data[i].Flight_To.toUpperCase() == this_month_flight_list[j].Flight_To.toUpperCase()) 
       {
         //get remaining_flights
@@ -159,4 +159,37 @@ function CalculateDOOP() {
     quota_data[i].doop =[mon, tue, wed, thu, fri, sat, sun].join('');
     quota_data[i].remaining_flights = remaining_flights;
   }
-}									 
+}
+
+function CalculateLessFlights() {
+  //Special for BRU
+  less_than_2_flights_list = [];
+  less_than_2_flights_list.length = 0;
+  less_than_6_flights_list = [];
+  less_than_6_flights_list.length = 0;
+ 
+  for (var i = 0; i < quota_data.length; i++) {
+    var quota = quota_data[i];
+    if (quota.remaining_flights<6) {
+
+      for (var j = 0; j < this_month_flight_list.length; j++) {
+        if (quota.Flight_To.toUpperCase() == this_month_flight_list[j].Flight_To.toUpperCase()) 
+        {
+          row = this_month_flight_list[j];
+          row.remaining_flights  = quota.remaining_flights;
+          row.Quota = quota.Quota;
+          row.Completed = quota.Completed;
+          row.Difference = quota.Difference;
+          row.Completed_percent = quota.Completed_percent;
+
+          less_than_6_flights_list.push(row);
+
+          if (quota.remaining_flights<2) {
+            less_than_2_flights_list.push(row);
+          }
+        }
+      }
+    }
+  }
+  console.log("less_than_2_flights_list: ", less_than_2_flights_list);
+}
