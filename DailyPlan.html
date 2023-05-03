@@ -43,9 +43,9 @@
         var data = new google.visualization.DataTable();
 
         //define header
-        data.addColumn('string', 'Date-Time');
-        //data.addColumn('string', 'Date');
-        //data.addColumn('string', 'Time');
+        data.addColumn('string', 'ID');
+        data.addColumn('string', 'Date');
+        data.addColumn('string', 'Time');
         data.addColumn('string', 'Flight');
         data.addColumn('string', 'To');
         data.addColumn('string', 'Via');
@@ -63,8 +63,9 @@
         //add data
         for (i = 0; i < daily_plan_data.length; i++) {
           var row = daily_plan_data[i];
-          data.addRows([[row.Date_Time_Daily_Plan, 
-              //row.Date, row.Time,
+          data.addRows([[
+              row.DateTimeID, 
+              row.Date, row.Time,
               row.Flight, row.Dest, row.Next, row.GateZone, row.GateNumber, row.doop, 
               Number(row.remaining_flights), Number(row.Quota), Number(row.Completed), Number(row.Difference), 
               Number(row.Completed_percent), 

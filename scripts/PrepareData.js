@@ -160,8 +160,7 @@ function prepareInterviewData() {
     flight.Next = flight.Next + "-" + flight.NextName;//code for compare
 
     //for sorting: YYYY-MM-DD
-    flight.Date_Time = flight.Date.substring(6,10) + "-" + flight.Date.substring(3,5) + "-" + flight.Date.substring(0,2) +" " + flight.Time;
-    flight.Date_Time_Daily_Plan = flight.Date + " " + flight.Time;
+    flight.DateTimeID = flight.Date.substring(6,10) +  flight.Date.substring(3,5) +  flight.Date.substring(0,2) + flight.Time;
     
     //currentMonth: 02-2023
     //flight.Date: 08-02-2023
