@@ -191,5 +191,5 @@ function CalculateLessFlights() {
       }
     }
   }
-  console.log("less_than_2_flights_list: ", less_than_2_flights_list);
+  //console.log("less_than_2_flights_list: ", less_than_2_flights_list);
 }
