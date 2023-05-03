@@ -161,7 +161,8 @@ function prepareInterviewData() {
 
     //for sorting: YYYY-MM-DD
     flight.DateTimeID = flight.Date.substring(6,10) +  flight.Date.substring(3,5) +  flight.Date.substring(0,2) + flight.Time;
-    
+    flight.Date_Time = flight.Date.substring(6,10) + "-" +  flight.Date.substring(3,5) + "-" + flight.Date.substring(0,2) + " " + flight.Time;
+
     //currentMonth: 02-2023
     //flight.Date: 08-02-2023
     if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5))) { 
