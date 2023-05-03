@@ -161,7 +161,8 @@ function prepareInterviewData() {
 
     //for sorting: YYYY-MM-DD
     flight.Date_Time = flight.Date.substring(6,10) + "-" + flight.Date.substring(3,5) + "-" + flight.Date.substring(0,2) +" " + flight.Time;
-
+    flight.Date_Time_Daily_Plan = flight.Date + " " + flight.Time;
+    
     //currentMonth: 02-2023
     //flight.Date: 08-02-2023
     if (currentQuarter ==  getQuarterFromMonth(flight.Date.substring(3,5))) { 
@@ -172,10 +173,10 @@ function prepareInterviewData() {
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
         || (nextDate == flight.Date))
     { 
-      flight.nextDay = 0; //display two date infor as requester by Didi
-      if (nextDate == flight.Date) {
-        flight.nextDay = 1;
-      }
+      // flight.nextDay = 0; //display two date infor as requested by Didi
+      // if (nextDate == flight.Date) {
+      //   flight.nextDay = 1;
+      // }
       today_flight_list.push(flight);
     }
 			   
