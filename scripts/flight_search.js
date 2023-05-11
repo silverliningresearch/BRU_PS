@@ -68,7 +68,9 @@ function load_flight_list() {
   flightRawList = JSON.parse(BRU_FlightRawList);
   flightList = [];
   flightList.length = 0;
+
   var gate_zone = api.fn.answers().Core_Q3;
+  var is_triangle_flight = api.fn.answers().Core_Q2;
 
   for (i = 0; i < flightRawList.length; i++) {
     var flight = flightRawList[i];
@@ -77,34 +79,37 @@ function load_flight_list() {
     {
       if (is_gate_valid(gate_zone, flight.Schengen))
       {
+        //For Triangle flight, only shows flights with a via destination
+        if ((is_triangle_flight==2 ) || (is_triangle_flight==1 && flightRawList[i].Next && flightRawList[i].Next !=""))   
+        {
+          var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
+          var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
+          var Flight = '"Flight"' + ":" + '"' +  flightRawList[i].Flight + '", ';
+          var Airline = '"Airline"' + ":" + '"' +  flightRawList[i].Airline + '", '; //name
+          var AirlineCode = '"AirlineCode"' + ":" + '"' +  flightRawList[i].AirlineCode + '", ';//code
+          var Dest = '"Dest"' + ":" + '"' +  flightRawList[i].Dest + '", ';
+          var DestName = '"DestName"' + ":" + '"' +  flightRawList[i].DestName + '", ';
+          var Via = "";
+          var ViaName = "";
+          var DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' + flightRawList[i].DestName+ '", ';
+
+          if (  flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
+            Via = '"Via"' + ":" + '"' +  flightRawList[i].Next + '", ';
+            ViaName = '"ViaName"' + ":" + '"' +  flightRawList[i].NextName + '", ';
+            DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' +flightRawList[i].NextName +"/"+ flightRawList[i].DestName+ '", ';
+          }
+
+          var Show = '"Show"' + ":" + '"' +  flightRawList[i].Flight + " (" + flightRawList[i].Airline + ", ";
+          Show += flightRawList[i].Time + " to " + flightRawList[i].Dest ;
+          if (flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
+            Show += " via " +  flightRawList[i].Next ;
+          }
+          Show +=")";
+
+          var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName + DestinationNameCombine + Show + '"}';
         
-        var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
-        var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
-        var Flight = '"Flight"' + ":" + '"' +  flightRawList[i].Flight + '", ';
-        var Airline = '"Airline"' + ":" + '"' +  flightRawList[i].Airline + '", '; //name
-        var AirlineCode = '"AirlineCode"' + ":" + '"' +  flightRawList[i].AirlineCode + '", ';//code
-        var Dest = '"Dest"' + ":" + '"' +  flightRawList[i].Dest + '", ';
-        var DestName = '"DestName"' + ":" + '"' +  flightRawList[i].DestName + '", ';
-        var Via = "";
-        var ViaName = "";
-        var DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' + flightRawList[i].DestName+ '", ';
-
-        if (  flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
-          Via = '"Via"' + ":" + '"' +  flightRawList[i].Next + '", ';
-          ViaName = '"ViaName"' + ":" + '"' +  flightRawList[i].NextName + '", ';
-          DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' +flightRawList[i].NextName +"/"+ flightRawList[i].DestName+ '", ';
+          flightList.push(JSON.parse(str));
         }
-
-        var Show = '"Show"' + ":" + '"' +  flightRawList[i].Flight + " (" + flightRawList[i].Airline + ", ";
-        Show += flightRawList[i].Time + " to " + flightRawList[i].Dest ;
-        if (flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
-          Show += " via " +  flightRawList[i].Next ;
-        }
-        Show +=")";
-
-        var str = '{' + Date + Time + AirlineCode + Airline + Flight +  Dest + DestName + Via + ViaName + DestinationNameCombine + Show + '"}';
-      
-        flightList.push(JSON.parse(str));
       }
     }
   }
