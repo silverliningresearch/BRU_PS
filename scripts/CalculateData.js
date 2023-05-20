@@ -44,7 +44,6 @@ function CalculateAirportAirLineReport() {
       if (row.Flight_To.toUpperCase() == quota_data[j].Flight_To.toUpperCase()) 
       {
         if ( quota_data[j].Difference < 0) {
-          
           row.doop = quota_data[j].doop;
           row.remaining_flights = quota_data[j].remaining_flights;
           row.Completed = quota_data[j].Completed;
@@ -175,17 +174,19 @@ function CalculateLessFlights() {
       for (var j = 0; j < this_month_flight_list.length; j++) {
         if (quota.Flight_To.toUpperCase() == this_month_flight_list[j].Flight_To.toUpperCase()) 
         {
-          row = this_month_flight_list[j];
-          row.remaining_flights  = quota.remaining_flights;
-          row.Quota = quota.Quota;
-          row.Completed = quota.Completed;
-          row.Difference = quota.Difference;
-          row.Completed_percent = quota.Completed_percent;
+          if (quota.Difference < 0) {
+            row = this_month_flight_list[j];
+            row.remaining_flights  = quota.remaining_flights;
+            row.Quota = quota.Quota;
+            row.Completed = quota.Completed;
+            row.Difference = quota.Difference;
+            row.Completed_percent = quota.Completed_percent;
 
-          less_than_6_flights_list.push(row);
+            less_than_6_flights_list.push(row);
 
-          if (quota.remaining_flights<2) {
-            less_than_2_flights_list.push(row);
+            if (quota.remaining_flights<2) {
+              less_than_2_flights_list.push(row);
+            }
           }
         }
       }
