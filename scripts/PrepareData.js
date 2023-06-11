@@ -7,8 +7,8 @@ var removed_ids_data;
 
 var currentDate; //dd-mm-yyyy
 var currentMonth; //mm
-var currentQuarter; //2023-Q1, 2023-Q2
 var currentYear;
+var currentQuarter; //2023-Q1, 2023-Q2
 var nextDate; //dd-mm-yyyy
 
 var download_time;
@@ -131,7 +131,6 @@ function prepareInterviewData() {
 
   initCurrentTimeVars();	
   
-  console.log("currentQuarter: ", currentQuarter);
   //get quota data
   quota_data = [];
   quota_data.length = 0;
@@ -234,4 +233,5 @@ function prepareInterviewData() {
        }
     }
   }
+  console.log("currentQuarter: ", currentQuarter);
 }

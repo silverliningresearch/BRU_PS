@@ -128,6 +128,10 @@ function CalculateDOOP() {
           remaining_flights++;
         }
 
+        if ('KL1724-AMS' == quota_data[i].Flight_To.toUpperCase())
+        {
+          console.log("KL1724-AMS	:", this_month_flight_list[j] )
+        }
         switch (getDOOP( this_month_flight_list[j].Date)) {
           case 0:
             sun = "7";
