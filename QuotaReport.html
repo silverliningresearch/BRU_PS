@@ -90,9 +90,9 @@
         //create fiter
         var options = {
           'filterColumnLabel': 'Dest',
-          "ui": {"label": "Destination", 
+          "ui": {"label": "Destination:", 
                 "labelStacking": 'horizotal',
-                "caption": "Select Destination:",
+                "caption": "Select Destination",
                 }
         };
         
@@ -102,6 +102,21 @@
           'options': options
         });
   
+        //create fiter1
+        var options1 = {
+          'filterColumnLabel': 'Remaining Flights',
+          "ui": {"label": "Rem. flights:", 
+                "labelStacking": 'horizotal',
+                "caption": "Select Remaining Flights",
+                }
+        };
+        
+        var tableFilter1 = new google.visualization.ControlWrapper({
+          'controlType': 'CategoryFilter',
+          'containerId': 'filter_div1',
+          'options': options1
+        });
+
         // Create table
         var tableChart = new google.visualization.ChartWrapper({
           'chartType': 'Table',
@@ -114,7 +129,7 @@
           }
         });
 
-        dashboard.bind(tableFilter, tableChart);
+        dashboard.bind([tableFilter,tableFilter1], tableChart);
 
         var view = new google.visualization.DataView(data);
         //document.getElementById("filter_div").style.display = "none";
@@ -149,6 +164,7 @@
     <div id="dashboard_div">
       <!--Divs that will hold each control and chart-->
       <div id="filter_div"></div>
+      <div id="filter_div1"></div>
       <br>
       <div id="table_div"></div>
     </div>
