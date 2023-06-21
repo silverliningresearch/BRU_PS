@@ -170,7 +170,7 @@ function prepareInterviewData() {
         }
         else
         {
-          console.log("invalid id: ", interview);
+          //console.log("invalid id: ", interview);
         }
       }
       else{

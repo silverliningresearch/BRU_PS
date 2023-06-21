@@ -464,7 +464,7 @@
 {"Flight_To": "3O134", "Dest": "TNG", "Quota": "43", "Quarter": "2023-Q3"},
 {"Flight_To": "3O852", "Dest": "OUD", "Quota": "28", "Quarter": "2023-Q3"},
 {"Flight_To": "5F836", "Dest": "KIV", "Quota": "20", "Quarter": "2023-Q3"},
-{"Flight_To": "6H212", "Dest": "TLV", "Quota": "5", "Quarter": "2023-Q3"},
+{"Flight_To": "6H212", "Dest": "TLV", "Quota": "10", "Quarter": "2023-Q3"},
 {"Flight_To": "A3539", "Dest": "SKG", "Quota": "23", "Quarter": "2023-Q3"},
 {"Flight_To": "A3621", "Dest": "ATH", "Quota": "66", "Quarter": "2023-Q3"},
 {"Flight_To": "A3623", "Dest": "ATH", "Quota": "62", "Quarter": "2023-Q3"},
