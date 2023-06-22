@@ -19,7 +19,7 @@ function CalculateAirportAirLineReport() {
     found_temp = 0;
     for (j = 0; j < quota_data.length; j++) 
     {
-      if (quota_data[j].Flight_To.toUpperCase() == interview_data[i].Flight_To.toUpperCase()) 
+      if (quota_data[j].Dest_Airlines.toUpperCase() == interview_data[i].Dest_Airlines.toUpperCase()) 
       { 
         found_temp = 1;
       }
@@ -32,7 +32,7 @@ function CalculateAirportAirLineReport() {
     row = quota_data[i];
     row.Completed = 0;
     for (j = 0; j < interview_data.length; j++) {
-      if (row.Flight_To.toUpperCase() == interview_data[j].Flight_To.toUpperCase()) 
+      if (row.Dest_Airlines.toUpperCase() == interview_data[j].Dest_Airlines.toUpperCase()) 
       { 
         row.Completed++;
       }
@@ -55,10 +55,10 @@ function CalculateAirportAirLineReport() {
 
   }
 
-  for (i = 0; i < daily_plan_data.length; i++) {//Flight_To_report.length;
+  for (i = 0; i < daily_plan_data.length; i++) {//Dest_Airlines_report.length;
     row = daily_plan_data[i];
     for (j = 0; j < quota_data.length; j++) {
-      if (row.Flight_To.toUpperCase() == quota_data[j].Flight_To.toUpperCase()) 
+      if (row.Dest_Airlines.toUpperCase() == quota_data[j].Dest_Airlines.toUpperCase()) 
       {
         if ( quota_data[j].Difference < 0) {
           row.doop = quota_data[j].doop;
@@ -138,7 +138,7 @@ function CalculateDOOP() {
 
     var remaining_flights = 0;
     for (var j = 0; j < this_month_flight_list.length; j++) {
-      if (quota_data[i].Flight_To.toUpperCase() == this_month_flight_list[j].Flight_To.toUpperCase()) 
+      if (quota_data[i].Dest_Airlines.toUpperCase() == this_month_flight_list[j].Dest_Airlines.toUpperCase()) 
       {
         //get remaining_flights
         if (isNotThePastDate(this_month_flight_list[j].Date)) {
@@ -189,7 +189,7 @@ function CalculateLessFlights() {
     if (quota.remaining_flights<6) {
 
       for (var j = 0; j < this_month_flight_list.length; j++) {
-        if (quota.Flight_To.toUpperCase() == this_month_flight_list[j].Flight_To.toUpperCase()) 
+        if (quota.Dest_Airlines.toUpperCase() == this_month_flight_list[j].Dest_Airlines.toUpperCase()) 
         {
           if (quota.Difference < 0) {
             row = this_month_flight_list[j];
