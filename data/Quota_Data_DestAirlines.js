@@ -567,6 +567,7 @@
         {"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "33", "Quarter": "2023-Q3"},
         {"Dest_Airlines": "ZTH-HV", "Dest": "ZTH", "Quota": "9", "Quarter": "2023-Q3"},
         {"Dest_Airlines": "ZTH-SN", "Dest": "ZTH", "Quota": "22", "Quarter": "2023-Q3"},
+        {"Dest_Airlines": "PMI-XR", "Dest": "PMI", "Quota": "3", "Quarter": "2023-Q3"},
         {"Dest_Airlines": "ZTH-TB", "Dest": "ZTH", "Quota": "11", "Quarter": "2023-Q3"}
         
         

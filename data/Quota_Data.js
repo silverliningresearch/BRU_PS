@@ -973,7 +973,11 @@
         {"Flight_To": "TB2979-DBV", "Dest": "DBV", "Quota": "3", "Quarter": "2023-Q3"},
         {"Flight_To": "TB9680-SPU", "Dest": "SPU", "Quota": "3", "Quarter": "2023-Q3"},
         {"Flight_To": "TK4351-SAW", "Dest": "SAW", "Quota": "3", "Quarter": "2023-Q3"},
-        {"Flight_To": "XC3542-AMS", "Dest": "AMS", "Quota": "3", "Quarter": "2023-Q3"}        
+        {"Flight_To": "XR7951-PMI", "Dest": "PMI", "Quota": "3", "Quarter": "2023-Q3"},
+        {"Flight_To": "XC3542-AMS", "Dest": "AMS", "Quota": "3", "Quarter": "2023-Q3"},
+        {"Flight_To": "PC5924-AYT", "Dest": "AYT", "Quota": "3", "Quarter": "2023-Q3"},
+        {"Flight_To": "XR7605-KGS", "Dest": "KGS", "Quota": "3", "Quarter": "2023-Q3"}
+        
         
 ]
             
