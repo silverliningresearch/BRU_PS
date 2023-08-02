@@ -163,8 +163,6 @@ function prepareInterviewData() {
       interview_data.push(JSON.parse(str));
     }
   }
-  console.log("interview_data: ", interview_data);
-  
   
   //prepare flight list
   //empty the list

@@ -28,8 +28,6 @@ function CalculateAirportAirLineReport() {
   }
   console.log("not_in_quota_list: ", not_in_quota_list);
 
-  console.log("interview_data: ", interview_data);
-  console.log("quota_data: ", quota_data);
   for (i = 0; i < quota_data.length; i++) {
     row = quota_data[i];
     row.Completed = 0;
