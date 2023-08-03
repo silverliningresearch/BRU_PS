@@ -1,15 +1,15 @@
 <html>
     <head>
-		<title>Last flights - current week</title>
+		<title>5 or less flights - quarter</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     
 		<script src="data/Quota_Data.js"></script>
     <script src="data/invalid_cases.js"></script>
 
-    <script src="scripts/PrepareData_V2.js"></script>
-    <script src="scripts/CalculateData_V2.js"></script>
+    <script src="scripts/PrepareData.js"></script>
+		<script src="scripts/CalculateData.js"></script>
 		
-    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_sur_v2/BRU_PROF/interview_statistics.js"></script> 
+    <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_bru/BRU_PROF/data/interview_data.js"></script> 
     <script type="text/javascript" src="https://silverliningresearch.github.io/daily_plan_data_bru/BRU_PROF/data/BRU_flight_list_daily.js"></script> 
 
     <style>
@@ -54,8 +54,8 @@
         data.addColumn('number', 'Priority');
         
         //add data
-        for (i = 0; i < less_than_2_flights_list.length; i++) {
-          var row = less_than_2_flights_list[i];
+        for (i = 0; i < less_than_6_flights_list.length; i++) {
+          var row = less_than_6_flights_list[i];
             data.addRows([[
                 row.DateTimeID, 
                 row.Date, row.Time,
@@ -135,7 +135,7 @@
     </script>
   </head>
   <body>
-		<h1>Last flights - current week</h1>
+		<h1>5 or less flights - quarter</h1>
     <h4 id="overall_status"></h4>
     <h4 id="download_time"></h4>
     <div id="dashboard_div">
