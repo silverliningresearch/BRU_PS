@@ -735,9 +735,13 @@
         {"Flight_To": "SN3357-ZAD", "Dest": "ZAD", "Quota": "3", "Quarter": "2023-Q3"},
         {"Flight_To": "SN3555-BOD", "Dest": "BOD", "Quota": "27", "Quarter": "2023-Q3"},
         {"Flight_To": "SN3559-BOD", "Dest": "BOD", "Quota": "16", "Quarter": "2023-Q3"},
-        {"Flight_To": "SN357-FIH", "Dest": "FIH", "Quota": "63", "Quarter": "2023-Q3"},
+        {"Flight_To": "SN357-FIH", "Dest": "FIH", "Quota": "78", "Quarter": "2023-Q3"},
+
         {"Flight_To": "SN3587-LYS", "Dest": "LYS", "Quota": "43", "Quarter": "2023-Q3"},
         {"Flight_To": "SN359-FIH", "Dest": "FIH", "Quota": "55", "Quarter": "2023-Q3"},
+        {"Flight_To": "SN1359-FIH", "Dest": "FIH", "Quota": "10", "Quarter": "2023-Q3"},
+        
+
         {"Flight_To": "SN3591-LYS", "Dest": "LYS", "Quota": "7", "Quarter": "2023-Q3"},
         {"Flight_To": "SN3593-LYS", "Dest": "LYS", "Quota": "37", "Quarter": "2023-Q3"},
         {"Flight_To": "SN3597-MRS", "Dest": "MRS", "Quota": "44", "Quarter": "2023-Q3"},
