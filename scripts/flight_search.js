@@ -77,10 +77,11 @@ function load_flight_list() {
     if ((flight.Date == getToDate()) && notDeparted_flight_search(flight.Time) //today flight && departure
         && (flight.A_D == "D" ) ) 
     {
-      if (is_gate_valid(gate_zone, flight.Schengen))
+      //For triangle flights: skip gate validation (it always depart from non-Schengen zone)
+      //For Triangle flights: only shows flights with a via destination
+      if ((is_triangle_flight==1 && flightRawList[i].Next && flightRawList[i].Next !="")
+           || ((is_triangle_flight==2) && is_gate_valid(gate_zone, flight.Schengen)))
       {
-        //For Triangle flight, only shows flights with a via destination
-        if ((is_triangle_flight==2 ) || (is_triangle_flight==1 && flightRawList[i].Next && flightRawList[i].Next !=""))   
         {
           var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
           var Time = '"Time"' + ":" + '"' +  flightRawList[i].Time + '", ';
@@ -93,7 +94,7 @@ function load_flight_list() {
           var ViaName = "";
           var DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' + flightRawList[i].DestName+ '", ';
 
-          if (  flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
+          if (flightRawList[i].Next && flightRawList[i].Next !="" && flightRawList[i].Next != flightRawList[i].Dest) {
             Via = '"Via"' + ":" + '"' +  flightRawList[i].Next + '", ';
             ViaName = '"ViaName"' + ":" + '"' +  flightRawList[i].NextName + '", ';
             DestinationNameCombine = '"DestinationNameCombine"' + ":" + '"' +flightRawList[i].NextName +"/"+ flightRawList[i].DestName+ '", ';
