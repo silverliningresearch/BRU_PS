@@ -77702,7 +77702,7 @@
  },
  {
   "Date": "13-10-2023",
-  "Time": "0605",
+  "Time": "1345",
   "Dest": "AYT",
   "DestName": "Antalya",
   "Next": "",
