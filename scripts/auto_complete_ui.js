@@ -134,8 +134,6 @@ function selected_handler(val) {
   switch (currentSearchQuestion) {
     case "Core_Q11": //Final airport
     case "Core_Q13": //From  airport
-      console.log('Do nothing');
-      //do nothing;
       save_airport_value(currentSearchQuestion, val);
       $('.rt-btn.rt-btn-next').show(); 
       break;     
