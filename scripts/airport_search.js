@@ -20,15 +20,10 @@ function save_airport_value(question, value) {
     api.fn.answers({Core_Q11_ext:  value});
 
     api.fn.answers({Q11_Recoded:  value});
-    api.fn.answers({Core_Q11:  1});
-    api.fn.answers({Core_Q11_1_text:  value});
   }
   else if (question == "Core_Q13")
   {
     api.fn.answers({Core_Q13_ext:  value});
-
-    api.fn.answers({Core_Q12:  1});
-    api.fn.answers({Core_Q13_1_text:  value});
   }
 
   console.log("save_airport done!");
