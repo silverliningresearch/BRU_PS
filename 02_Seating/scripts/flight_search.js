@@ -17,21 +17,7 @@ function getToDate() {
   return [day, month,year].join('-');
 }
 
-function is_gate_valid (gate_zone, Schengen) {
-  var result = false;
-  //gate A (1) ==> only show Schengen: 
-  //gate B (2) or T (3) ==> only show Non-Schengen: 
-  if (gate_zone == "1")  
-  {
-    if (Schengen == "S") result = true;
-  } else if (gate_zone == "2" || gate_zone == "3")
-  {
-    if (Schengen == "N") result = true;
-  }
-  return result;
-}
-
- function flight_in_list_found(list, item) {
+function flight_in_list_found(list, item) {
   item = item.toLowerCase();
   
   if (item) {
@@ -77,10 +63,6 @@ function load_flight_list() {
     if ((flight.Date == getToDate()) && notDeparted_flight_search(flight.Time) //today flight && departure
         && (flight.A_D == "D" ) ) 
     {
-      //For triangle flights: skip gate validation (it always depart from non-Schengen zone)
-      //For Triangle flights: only shows flights with a via destination
-      if ((is_triangle_flight==1 && flightRawList[i].Next && flightRawList[i].Next !="")
-           || ((is_triangle_flight==2) && is_gate_valid(gate_zone, flight.Schengen)))
       {
         {
           var Date = '"Date"' + ":" + '"' +  flightRawList[i].Date + '", ';
@@ -114,113 +96,36 @@ function load_flight_list() {
       }
     }
   }
-  //console.log("flightList: ", flightList);
+
+  aui_init_search_list(flightList);
+  console.log("flightList: ", flightList);
 }
 
-function update_drop_box_list() {
-  var input = document.getElementById('inputFlightCodeID').value;
-  var searchList = document.getElementById('flightDropBoxList');
-  
-  searchList.innerHTML = '';
-  flightShortList = [];
-  flightShortList.length = 0;
 
-  input = input.toLowerCase();
-
-  var count = 0;
-  for (i = 0; i < flightList.length; i++) {
-    let flight = flightList[i];
-    var today = getToDate();
-    
-    if (today == flight.Date)
-    { 
-      if (flight.Show.toLowerCase().includes(input)) {
-        const elem = document.createElement("option");
-        elem.value = flight.Show;
-        searchList.appendChild(elem);
-        flightShortList.push(flight);
-        count++;
-      }
-    }
-    
-    if (count > 7) {
-      break;
-    }
-  }
-
-  if (flight_in_list_found(flightList, document.getElementById('inputFlightCodeID').value)) {
-    console.log("Found ", document.getElementById('inputFlightCodeID').value);
-  }
-  else{
-    console.log("Not found ", document.getElementById('inputFlightCodeID').value);
-  }  
-  
-  console.log("search flight done!");
-}
-
-function select_flight() {
-  var selectedFlight = document.getElementById('inputFlightCodeID').value;
-  var found = false;
- //$('.rt-btn.rt-btn-next').hide(); 
-
-  for (i = 0; i < flightShortList.length; i++) {
-    var currentFlight = flightShortList[i];
-    if (currentFlight.Show == selectedFlight) { 
+function save_flight_value(question, value) {
+  if (question == "Core_Q9") {
       //store detail data here
       //Search engine to produce Flight no., Airline, Destination, Via - to be added later
-      var airlineName = currentFlight.Airline; 
-      api.fn.answers({Selected_Flight_Text:  selectedFlight});
-      api.fn.answers({Q4_airline_name:   airlineName}); //airline name
-      api.fn.answers({Q4_airline:   currentFlight.AirlineCode}); //airline code
-      api.fn.answers({Q4_flight_number:   currentFlight.Flight});
-      api.fn.answers({Q4_destination:   currentFlight.Dest});
-      api.fn.answers({Q4_destination_name: currentFlight.DestName});
-      api.fn.answers({Q4_via: currentFlight.Via});
-      api.fn.answers({Q4_via_name: currentFlight.ViaName});
-      api.fn.answers({Q4_Schengen: currentFlight.Schengen});
-      api.fn.answers({Q4_destination_name_combine: currentFlight.DestinationNameCombine});
-      
-      
-      console.log("currentFlight: ", currentFlight);
-      found = true;
-      $('.rt-btn.rt-btn-next').show(); 
-      break;
-    }
+      api.fn.answers({Q9_flight_number:   value.Flight});
+      api.fn.answers({Q9_airline_name:    value.Airline}); //airline name
+      api.fn.answers({Q9_airline:         value.AirlineCode}); //airline code
+      api.fn.answers({Q9_destination:     value.Dest});
+      api.fn.answers({Q9_destination_name:value.DestName});
   }
-  if (!found) {
-    alert("Please select a flight number from the list.");
-  }
+  console.log("save flight done!");
 }
 
-function show_flight_search_box() {
+function show_flight_search_box(question) {
   load_flight_list();
-/* 
-  $('.rt-element.rt-text-container').append(`<input list="flightDropBoxList" onchange="select_flight()"  onkeyup="update_drop_box_list()" name="inputFlightCodeID" id="inputFlightCodeID" >
-  <datalist id="flightDropBoxList"> </datalist>`); */
-
-  $('.rt-element.rt-text-container').append(`<input list="flightDropBoxList" onchange="select_flight()"  onkeyup="update_drop_box_list()" name="inputFlightCodeID" id="inputFlightCodeID" >
-  <datalist id="flightDropBoxList"> </datalist>`);
- 
-
-  var currentValue  = api.fn.answers().Selected_Flight_Text;
-  if (currentValue) {
-    if (currentValue !== "") {
-      document.getElementById('inputFlightCodeID').value = currentValue;
-    }
+  
+  var defaultValue = "";
+  if (question == "Core_Q9") {
+   //defaultValue = api.fn.answers().Core_Q9_ext;
   }
 
-  if (flight_in_list_found(flightList, document.getElementById('inputFlightCodeID').value)) {
-    console.log("Found ", document.getElementById('inputFlightCodeID').value);
-  }
-  else{
-    console.log("Not found ", document.getElementById('inputFlightCodeID').value);
-  }
-  $('#inputFlightCodeID').show(); 
+  aui_show_external_search_box(question, defaultValue);
 }
 
-
-function hide_flight_search_box() {
-  $('#inputFlightCodeID').hide();
-  //var x = document.getElementById('inputFlightCodeID');
-  //x.style.display = "none";
+function hide_flight_search_box(question) {
+  aui_hide_external_search_box();
 }

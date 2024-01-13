@@ -82,12 +82,12 @@ function aui_show_external_search_box(searchQuestion, defaultValue) {
     },
     select: function( event, ui ) {
       $( "#external-search-box-select2" ).val(ui.item.Show);
-      selected_handler(ui.item.Show); //save select item
+      selected_handler(ui.item); //save select item
       return false;
     },
     change: function( event, ui ) {
       var entered_value = document.getElementById('external-search-box-select2').value;
-      changed_handler(entered_value); //save select item
+      changed_handler(entered_value); //save entered item
       return false;
     },    
     appendTo: '.dropdown-list'
@@ -132,11 +132,10 @@ function selected_handler(val) {
   console.log('currentSearchQuestion: ', currentSearchQuestion);
 
   switch (currentSearchQuestion) {
-    case "Core_Q11": //Final airport
-    case "Core_Q13": //From  airport
-      save_airport_value(currentSearchQuestion, val);
+    case "Core_Q9": //Flight
+    save_flight_value(currentSearchQuestion, val);
       $('.rt-btn.rt-btn-next').show(); 
-      break;     
+    break;     
 
     default:
       break;         
@@ -148,12 +147,6 @@ function changed_handler(val) {
   console.log('changed_handler: ', val);
   console.log('currentSearchQuestion: ', currentSearchQuestion);
   switch (currentSearchQuestion) {
-    case "Core_Q11": //Final airport
-    case "Core_Q13": //From  airport    
-      save_airport_value(currentSearchQuestion, val);
-      $('.rt-btn.rt-btn-next').show(); 
-      break;     
-
     default:
       break;         
   }
