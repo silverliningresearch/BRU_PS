@@ -133,7 +133,7 @@ function selected_handler(val) {
 
   switch (currentSearchQuestion) {
     case "Core_Q9": //Flight
-    save_flight_value(currentSearchQuestion, val);
+      save_flight_value(currentSearchQuestion, val);
       $('.rt-btn.rt-btn-next').show(); 
     break;     
 

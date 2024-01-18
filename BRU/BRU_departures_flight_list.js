@@ -2192,7 +2192,7 @@
     {
         "Date": "08-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -2478,7 +2478,7 @@
     {
         "Date": "09-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -2698,7 +2698,7 @@
     {
         "Date": "10-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -2984,7 +2984,7 @@
     {
         "Date": "11-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -3237,7 +3237,7 @@
     {
         "Date": "12-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -3567,7 +3567,7 @@
     {
         "Date": "13-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -4073,7 +4073,7 @@
     {
         "Date": "15-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -4370,7 +4370,7 @@
     {
         "Date": "16-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -4601,7 +4601,7 @@
     {
         "Date": "17-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -4876,7 +4876,7 @@
     {
         "Date": "18-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -5118,7 +5118,7 @@
     {
         "Date": "19-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -5437,7 +5437,7 @@
     {
         "Date": "20-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -5943,7 +5943,7 @@
     {
         "Date": "22-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -6240,7 +6240,7 @@
     {
         "Date": "23-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -6471,7 +6471,7 @@
     {
         "Date": "24-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -6757,7 +6757,7 @@
     {
         "Date": "25-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -6999,7 +6999,7 @@
     {
         "Date": "26-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -7318,7 +7318,7 @@
     {
         "Date": "27-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -7846,7 +7846,7 @@
     {
         "Date": "29-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -8132,7 +8132,7 @@
     {
         "Date": "30-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -8352,7 +8352,7 @@
     {
         "Date": "31-12-2023",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -10607,7 +10607,7 @@
     {
         "Date": "08-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -10893,7 +10893,7 @@
     {
         "Date": "09-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -11113,7 +11113,7 @@
     {
         "Date": "10-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -11399,7 +11399,7 @@
     {
         "Date": "11-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -11652,7 +11652,7 @@
     {
         "Date": "12-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -11982,7 +11982,7 @@
     {
         "Date": "13-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -12488,7 +12488,7 @@
     {
         "Date": "15-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -12785,7 +12785,7 @@
     {
         "Date": "16-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -13016,7 +13016,7 @@
     {
         "Date": "17-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -13291,7 +13291,7 @@
     {
         "Date": "18-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -13533,7 +13533,7 @@
     {
         "Date": "19-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -13852,7 +13852,7 @@
     {
         "Date": "20-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -14358,7 +14358,7 @@
     {
         "Date": "22-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -14655,7 +14655,7 @@
     {
         "Date": "23-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -14886,7 +14886,7 @@
     {
         "Date": "24-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -15172,7 +15172,7 @@
     {
         "Date": "25-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -15414,7 +15414,7 @@
     {
         "Date": "26-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -15733,7 +15733,7 @@
     {
         "Date": "27-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -16261,7 +16261,7 @@
     {
         "Date": "29-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -16547,7 +16547,7 @@
     {
         "Date": "30-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -16767,7 +16767,7 @@
     {
         "Date": "31-01-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -17053,7 +17053,7 @@
     {
         "Date": "01-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -17284,7 +17284,7 @@
     {
         "Date": "02-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -17603,7 +17603,7 @@
     {
         "Date": "03-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -18109,7 +18109,7 @@
     {
         "Date": "05-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -18406,7 +18406,7 @@
     {
         "Date": "06-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -18637,7 +18637,7 @@
     {
         "Date": "07-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -18912,7 +18912,7 @@
     {
         "Date": "08-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -19143,7 +19143,7 @@
     {
         "Date": "09-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -19473,7 +19473,7 @@
     {
         "Date": "10-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -19990,7 +19990,7 @@
     {
         "Date": "12-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -20287,7 +20287,7 @@
     {
         "Date": "13-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -20518,7 +20518,7 @@
     {
         "Date": "14-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -20804,7 +20804,7 @@
     {
         "Date": "15-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -21024,7 +21024,7 @@
     {
         "Date": "16-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -21354,7 +21354,7 @@
     {
         "Date": "17-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -21871,7 +21871,7 @@
     {
         "Date": "19-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -22168,7 +22168,7 @@
     {
         "Date": "20-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -22399,7 +22399,7 @@
     {
         "Date": "21-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -22685,7 +22685,7 @@
     {
         "Date": "22-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -22916,7 +22916,7 @@
     {
         "Date": "23-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -23246,7 +23246,7 @@
     {
         "Date": "24-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -23741,7 +23741,7 @@
     {
         "Date": "26-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -24038,7 +24038,7 @@
     {
         "Date": "27-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -24269,7 +24269,7 @@
     {
         "Date": "28-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -24544,7 +24544,7 @@
     {
         "Date": "29-02-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -24775,7 +24775,7 @@
     {
         "Date": "01-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -25116,7 +25116,7 @@
     {
         "Date": "02-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -25633,7 +25633,7 @@
     {
         "Date": "04-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -25941,7 +25941,7 @@
     {
         "Date": "05-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -26183,7 +26183,7 @@
     {
         "Date": "06-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -26469,7 +26469,7 @@
     {
         "Date": "07-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -26700,7 +26700,7 @@
     {
         "Date": "08-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -27052,7 +27052,7 @@
     {
         "Date": "09-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -27558,7 +27558,7 @@
     {
         "Date": "11-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -27866,7 +27866,7 @@
     {
         "Date": "12-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -28108,7 +28108,7 @@
     {
         "Date": "13-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -28383,7 +28383,7 @@
     {
         "Date": "14-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -28614,7 +28614,7 @@
     {
         "Date": "15-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -28955,7 +28955,7 @@
     {
         "Date": "16-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -29472,7 +29472,7 @@
     {
         "Date": "18-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -29780,7 +29780,7 @@
     {
         "Date": "19-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -30022,7 +30022,7 @@
     {
         "Date": "20-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -30308,7 +30308,7 @@
     {
         "Date": "21-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -30539,7 +30539,7 @@
     {
         "Date": "22-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -30891,7 +30891,7 @@
     {
         "Date": "23-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -31408,7 +31408,7 @@
     {
         "Date": "25-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -31716,7 +31716,7 @@
     {
         "Date": "26-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -31958,7 +31958,7 @@
     {
         "Date": "27-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -32244,7 +32244,7 @@
     {
         "Date": "28-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -32475,7 +32475,7 @@
     {
         "Date": "29-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
@@ -32827,7 +32827,7 @@
     {
         "Date": "30-03-2024",
         "Time": "1455",
-        "Flight": "BT781",
+        "Flight": "LX781",
         "Airline": "Air Baltic",
         "Dest": "Zurich (ZRH)",
         "Airplane type": "A220-300",
