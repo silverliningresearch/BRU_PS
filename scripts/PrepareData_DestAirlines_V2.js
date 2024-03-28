@@ -179,7 +179,7 @@ function prepareInterviewData() {
   for (i = 0; i < flight_list_temp.length; i++) {
     let flight = flight_list_temp[i];
 
-    flight.Dest_Airlines = flight.Dest + "-" +  flight.Flight.substring(0,2);//code for compare
+    flight.Dest_Airlines = flight.Dest + "-" + flight.AirlineCode; // flight.Flight.substring(0,2);//code for compare
 	  flight.Dest = flight.Dest + "-" + flight.DestName;//code for compare
     flight.Next = flight.Next + "-" + flight.NextName;//code for compare
 
