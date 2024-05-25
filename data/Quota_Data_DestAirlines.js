@@ -1228,6 +1228,7 @@
 {"Dest_Airlines": "MXP-SN", "Dest": "MXP", "Quota": "78", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "NAP-SN", "Dest": "NAP", "Quota": "59", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "NBE-TB", "Dest": "NBE", "Quota": "54", "Quarter": "2024-Q2"},
+{"Dest_Airlines": "NBO-SN", "Dest": "NBO", "Quota": "30", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "NCE-EJU", "Dest": "NCE", "Quota": "64", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "NCE-SN", "Dest": "NCE", "Quota": "102", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "NDR-3O", "Dest": "NDR", "Quota": "28", "Quarter": "2024-Q2"},
@@ -1328,6 +1329,7 @@
 {"Dest_Airlines": "ZTH-HV", "Dest": "ZTH", "Quota": "6", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "ZTH-SN", "Dest": "ZTH", "Quota": "18", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "ZTH-TB", "Dest": "ZTH", "Quota": "7", "Quarter": "2024-Q2"}
+
 
 
 ]

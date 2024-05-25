@@ -1983,9 +1983,9 @@
 {"Flight_To": "SN203-BJL", "Dest": "BJL", "Quota": "99", "Quarter": "2024-Q2"},
 {"Flight_To": "SN205-CKY", "Dest": "CKY", "Quota": "79", "Quarter": "2024-Q2"},
 {"Flight_To": "SN2063-EDI", "Dest": "EDI", "Quota": "48", "Quarter": "2024-Q2"},
-{"Flight_To": "SN2093-LHR", "Dest": "LHR", "Quota": "134", "Quarter": "2024-Q2"},
-{"Flight_To": "SN2095-LHR", "Dest": "LHR", "Quota": "115", "Quarter": "2024-Q2"},
-{"Flight_To": "SN2103-LHR", "Dest": "LHR", "Quota": "132", "Quarter": "2024-Q2"},
+{"Flight_To": "SN2093-LHR", "Dest": "LHR", "Quota": "154", "Quarter": "2024-Q2"},
+{"Flight_To": "SN2095-LHR", "Dest": "LHR", "Quota": "145", "Quarter": "2024-Q2"},
+{"Flight_To": "SN2103-LHR", "Dest": "LHR", "Quota": "82", "Quarter": "2024-Q2"},
 {"Flight_To": "SN2105-LHR", "Dest": "LHR", "Quota": "88", "Quarter": "2024-Q2"},
 {"Flight_To": "SN2173-MAN", "Dest": "MAN", "Quota": "41", "Quarter": "2024-Q2"},
 {"Flight_To": "SN2183-MAN", "Dest": "MAN", "Quota": "39", "Quarter": "2024-Q2"},
@@ -2114,6 +2114,8 @@
 {"Flight_To": "SN455-EBB", "Dest": "EBB", "Quota": "45", "Quarter": "2024-Q2"},
 {"Flight_To": "SN465-EBB", "Dest": "EBB", "Quota": "64", "Quarter": "2024-Q2"},
 {"Flight_To": "SN467-EBB", "Dest": "EBB", "Quota": "48", "Quarter": "2024-Q2"},
+{"Flight_To": "SN481-NBO", "Dest": "NBO", "Quota": "15", "Quarter": "2024-Q2"},
+{"Flight_To": "SN491-NBO", "Dest": "NBO", "Quota": "15", "Quarter": "2024-Q2"},
 {"Flight_To": "SN501-JFK", "Dest": "JFK", "Quota": "125", "Quarter": "2024-Q2"},
 {"Flight_To": "SN515-IAD", "Dest": "IAD", "Quota": "66", "Quarter": "2024-Q2"},
 {"Flight_To": "SQ303-SIN", "Dest": "SIN", "Quota": "102", "Quarter": "2024-Q2"},
@@ -2271,6 +2273,7 @@
 {"Flight_To": "XC7653-GZP", "Dest": "GZP", "Quota": "3", "Quarter": "2024-Q2"},
 {"Flight_To": "XC7661-ADB", "Dest": "ADB", "Quota": "3", "Quarter": "2024-Q2"},
 {"Flight_To": "XR7663-HER", "Dest": "HER", "Quota": "5", "Quarter": "2024-Q2"}
+
 
         
 ]
