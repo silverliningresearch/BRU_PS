@@ -1275,7 +1275,7 @@
 {"Dest_Airlines": "RIX-BT", "Dest": "RIX", "Quota": "78", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "RMF-SN", "Dest": "RMF", "Quota": "4", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "RMF-TB", "Dest": "RMF", "Quota": "3", "Quarter": "2024-Q2"},
-{"Dest_Airlines": "RMO-5F", "Dest": "RMO", "Quota": "22", "Quarter": "2024-Q2"},
+{"Dest_Airlines": "RMO-5F", "Dest": "RMO", "Quota": "12", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "ROB-SN", "Dest": "ROB", "Quota": "87", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "SAW-VF", "Dest": "SAW", "Quota": "59", "Quarter": "2024-Q2"},
 {"Dest_Airlines": "SID-TB", "Dest": "SID", "Quota": "84", "Quarter": "2024-Q2"},
