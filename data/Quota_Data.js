@@ -1824,7 +1824,7 @@
 {"Flight_To": "3O136-RBA", "Dest": "RBA", "Quota": "11", "Quarter": "2024-Q2"},
 {"Flight_To": "3O138-TTU", "Dest": "TTU", "Quota": "9", "Quarter": "2024-Q2"},
 {"Flight_To": "3O852-OUD", "Dest": "OUD", "Quota": "18", "Quarter": "2024-Q2"},
-{"Flight_To": "5F836-RMO", "Dest": "RMO", "Quota": "22", "Quarter": "2024-Q2"},
+{"Flight_To": "5F836-RMO", "Dest": "RMO", "Quota": "12", "Quarter": "2024-Q2"},
 {"Flight_To": "A3539-SKG", "Dest": "SKG", "Quota": "24", "Quarter": "2024-Q2"},
 {"Flight_To": "A3621-ATH", "Dest": "ATH", "Quota": "68", "Quarter": "2024-Q2"},
 {"Flight_To": "A3623-ATH", "Dest": "ATH", "Quota": "67", "Quarter": "2024-Q2"},
