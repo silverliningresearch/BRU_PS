@@ -1882,6 +1882,10 @@
 {"Flight_To": "FH8067-BJV", "Dest": "BJV", "Quota": "17", "Quarter": "2024-Q2"},
 {"Flight_To": "FH8079-BJV", "Dest": "BJV", "Quota": "7", "Quarter": "2024-Q2"},
 {"Flight_To": "FH8081-BJV", "Dest": "BJV", "Quota": "8", "Quarter": "2024-Q2"},
+
+{"Flight_To": "FH8069-BJV", "Dest": "BJV", "Quota": "10", "Quarter": "2024-Q2"},
+{"Flight_To": "FH8201-BJV", "Dest": "BJV", "Quota": "10", "Quarter": "2024-Q2"},
+
 {"Flight_To": "FH8115-AYT", "Dest": "AYT", "Quota": "6", "Quarter": "2024-Q2"},
 {"Flight_To": "FH8347-ADB", "Dest": "ADB", "Quota": "4", "Quarter": "2024-Q2"},
 {"Flight_To": "FI555-KEF", "Dest": "KEF", "Quota": "40", "Quarter": "2024-Q2"},
