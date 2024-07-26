@@ -2761,10 +2761,23 @@
 {"Flight_To": "XR7651-BOJ", "Dest": "BOJ", "Quota": "4", "Quarter": "2024-Q3"},
 {"Flight_To": "XR7653-RHO", "Dest": "RHO", "Quota": "8", "Quarter": "2024-Q3"},
 {"Flight_To": "XR7663-HRG", "Dest": "HRG", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XR7697-HRG", "Dest": "HRG", "Quota": "8", "Quarter": "2024-Q3"},
 {"Flight_To": "XR7923-RHO", "Dest": "RHO", "Quota": "8", "Quarter": "2024-Q3"},
-{"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "6", "Quarter": "2024-Q3"}
-
-
+{"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "6", "Quarter": "2024-Q3"},
+{"Flight_To": "8R1911-BVE", "Dest": "BVE", "Quota": "6", "Quarter": "2024-Q3"},
+{"Flight_To": "SN1021-KTT", "Dest": "KTT", "Quota": "7", "Quarter": "2024-Q3"},
+{"Flight_To": "TB1139-IBZ", "Dest": "IBZ", "Quota": "5", "Quarter": "2024-Q3"},
+{"Flight_To": "XC3532-ADB", "Dest": "ADB", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7027-AYT", "Dest": "AYT", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7069-DLM", "Dest": "DLM", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7605-BJV", "Dest": "BJV", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7607-AYT", "Dest": "AYT", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7651-BJV", "Dest": "BJV", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7655-GZP", "Dest": "GZP", "Quota": "4", "Quarter": "2024-Q3"},
+{"Flight_To": "XC7665-GZP", "Dest": "GZP", "Quota": "4", "Quarter": "2024-Q3"},
+{"Flight_To": "XR7663-HER", "Dest": "HER", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XR7693-HRG", "Dest": "HRG", "Quota": "8", "Quarter": "2024-Q3"},
+{"Flight_To": "XR7697-HRG", "Dest": "HRG", "Quota": "8", "Quarter": "2024-Q3"}
 
         
 ]
