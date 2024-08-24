@@ -2,7 +2,7 @@
 [
     {
         "Date": "01-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13,7 +13,7 @@
     },
     {
         "Date": "01-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -167,7 +167,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -178,7 +178,7 @@
     },
     {
         "Date": "02-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -299,7 +299,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "550",
+        "Time": "0550",
         "Flight": "SN1659",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -310,7 +310,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -321,7 +321,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -332,7 +332,7 @@
     },
     {
         "Date": "03-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -464,7 +464,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -475,7 +475,7 @@
     },
     {
         "Date": "04-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -596,7 +596,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -607,7 +607,7 @@
     },
     {
         "Date": "05-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -739,7 +739,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -750,7 +750,7 @@
     },
     {
         "Date": "06-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -871,7 +871,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -882,7 +882,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -893,7 +893,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -904,7 +904,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -915,7 +915,7 @@
     },
     {
         "Date": "07-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1047,7 +1047,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -1058,7 +1058,7 @@
     },
     {
         "Date": "08-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1212,7 +1212,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -1223,7 +1223,7 @@
     },
     {
         "Date": "09-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1344,7 +1344,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -1355,7 +1355,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -1366,7 +1366,7 @@
     },
     {
         "Date": "10-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1498,7 +1498,7 @@
     },
     {
         "Date": "11-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -1619,7 +1619,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -1630,7 +1630,7 @@
     },
     {
         "Date": "12-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1751,7 +1751,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -1762,7 +1762,7 @@
     },
     {
         "Date": "13-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -1883,7 +1883,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -1894,7 +1894,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -1905,7 +1905,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -1916,7 +1916,7 @@
     },
     {
         "Date": "14-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2048,7 +2048,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -2059,7 +2059,7 @@
     },
     {
         "Date": "15-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2213,7 +2213,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -2224,7 +2224,7 @@
     },
     {
         "Date": "16-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2356,7 +2356,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -2367,7 +2367,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -2378,7 +2378,7 @@
     },
     {
         "Date": "17-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2510,7 +2510,7 @@
     },
     {
         "Date": "18-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -2631,7 +2631,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -2642,7 +2642,7 @@
     },
     {
         "Date": "19-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2763,7 +2763,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -2774,7 +2774,7 @@
     },
     {
         "Date": "20-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -2895,7 +2895,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -2906,7 +2906,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -2917,7 +2917,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -2928,7 +2928,7 @@
     },
     {
         "Date": "21-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3060,7 +3060,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -3071,7 +3071,7 @@
     },
     {
         "Date": "22-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3225,7 +3225,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -3236,7 +3236,7 @@
     },
     {
         "Date": "23-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3368,7 +3368,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -3379,7 +3379,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -3390,7 +3390,7 @@
     },
     {
         "Date": "24-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3522,7 +3522,7 @@
     },
     {
         "Date": "25-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -3643,7 +3643,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -3654,7 +3654,7 @@
     },
     {
         "Date": "26-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3775,7 +3775,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -3786,7 +3786,7 @@
     },
     {
         "Date": "27-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -3907,7 +3907,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -3918,7 +3918,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -3929,7 +3929,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -3940,7 +3940,7 @@
     },
     {
         "Date": "28-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -4072,7 +4072,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -4083,7 +4083,7 @@
     },
     {
         "Date": "29-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -4237,7 +4237,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -4248,7 +4248,7 @@
     },
     {
         "Date": "30-07-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -4380,7 +4380,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -4391,7 +4391,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -4402,7 +4402,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -4413,7 +4413,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -4424,7 +4424,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -4435,7 +4435,7 @@
     },
     {
         "Date": "01-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -4534,7 +4534,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "625",
+        "Time": "0625",
         "Flight": "SN3733",
         "Airline": "Brussels Airlines",
         "Dest": "(AGP)",
@@ -4545,7 +4545,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -4556,7 +4556,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -4567,7 +4567,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -4578,7 +4578,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -4589,7 +4589,7 @@
     },
     {
         "Date": "02-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -4710,7 +4710,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -4721,7 +4721,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -4732,7 +4732,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -4743,7 +4743,7 @@
     },
     {
         "Date": "03-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -4886,7 +4886,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -4897,7 +4897,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "600",
+        "Time": "0600",
         "Flight": "TP647",
         "Airline": "TAP Air Portugal",
         "Dest": "(LIS)",
@@ -4908,7 +4908,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -4919,7 +4919,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -4930,7 +4930,7 @@
     },
     {
         "Date": "04-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -5029,7 +5029,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5040,7 +5040,7 @@
     },
     {
         "Date": "05-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -5172,7 +5172,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -5183,7 +5183,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "600",
+        "Time": "0600",
         "Flight": "TP647",
         "Airline": "TAP Air Portugal",
         "Dest": "(LIS)",
@@ -5194,7 +5194,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -5205,7 +5205,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -5216,7 +5216,7 @@
     },
     {
         "Date": "06-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -5315,7 +5315,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -5326,7 +5326,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -5337,7 +5337,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5348,7 +5348,7 @@
     },
     {
         "Date": "07-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -5502,7 +5502,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -5513,7 +5513,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5524,7 +5524,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -5535,7 +5535,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -5546,7 +5546,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "935",
+        "Time": "0935",
         "Flight": "SN3169",
         "Airline": "Brussels Airlines",
         "Dest": "(NAP)",
@@ -5557,7 +5557,7 @@
     },
     {
         "Date": "08-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -5656,7 +5656,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5667,7 +5667,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -5678,7 +5678,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -5689,7 +5689,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -5700,7 +5700,7 @@
     },
     {
         "Date": "09-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -5810,7 +5810,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -5821,7 +5821,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -5832,7 +5832,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -5843,7 +5843,7 @@
     },
     {
         "Date": "10-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -5986,7 +5986,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -5997,7 +5997,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6008,7 +6008,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -6019,7 +6019,7 @@
     },
     {
         "Date": "11-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -6129,7 +6129,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6140,7 +6140,7 @@
     },
     {
         "Date": "12-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -6283,7 +6283,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -6294,7 +6294,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -6305,7 +6305,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -6316,7 +6316,7 @@
     },
     {
         "Date": "13-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -6437,7 +6437,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -6448,7 +6448,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -6459,7 +6459,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6470,7 +6470,7 @@
     },
     {
         "Date": "14-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -6624,7 +6624,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -6635,7 +6635,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6646,7 +6646,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -6657,7 +6657,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -6668,7 +6668,7 @@
     },
     {
         "Date": "15-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -6778,7 +6778,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6789,7 +6789,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -6800,7 +6800,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -6811,7 +6811,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -6822,7 +6822,7 @@
     },
     {
         "Date": "16-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -6932,7 +6932,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -6943,7 +6943,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -6954,7 +6954,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -6965,7 +6965,7 @@
     },
     {
         "Date": "17-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -7097,7 +7097,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -7108,7 +7108,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7119,7 +7119,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -7130,7 +7130,7 @@
     },
     {
         "Date": "18-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -7240,7 +7240,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7251,7 +7251,7 @@
     },
     {
         "Date": "19-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -7383,7 +7383,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -7394,7 +7394,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -7405,7 +7405,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -7416,7 +7416,7 @@
     },
     {
         "Date": "20-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -7537,7 +7537,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -7548,7 +7548,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -7559,7 +7559,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7570,7 +7570,7 @@
     },
     {
         "Date": "21-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -7724,7 +7724,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -7735,7 +7735,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7746,7 +7746,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -7757,7 +7757,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -7768,7 +7768,7 @@
     },
     {
         "Date": "22-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -7878,7 +7878,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -7889,7 +7889,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -7900,7 +7900,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -7911,7 +7911,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -7922,7 +7922,7 @@
     },
     {
         "Date": "23-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -8043,7 +8043,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -8054,7 +8054,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8065,7 +8065,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -8076,7 +8076,7 @@
     },
     {
         "Date": "24-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -8219,7 +8219,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -8230,7 +8230,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "625",
+        "Time": "0625",
         "Flight": "SN3733",
         "Airline": "Brussels Airlines",
         "Dest": "(AGP)",
@@ -8241,7 +8241,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8252,7 +8252,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -8263,7 +8263,7 @@
     },
     {
         "Date": "25-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -8384,7 +8384,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8395,7 +8395,7 @@
     },
     {
         "Date": "26-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -8527,7 +8527,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -8538,7 +8538,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8549,7 +8549,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -8560,7 +8560,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -8571,7 +8571,7 @@
     },
     {
         "Date": "27-08-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -8681,7 +8681,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -8692,7 +8692,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -8703,7 +8703,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8714,7 +8714,7 @@
     },
     {
         "Date": "28-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -8868,7 +8868,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -8879,7 +8879,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -8890,7 +8890,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -8901,7 +8901,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -8912,7 +8912,7 @@
     },
     {
         "Date": "29-08-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -9033,7 +9033,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -9044,7 +9044,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -9055,7 +9055,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -9066,7 +9066,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -9077,7 +9077,7 @@
     },
     {
         "Date": "30-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -9209,7 +9209,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -9220,7 +9220,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -9231,7 +9231,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -9242,7 +9242,7 @@
     },
     {
         "Date": "31-08-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -9374,7 +9374,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -9385,7 +9385,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "625",
+        "Time": "0625",
         "Flight": "SN3733",
         "Airline": "Brussels Airlines",
         "Dest": "(AGP)",
@@ -9396,7 +9396,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -9407,7 +9407,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -9418,7 +9418,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -9429,7 +9429,7 @@
     },
     {
         "Date": "01-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -9539,7 +9539,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -9550,7 +9550,7 @@
     },
     {
         "Date": "02-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -9682,7 +9682,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -9693,7 +9693,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -9704,7 +9704,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -9715,7 +9715,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -9726,7 +9726,7 @@
     },
     {
         "Date": "03-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -9847,7 +9847,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -9858,7 +9858,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -9869,7 +9869,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -9880,7 +9880,7 @@
     },
     {
         "Date": "04-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10045,7 +10045,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -10056,7 +10056,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -10067,7 +10067,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -10078,7 +10078,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -10089,7 +10089,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10100,7 +10100,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -10111,7 +10111,7 @@
     },
     {
         "Date": "05-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -10243,7 +10243,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -10254,7 +10254,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -10265,7 +10265,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -10276,7 +10276,7 @@
     },
     {
         "Date": "06-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10397,7 +10397,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -10408,7 +10408,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -10419,7 +10419,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -10430,7 +10430,7 @@
     },
     {
         "Date": "07-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -10551,7 +10551,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -10562,7 +10562,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "830",
+        "Time": "0830",
         "Flight": "AT845",
         "Airline": "Royal Air Maroc",
         "Dest": "(CMN)",
@@ -10573,7 +10573,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -10584,7 +10584,7 @@
     },
     {
         "Date": "08-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10694,7 +10694,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -10705,7 +10705,7 @@
     },
     {
         "Date": "09-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10826,7 +10826,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -10837,7 +10837,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -10848,7 +10848,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -10859,7 +10859,7 @@
     },
     {
         "Date": "10-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -10980,7 +10980,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -10991,7 +10991,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -11002,7 +11002,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -11013,7 +11013,7 @@
     },
     {
         "Date": "11-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -11167,7 +11167,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -11178,7 +11178,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -11189,7 +11189,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -11200,7 +11200,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -11211,7 +11211,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -11222,7 +11222,7 @@
     },
     {
         "Date": "12-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -11354,7 +11354,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -11365,7 +11365,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -11376,7 +11376,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -11387,7 +11387,7 @@
     },
     {
         "Date": "13-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -11519,7 +11519,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -11530,7 +11530,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -11541,7 +11541,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -11552,7 +11552,7 @@
     },
     {
         "Date": "14-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -11684,7 +11684,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -11695,7 +11695,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -11706,7 +11706,7 @@
     },
     {
         "Date": "15-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -11827,7 +11827,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -11838,7 +11838,7 @@
     },
     {
         "Date": "16-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -11970,7 +11970,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -11981,7 +11981,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -11992,7 +11992,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -12003,7 +12003,7 @@
     },
     {
         "Date": "17-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -12124,7 +12124,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -12135,7 +12135,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -12146,7 +12146,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -12157,7 +12157,7 @@
     },
     {
         "Date": "18-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -12322,7 +12322,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -12333,7 +12333,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -12344,7 +12344,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -12355,7 +12355,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -12366,7 +12366,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -12377,7 +12377,7 @@
     },
     {
         "Date": "19-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -12509,7 +12509,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -12520,7 +12520,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -12531,7 +12531,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -12542,7 +12542,7 @@
     },
     {
         "Date": "20-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -12674,7 +12674,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -12685,7 +12685,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -12696,7 +12696,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -12707,7 +12707,7 @@
     },
     {
         "Date": "21-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -12839,7 +12839,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -12850,7 +12850,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -12861,7 +12861,7 @@
     },
     {
         "Date": "22-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -12971,7 +12971,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -12982,7 +12982,7 @@
     },
     {
         "Date": "23-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -13103,7 +13103,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -13114,7 +13114,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13125,7 +13125,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -13136,7 +13136,7 @@
     },
     {
         "Date": "24-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -13246,7 +13246,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -13257,7 +13257,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -13268,7 +13268,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13279,7 +13279,7 @@
     },
     {
         "Date": "25-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -13422,7 +13422,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -13433,7 +13433,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -13444,7 +13444,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13455,7 +13455,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -13466,7 +13466,7 @@
     },
     {
         "Date": "26-09-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -13598,7 +13598,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -13609,7 +13609,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13620,7 +13620,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -13631,7 +13631,7 @@
     },
     {
         "Date": "27-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -13741,7 +13741,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -13752,7 +13752,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -13763,7 +13763,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -13774,7 +13774,7 @@
     },
     {
         "Date": "28-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -13906,7 +13906,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -13917,7 +13917,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -13928,7 +13928,7 @@
     },
     {
         "Date": "29-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14049,7 +14049,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -14060,7 +14060,7 @@
     },
     {
         "Date": "30-09-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14192,7 +14192,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -14203,7 +14203,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14214,7 +14214,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -14225,7 +14225,7 @@
     },
     {
         "Date": "01-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14324,7 +14324,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -14335,7 +14335,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -14346,7 +14346,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14357,7 +14357,7 @@
     },
     {
         "Date": "02-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14511,7 +14511,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -14522,7 +14522,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -14533,7 +14533,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14544,7 +14544,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14555,7 +14555,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -14566,7 +14566,7 @@
     },
     {
         "Date": "03-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -14698,7 +14698,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -14709,7 +14709,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14720,7 +14720,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -14731,7 +14731,7 @@
     },
     {
         "Date": "04-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -14852,7 +14852,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -14863,7 +14863,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -14874,7 +14874,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -14885,7 +14885,7 @@
     },
     {
         "Date": "05-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -15028,7 +15028,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -15039,7 +15039,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -15050,7 +15050,7 @@
     },
     {
         "Date": "06-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -15160,7 +15160,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -15171,7 +15171,7 @@
     },
     {
         "Date": "07-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -15314,7 +15314,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -15325,7 +15325,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -15336,7 +15336,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -15347,7 +15347,7 @@
     },
     {
         "Date": "08-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -15457,7 +15457,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -15468,7 +15468,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -15479,7 +15479,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -15490,7 +15490,7 @@
     },
     {
         "Date": "09-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -15655,7 +15655,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -15666,7 +15666,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -15677,7 +15677,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -15688,7 +15688,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -15699,7 +15699,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -15710,7 +15710,7 @@
     },
     {
         "Date": "10-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -15842,7 +15842,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -15853,7 +15853,7 @@
     },
     {
         "Date": "11-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -15974,7 +15974,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -15985,7 +15985,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -15996,7 +15996,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16007,7 +16007,7 @@
     },
     {
         "Date": "12-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -16139,7 +16139,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -16150,7 +16150,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -16161,7 +16161,7 @@
     },
     {
         "Date": "13-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -16282,7 +16282,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -16293,7 +16293,7 @@
     },
     {
         "Date": "14-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -16425,7 +16425,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -16436,7 +16436,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16447,7 +16447,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -16458,7 +16458,7 @@
     },
     {
         "Date": "15-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -16557,7 +16557,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -16568,7 +16568,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -16579,7 +16579,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16590,7 +16590,7 @@
     },
     {
         "Date": "16-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -16744,7 +16744,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -16755,7 +16755,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -16766,7 +16766,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16777,7 +16777,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -16788,7 +16788,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3721",
         "Airline": "Brussels Airlines",
         "Dest": "(MAD)",
@@ -16799,7 +16799,7 @@
     },
     {
         "Date": "17-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -16931,7 +16931,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -16942,7 +16942,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -16953,7 +16953,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -16964,7 +16964,7 @@
     },
     {
         "Date": "18-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17085,7 +17085,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -17096,7 +17096,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -17107,7 +17107,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -17118,7 +17118,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -17129,7 +17129,7 @@
     },
     {
         "Date": "19-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17261,7 +17261,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -17272,7 +17272,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "600",
+        "Time": "0600",
         "Flight": "TP647",
         "Airline": "TAP Air Portugal",
         "Dest": "(LIS)",
@@ -17283,7 +17283,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -17294,7 +17294,7 @@
     },
     {
         "Date": "20-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17404,7 +17404,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -17415,7 +17415,7 @@
     },
     {
         "Date": "21-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17536,7 +17536,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -17547,7 +17547,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -17558,7 +17558,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "915",
+        "Time": "0915",
         "Flight": "SN3815",
         "Airline": "Brussels Airlines",
         "Dest": "(LIS)",
@@ -17569,7 +17569,7 @@
     },
     {
         "Date": "22-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17679,7 +17679,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -17690,7 +17690,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "635",
+        "Time": "0635",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -17701,7 +17701,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -17712,7 +17712,7 @@
     },
     {
         "Date": "23-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17844,7 +17844,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "540",
+        "Time": "0540",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -17855,7 +17855,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "855",
+        "Time": "0855",
         "Flight": "FR2985",
         "Airline": "Ryanair",
         "Dest": "(VLC)",
@@ -17866,7 +17866,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -17877,7 +17877,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -17888,7 +17888,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -17899,7 +17899,7 @@
     },
     {
         "Date": "24-10-2024",
-        "Time": "955",
+        "Time": "0955",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -18031,7 +18031,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -18042,7 +18042,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18053,7 +18053,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -18064,7 +18064,7 @@
     },
     {
         "Date": "25-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -18196,7 +18196,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "555",
+        "Time": "0555",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -18207,7 +18207,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "715",
+        "Time": "0715",
         "Flight": "TK1942",
         "Airline": "Turkish Airlines",
         "Dest": "(IST)",
@@ -18218,7 +18218,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "905",
+        "Time": "0905",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18229,7 +18229,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3801",
         "Airline": "Brussels Airlines",
         "Dest": "(FAO)",
@@ -18240,7 +18240,7 @@
     },
     {
         "Date": "26-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN3289",
         "Airline": "Brussels Airlines",
         "Dest": "(TLV)",
@@ -18361,7 +18361,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -18372,7 +18372,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -18383,7 +18383,7 @@
     },
     {
         "Date": "27-10-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -18515,7 +18515,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -18526,7 +18526,7 @@
     },
     {
         "Date": "28-10-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -18647,7 +18647,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18658,7 +18658,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "920",
+        "Time": "0920",
         "Flight": "SN1535",
         "Airline": "Brussels Airlines",
         "Dest": "(AGP)",
@@ -18669,7 +18669,7 @@
     },
     {
         "Date": "29-10-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -18801,7 +18801,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18812,7 +18812,7 @@
     },
     {
         "Date": "30-10-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -18933,7 +18933,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -18944,7 +18944,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -18955,7 +18955,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -18966,7 +18966,7 @@
     },
     {
         "Date": "31-10-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19098,7 +19098,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19109,7 +19109,7 @@
     },
     {
         "Date": "01-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19263,7 +19263,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19274,7 +19274,7 @@
     },
     {
         "Date": "02-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19395,7 +19395,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "550",
+        "Time": "0550",
         "Flight": "SN1659",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19406,7 +19406,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -19417,7 +19417,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -19428,7 +19428,7 @@
     },
     {
         "Date": "03-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19560,7 +19560,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -19571,7 +19571,7 @@
     },
     {
         "Date": "04-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19692,7 +19692,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19703,7 +19703,7 @@
     },
     {
         "Date": "05-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19835,7 +19835,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19846,7 +19846,7 @@
     },
     {
         "Date": "06-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -19967,7 +19967,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -19978,7 +19978,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -19989,7 +19989,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -20000,7 +20000,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "940",
+        "Time": "0940",
         "Flight": "SN3771",
         "Airline": "Brussels Airlines",
         "Dest": "(ALC)",
@@ -20011,7 +20011,7 @@
     },
     {
         "Date": "07-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20143,7 +20143,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20154,7 +20154,7 @@
     },
     {
         "Date": "08-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20308,7 +20308,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20319,7 +20319,7 @@
     },
     {
         "Date": "09-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20440,7 +20440,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -20451,7 +20451,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -20462,7 +20462,7 @@
     },
     {
         "Date": "10-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20594,7 +20594,7 @@
     },
     {
         "Date": "11-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -20715,7 +20715,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20726,7 +20726,7 @@
     },
     {
         "Date": "12-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20847,7 +20847,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20858,7 +20858,7 @@
     },
     {
         "Date": "13-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -20979,7 +20979,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -20990,7 +20990,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -21001,7 +21001,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -21012,7 +21012,7 @@
     },
     {
         "Date": "14-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21144,7 +21144,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21155,7 +21155,7 @@
     },
     {
         "Date": "15-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21309,7 +21309,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21320,7 +21320,7 @@
     },
     {
         "Date": "16-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21452,7 +21452,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -21463,7 +21463,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -21474,7 +21474,7 @@
     },
     {
         "Date": "17-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21606,7 +21606,7 @@
     },
     {
         "Date": "18-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -21727,7 +21727,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21738,7 +21738,7 @@
     },
     {
         "Date": "19-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21859,7 +21859,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -21870,7 +21870,7 @@
     },
     {
         "Date": "20-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -21991,7 +21991,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22002,7 +22002,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -22013,7 +22013,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -22024,7 +22024,7 @@
     },
     {
         "Date": "21-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -22156,7 +22156,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22167,7 +22167,7 @@
     },
     {
         "Date": "22-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -22321,7 +22321,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22332,7 +22332,7 @@
     },
     {
         "Date": "23-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -22464,7 +22464,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "615",
+        "Time": "0615",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -22475,7 +22475,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "630",
+        "Time": "0630",
         "Flight": "SN3793",
         "Airline": "Brussels Airlines",
         "Dest": "(FUE)",
@@ -22486,7 +22486,7 @@
     },
     {
         "Date": "24-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -22618,7 +22618,7 @@
     },
     {
         "Date": "25-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -22739,7 +22739,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22750,7 +22750,7 @@
     },
     {
         "Date": "26-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -22871,7 +22871,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -22882,7 +22882,7 @@
     },
     {
         "Date": "27-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -23003,7 +23003,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -23014,7 +23014,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "900",
+        "Time": "0900",
         "Flight": "FR2947",
         "Airline": "Ryanair",
         "Dest": "(MAD)",
@@ -23025,7 +23025,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "925",
+        "Time": "0925",
         "Flight": "SN3783",
         "Airline": "Brussels Airlines",
         "Dest": "(LPA)",
@@ -23036,7 +23036,7 @@
     },
     {
         "Date": "28-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -23168,7 +23168,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -23179,7 +23179,7 @@
     },
     {
         "Date": "29-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
@@ -23333,7 +23333,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "820",
+        "Time": "0820",
         "Flight": "QR196",
         "Airline": "Qatar Airways",
         "Dest": "(DOH)",
@@ -23344,7 +23344,7 @@
     },
     {
         "Date": "30-11-2024",
-        "Time": "945",
+        "Time": "0945",
         "Flight": "SN3781",
         "Airline": "Brussels Airlines",
         "Dest": "(TFS)",
