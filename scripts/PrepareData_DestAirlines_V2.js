@@ -73,8 +73,13 @@ function initCurrentTimeVars() {
         total_quota = 13000;
         break;        
     case "2024-Q2":
+    case "2024-Q3":            
         total_quota = 17000;
-        break;                
+        break;              
+    case "2024-Q4":
+    case "2025-Q1":      
+        total_quota = 13000;
+        break;                        
     default:
       total_quota = 1000;
       break;
