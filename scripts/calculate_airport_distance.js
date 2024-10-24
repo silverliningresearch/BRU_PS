@@ -95,13 +95,13 @@ function calculate_distance()
             if ((BRU_next_distance +next_final_distance) > 2*BRU_final_distance)
             {
               api.fn.answers({Q11_Detour_Check_Result: 1});     
-              api.fn.answers({Q11_Detour_Check: 1}); //used for condition           
+              api.fn.answers({Q11_Detour_Check: 1}); //used for condition - show info page          
               console.log("result: this route seems like a detour");     
             }
             else
             {
               api.fn.answers({Q11_Detour_Check_Result: 0});  
-              api.fn.answers({Q11_Detour_Check: 0}); //used for condition               
+              api.fn.answers({Q11_Detour_Check: 0}); //used for condition - hide info page                
               console.log("result: this route seems a actual route");  
             }
 
