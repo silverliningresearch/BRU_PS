@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BRU - Passenger Profiler Survey - TEST</title>
+    <title>BRU - Passenger Profiler Survey</title>
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link
@@ -33,7 +33,7 @@
 
   <body>
     <survalyzer-survey
-      surveyhash="vpkjrgwxow"
+      surveyhash="rkkspexegj"
       tenant="silverlining"
     ></survalyzer-survey>
 
@@ -83,14 +83,14 @@
             
             if (api.fn.getCurrentPageIndex() ===2) { 
               show_flight_search_box();
-
-              getRandomServices();
               
-              api.fn.answers({test_mode: 1});              
+              getRandomServices();           
+              
+              //TEST
+              api.fn.answers({test_mode: 0});  
 
             } else {
               hide_flight_search_box();
-
             }
 
             if (api.fn.getCurrentPageIndex() ===7) {
@@ -116,6 +116,7 @@
             //before 2023.10.28: 62
             //2023.10.28: 66 (add 4 washroom)
             //2024.07.25: add 3 water refill quests: 68==> 71)
+            //2024.10.24: add service & amenities  quests: 71==> 72)
             if (api.fn.getCurrentPageIndex() ===72) { 
               show_postal_code_search_box();
             } else {
@@ -131,7 +132,7 @@
               }, 1 * 1000); //1 second
             }
             else {
-              api.fn.answers({Q11_Detour_Check: 0}); //used for condition
+              api.fn.answers({Q11_Detour_Check: 0}); //used for condition - hide info page  
             }
           }
           
