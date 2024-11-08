@@ -8,16 +8,13 @@ function find_postal_code(list, item) {
   if (item) {
     if (item !== "") {
       for (i = 0; i < list.length; i++) {
-        if ((list[i].show.toLowerCase() === item) 
-            || (list[i].Code.toLowerCase()==item))
-          {
+        if (list[i].show.toLowerCase() === item) {
           $('.rt-btn.rt-btn-next').show(); 
           return true;
         }
       }
     }
   }
-  
   //$('.rt-btn.rt-btn-next').hide(); 
   return false;
 }
@@ -118,9 +115,7 @@ function select_postal_code() {
   
   for (i = 0; i < postalCodeShortList.length; i++) {
     var currentPostalCode = postalCodeShortList[i];
-    if ((currentPostalCode.show == selectedPostalCode)
-        || (currentPostalCode.Code == selectedPostalCode)) //also accept if the code is valid
-       { 
+    if (currentPostalCode.show == selectedPostalCode) { 
       console.log("selectedPostalCode: ", currentPostalCode);
       api.fn.answers({Core_Q56:  currentPostalCode.Code});
       api.fn.answers({Q56_Catchment:  currentPostalCode.Catchment});
