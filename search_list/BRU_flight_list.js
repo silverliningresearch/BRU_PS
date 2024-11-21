@@ -14937,6 +14937,19 @@
   "Airline": "RwandAir",
   "A_D": "D"
  },
+  {
+  "Date": "21-11-2024",
+  "Time": "1820",
+  "Dest": "KGL",
+  "DestName": "Kigali",
+  "Next": "CDG",
+  "NextName": "Paris CDG",
+  "Schengen": "N",
+  "Flight": "WB700",
+  "AirlineCode": "WB",
+  "Airline": "RwandAir",
+  "A_D": "D"
+ },
  {
   "Date": "21-11-2024",
   "Time": "1825",
@@ -20501,6 +20514,20 @@
   "Airline": "RwandAir",
   "A_D": "D"
  },
+ {
+  "Date": "23-11-2024",
+  "Time": "1820",
+  "Dest": "KGL",
+  "DestName": "Kigali",
+  "Next": "CDG",
+  "NextName": "Paris CDG",
+  "Schengen": "N",
+  "Flight": "WB700",
+  "AirlineCode": "WB",
+  "Airline": "RwandAir",
+  "A_D": "D"
+ },
+
  {
   "Date": "23-11-2024",
   "Time": "1825",
@@ -28262,6 +28289,19 @@
   "Airline": "RwandAir",
   "A_D": "D"
  },
+  {
+  "Date": "26-11-2024",
+  "Time": "1820",
+  "Dest": "KGL",
+  "DestName": "Kigali",
+  "Next": "CDG",
+  "NextName": "Paris CDG",
+  "Schengen": "N",
+  "Flight": "WB700",
+  "AirlineCode": "WB",
+  "Airline": "RwandAir",
+  "A_D": "D"
+ },
  {
   "Date": "26-11-2024",
   "Time": "1825",
@@ -33627,6 +33667,19 @@
   "NextName": "Paris CDG",
   "Schengen": "N",
   "Flight": "WB701",
+  "AirlineCode": "WB",
+  "Airline": "RwandAir",
+  "A_D": "D"
+ },
+  {
+  "Date": "28-11-2024",
+  "Time": "1820",
+  "Dest": "KGL",
+  "DestName": "Kigali",
+  "Next": "CDG",
+  "NextName": "Paris CDG",
+  "Schengen": "N",
+  "Flight": "WB700",
   "AirlineCode": "WB",
   "Airline": "RwandAir",
   "A_D": "D"
@@ -39100,6 +39153,19 @@
   "NextName": "Paris CDG",
   "Schengen": "N",
   "Flight": "WB701",
+  "AirlineCode": "WB",
+  "Airline": "RwandAir",
+  "A_D": "D"
+ },
+  {
+  "Date": "30-11-2024",
+  "Time": "1820",
+  "Dest": "KGL",
+  "DestName": "Kigali",
+  "Next": "CDG",
+  "NextName": "Paris CDG",
+  "Schengen": "N",
+  "Flight": "WB700",
   "AirlineCode": "WB",
   "Airline": "RwandAir",
   "A_D": "D"
