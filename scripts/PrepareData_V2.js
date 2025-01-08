@@ -146,7 +146,7 @@ function prepareInterviewData() {
   quota_data = [];
   quota_data.length = 0;
   for (i = 0; i < quota_data_temp.length; i++) {
-    if (quota_data_temp[i].Quarter == currentQuarter)
+    if ((quota_data_temp[i].Quarter == currentQuarter) && (quota_data_temp[i].Quota > 0))
     {
       quota_data.push(quota_data_temp[i]);
     }
