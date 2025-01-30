@@ -3248,7 +3248,7 @@
 {"Flight_To": "3O112-CMN", "Dest": "CMN", "Quota": "24", "Quarter": "2025-Q1"},
 {"Flight_To": "3O118-FEZ", "Dest": "FEZ", "Quota": "13", "Quarter": "2025-Q1"},
 {"Flight_To": "3O116-NDR", "Dest": "NDR", "Quota": "16", "Quarter": "2025-Q1"},
-{"Flight_To": "3O852-OUD", "Dest": "OUD", "Quota": "14", "Quarter": "2025-Q1"},
+{"Flight_To": "3O852-OUD", "Dest": "OUD", "Quota": "19", "Quarter": "2025-Q1"},
 {"Flight_To": "3O136-RBA", "Dest": "RBA", "Quota": "14", "Quarter": "2025-Q1"},
 {"Flight_To": "3O114-TNG", "Dest": "TNG", "Quota": "41", "Quarter": "2025-Q1"},
 {"Flight_To": "3O134-TNG", "Dest": "TNG", "Quota": "20", "Quarter": "2025-Q1"},
@@ -3467,7 +3467,7 @@
 {"Flight_To": "SN359-FIH", "Dest": "FIH", "Quota": "39", "Quarter": "2025-Q1"},
 {"Flight_To": "SN3139-FLR", "Dest": "FLR", "Quota": "6", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2607-FRA", "Dest": "FRA", "Quota": "112", "Quarter": "2025-Q1"},
-{"Flight_To": "SN2609-FRA", "Dest": "FRA", "Quota": "0", "Quarter": "2025-Q1"},
+{"Flight_To": "SN2609-FRA", "Dest": "FRA", "Quota": "3", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2611-FRA", "Dest": "FRA", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2613-FRA", "Dest": "FRA", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2615-FRA", "Dest": "FRA", "Quota": "0", "Quarter": "2025-Q1"},
@@ -3478,7 +3478,7 @@
 {"Flight_To": "SN1197-GNB", "Dest": "GNB", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2317-GOT", "Dest": "GOT", "Quota": "39", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2319-GOT", "Dest": "GOT", "Quota": "42", "Quarter": "2025-Q1"},
-{"Flight_To": "SN1821-GVA", "Dest": "GVA", "Quota": "0", "Quarter": "2025-Q1"},
+{"Flight_To": "SN1821-GVA", "Dest": "GVA", "Quota": "3", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2711-GVA", "Dest": "GVA", "Quota": "40", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2713-GVA", "Dest": "GVA", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "SN2719-GVA", "Dest": "GVA", "Quota": "13", "Quarter": "2025-Q1"},
@@ -3608,7 +3608,7 @@
 {"Flight_To": "TB9751-KAO", "Dest": "KAO", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "TB9753-KAO", "Dest": "KAO", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "TB9610-KRK", "Dest": "KRK", "Quota": "0", "Quarter": "2025-Q1"},
-{"Flight_To": "TB2001-KTT", "Dest": "KTT", "Quota": "4", "Quarter": "2025-Q1"},
+{"Flight_To": "TB2001-KTT", "Dest": "KTT", "Quota": "9", "Quarter": "2025-Q1"},
 {"Flight_To": "TB2003-KTT", "Dest": "KTT", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "TB2017-KTT", "Dest": "KTT", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "TB9755-KTT", "Dest": "KTT", "Quota": "0", "Quarter": "2025-Q1"},
@@ -3673,7 +3673,7 @@
 {"Flight_To": "W62284-BUD", "Dest": "BUD", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "WB701-KGL", "Dest": "KGL", "Quota": "61", "Quarter": "2025-Q1"},
 {"Flight_To": "WF1891-BGO", "Dest": "BGO", "Quota": "8", "Quarter": "2025-Q1"},
-{"Flight_To": "XC7621-AYT", "Dest": "AYT", "Quota": "3", "Quarter": "2025-Q1"},
+{"Flight_To": "XC7621-AYT", "Dest": "AYT", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "XQ923-ADB", "Dest": "ADB", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "XQ933-ADB", "Dest": "ADB", "Quota": "21", "Quarter": "2025-Q1"},
 {"Flight_To": "XQ1457-AOE", "Dest": "AOE", "Quota": "0", "Quarter": "2025-Q1"},
@@ -3681,7 +3681,8 @@
 {"Flight_To": "XQ551-AYT", "Dest": "AYT", "Quota": "26", "Quarter": "2025-Q1"},
 {"Flight_To": "XQ553-AYT", "Dest": "AYT", "Quota": "0", "Quarter": "2025-Q1"},
 {"Flight_To": "XQ775-ESB", "Dest": "ESB", "Quota": "8", "Quarter": "2025-Q1"},
-{"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "27", "Quarter": "2025-Q1"}
+{"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "20", "Quarter": "2025-Q1"}
+
 
 
         
