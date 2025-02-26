@@ -1951,6 +1951,7 @@
 {"Dest_Airlines": "CPH-SN", "Dest": "CPH", "Quota": "127", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "CUN-TB", "Dest": "CUN", "Quota": "23", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "CUR-TB", "Dest": "CUR", "Quota": "45", "Quarter": "2025-Q1"},
+{"Dest_Airlines": "DJE-BJ", "Dest": "DJE", "Quota": "", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "DJE-TB", "Dest": "DJE", "Quota": "3", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "DOH-QR", "Dest": "DOH", "Quota": "181", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "DSS-SN", "Dest": "DSS", "Quota": "33", "Quarter": "2025-Q1"},
@@ -2094,7 +2095,9 @@
 {"Dest_Airlines": "YUL-AC", "Dest": "YUL", "Quota": "130", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "ZAG-OU", "Dest": "ZAG", "Quota": "62", "Quarter": "2025-Q1"},
 {"Dest_Airlines": "ZRH-LX", "Dest": "ZRH", "Quota": "212", "Quarter": "2025-Q1"},
-{"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "38", "Quarter": "2025-Q1"}
+{"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "38", "Quarter": "2025-Q1"},
+{"Dest_Airlines": "TIA-ZB", "Dest": "TIA", "Quota": "4", "Quarter": "2025-Q1"}
+
 
 
 
