@@ -6300,7 +6300,7 @@
         {"airport": "Prieska, South Africa (PRK)"}, 
         {"airport": "Port Oceanic, United States (PRL)"}, 
         {"airport": "Portimao, Portugal (PRM)"}, 
-        {"airport": "Pristina International, Serbia (PRN)"}, 
+        {"airport": "Pristina International, Kosovo (PRN)"}, 
         {"airport": "Municipal, United States (PRO)"}, 
         {"airport": "Propriano, France (PRP)"}, 
         {"airport": "Pres. Roque Saenz Pena, Argentina (PRQ)"}, 
