@@ -2757,11 +2757,8 @@
 {"Flight_To": "XR7697-HRG", "Dest": "HRG", "Quota": "7", "Quarter": "2025-Q3"},
 {"Flight_To": "XR7923-RHO", "Dest": "RHO", "Quota": "8", "Quarter": "2025-Q3"},
 {"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "6", "Quarter": "2025-Q3"},
-{"Flight_To": "ZB7002-TIA", "Dest": "TIA", "Quota": "21", "Quarter": "2025-Q3"}
-
-
-
-        
+{"Flight_To": "ZB7002-TIA", "Dest": "TIA", "Quota": "21", "Quarter": "2025-Q3"},
+{"Flight_To": "TB3213-BJV", "Dest": "BJV", "Quota": "4", "Quarter": "2025-Q3"}
 ]
      
     `;

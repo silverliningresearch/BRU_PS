@@ -1386,7 +1386,7 @@
 {"Dest_Airlines": "BJL-SN", "Dest": "BJL", "Quota": "80", "Quarter": "2025-Q3"},
 {"Dest_Airlines": "BJV-FH", "Dest": "BJV", "Quota": "15", "Quarter": "2025-Q3"},
 {"Dest_Airlines": "BJV-SN", "Dest": "BJV", "Quota": "4", "Quarter": "2025-Q3"},
-{"Dest_Airlines": "BJV-TB", "Dest": "BJV", "Quota": "0", "Quarter": "2025-Q3"},
+{"Dest_Airlines": "BJV-TB", "Dest": "BJV", "Quota": "4", "Quarter": "2025-Q3"},
 {"Dest_Airlines": "BJV-XC", "Dest": "BJV", "Quota": "16", "Quarter": "2025-Q3"},
 {"Dest_Airlines": "BKK-TG", "Dest": "BKK", "Quota": "100", "Quarter": "2025-Q3"},
 {"Dest_Airlines": "BLQ-SN", "Dest": "BLQ", "Quota": "35", "Quarter": "2025-Q3"},
