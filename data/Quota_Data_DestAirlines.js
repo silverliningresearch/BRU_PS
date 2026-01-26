@@ -1873,7 +1873,6 @@
 {"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "194", "Quarter": "2025-Q4"},
 
 
-
 {"Dest_Airlines": "ABJ-SN", "Dest": "ABJ", "Quota": "86", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "ACC-SN", "Dest": "ACC", "Quota": "65", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "ACE-SN", "Dest": "ACE", "Quota": "6", "Quarter": "2026-Q1"},
@@ -2026,7 +2025,7 @@
 {"Dest_Airlines": "OTP-OE", "Dest": "OTP", "Quota": "15", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "OTP-RO", "Dest": "OTP", "Quota": "32", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "OUD-TB", "Dest": "OUD", "Quota": "14", "Quarter": "2026-Q1"},
-{"Dest_Airlines": "PEK-CA", "Dest": "PEK", "Quota": "74", "Quarter": "2026-Q1"},
+{"Dest_Airlines": "PEK-CA", "Dest": "PEK", "Quota": "52", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "PEK-HU", "Dest": "PEK", "Quota": "88", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "PMI-FR", "Dest": "PMI", "Quota": "3", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "PMI-SN", "Dest": "PMI", "Quota": "3", "Quarter": "2026-Q1"},
@@ -2061,7 +2060,7 @@
 {"Dest_Airlines": "TFS-HV", "Dest": "TFS", "Quota": "33", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "TFS-SN", "Dest": "TFS", "Quota": "60", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "TFS-TB", "Dest": "TFS", "Quota": "69", "Quarter": "2026-Q1"},
-{"Dest_Airlines": "TFU-CA", "Dest": "TFU", "Quota": "39", "Quarter": "2026-Q1"},
+{"Dest_Airlines": "TFU-CA", "Dest": "TFU", "Quota": "30", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "TLL-BT", "Dest": "TLL", "Quota": "21", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "TLS-SN", "Dest": "TLS", "Quota": "74", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "TLV-SN", "Dest": "TLV", "Quota": "61", "Quarter": "2026-Q1"},
@@ -2084,8 +2083,6 @@
 {"Dest_Airlines": "ZRH-ENT", "Dest": "ZRH", "Quota": "0", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "251", "Quarter": "2026-Q1"},
 {"Dest_Airlines": "", "Dest": "", "Quota": "", "Quarter": "2026-Q1"}
-
-
 
 
 ]

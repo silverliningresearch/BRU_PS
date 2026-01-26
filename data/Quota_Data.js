@@ -3251,8 +3251,8 @@
 {"Flight_To": "BT602-RIX", "Dest": "RIX", "Quota": "24", "Quarter": "2026-Q1"},
 {"Flight_To": "BT604-RIX", "Dest": "RIX", "Quota": "32", "Quarter": "2026-Q1"},
 {"Flight_To": "BT852-TLL", "Dest": "TLL", "Quota": "21", "Quarter": "2026-Q1"},
-{"Flight_To": "CA464-TFU", "Dest": "TFU", "Quota": "39", "Quarter": "2026-Q1"},
-{"Flight_To": "CA964-PEK", "Dest": "PEK", "Quota": "74", "Quarter": "2026-Q1"},
+{"Flight_To": "CA464-TFU", "Dest": "TFU", "Quota": "30", "Quarter": "2026-Q1"},
+{"Flight_To": "CA964-PEK", "Dest": "PEK", "Quota": "52", "Quarter": "2026-Q1"},
 {"Flight_To": "CX294-HKG", "Dest": "HKG", "Quota": "96", "Quarter": "2026-Q1"},
 {"Flight_To": "DL141-ATL", "Dest": "ATL", "Quota": "10", "Quarter": "2026-Q1"},
 {"Flight_To": "DN404-BCM", "Dest": "BCM", "Quota": "10", "Quarter": "2026-Q1"},
@@ -3575,7 +3575,6 @@
 {"Flight_To": "XQ775-ESB", "Dest": "ESB", "Quota": "7", "Quarter": "2026-Q1"},
 {"Flight_To": "XQ933-ADB", "Dest": "ADB", "Quota": "21", "Quarter": "2026-Q1"},
 {"Flight_To": "XY642-JED", "Dest": "JED", "Quota": "29", "Quarter": "2026-Q1"}
-
 
 
 ]
