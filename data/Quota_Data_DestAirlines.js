@@ -2084,6 +2084,7 @@
 {"Dest_Airlines": "ZRH-SN", "Dest": "ZRH", "Quota": "251", "Quarter": "2026-Q1"},
 
 
+
 {"Dest_Airlines": "ABJ-SN", "Dest": "ABJ", "Quota": "83", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "ACC-SN", "Dest": "ACC", "Quota": "15", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "ACE-SN", "Dest": "ACE", "Quota": "7", "Quarter": "2026-Q2"},
@@ -2154,7 +2155,7 @@
 {"Dest_Airlines": "CKY-SN", "Dest": "CKY", "Quota": "81", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "CMN-3O", "Dest": "CMN", "Quota": "35", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "CMN-AT", "Dest": "CMN", "Quota": "101", "Quarter": "2026-Q2"},
-{"Dest_Airlines": "CMN-TB", "Dest": "CMN", "Quota": "36", "Quarter": "2026-Q2"},
+{"Dest_Airlines": "CMN-TB", "Dest": "CMN", "Quota": "39", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "COO-SN", "Dest": "COO", "Quota": "71", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "CPH-SK", "Dest": "CPH", "Quota": "244", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "CPH-SN", "Dest": "CPH", "Quota": "190", "Quarter": "2026-Q2"},
@@ -2249,7 +2250,7 @@
 {"Dest_Airlines": "MLA-KM", "Dest": "MLA", "Quota": "56", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "MRS-SN", "Dest": "MRS", "Quota": "81", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "MUC-LH", "Dest": "MUC", "Quota": "60", "Quarter": "2026-Q2"},
-{"Dest_Airlines": "MUC-SN", "Dest": "MUC", "Quota": "330", "Quarter": "2026-Q2"},
+{"Dest_Airlines": "MUC-SN", "Dest": "MUC", "Quota": "341", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "MXP-SN", "Dest": "MXP", "Quota": "76", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "NAP-SN", "Dest": "NAP", "Quota": "51", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "NBE-TB", "Dest": "NBE", "Quota": "26", "Quarter": "2026-Q2"},
@@ -2306,6 +2307,7 @@
 {"Dest_Airlines": "SID-TB", "Dest": "SID", "Quota": "49", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "SIN-SQ", "Dest": "SIN", "Quota": "94", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "SKG-A3", "Dest": "SKG", "Quota": "28", "Quarter": "2026-Q2"},
+{"Dest_Airlines": "SKP-MI", "Dest": "SKP", "Quota": "3", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "SMI-SN", "Dest": "SMI", "Quota": "5", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "SMI-TB", "Dest": "SMI", "Quota": "4", "Quarter": "2026-Q2"},
 {"Dest_Airlines": "SOF-FB", "Dest": "SOF", "Quota": "29", "Quarter": "2026-Q2"},
