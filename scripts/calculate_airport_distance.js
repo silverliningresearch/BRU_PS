@@ -106,11 +106,11 @@ function calculate_distance()
             }
 
           } else {
-            console.log("Q11_airport Geocode was not successful for the following reason: ", status);
+            console.log("Q11 airport Geocode was not successful for the following reason: ", status);
           }
         });
     } else {
-      console.log("Q7_airport Geocode was not successful for the following reason: ", status);
+      console.log("Q7 airport Geocode was not successful for the following reason: ", status);
     }
   });
 }
