@@ -4488,6 +4488,7 @@ let Flight_To_Quota = `
         {"Flight_To": "VY8987-BCN", "Dest": "BCN", "Quota": "65", "Quarter": "2026-Q3"},
         {"Flight_To": "VY8989-BCN", "Dest": "BCN", "Quota": "36", "Quarter": "2026-Q3"},
         {"Flight_To": "WB701-KGL", "Dest": "KGL", "Quota": "67", "Quarter": "2026-Q3"},
+		{"Flight_To": "WB700-KGL", "Dest": "KGL", "Quota": "6", "Quarter": "2026-Q3"},
         {"Flight_To": "WF1891-BGO", "Dest": "BGO", "Quota": "13", "Quarter": "2026-Q3"},
         {"Flight_To": "XC1101-AOE", "Dest": "AOE", "Quota": "14", "Quarter": "2026-Q3"},
         {"Flight_To": "XC5015-AYT", "Dest": "AYT", "Quota": "31", "Quarter": "2026-Q3"},
